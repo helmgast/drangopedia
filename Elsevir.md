@@ -32,14 +32,18 @@ mordet på Castellosa, något som Elsevir tycker är sju resor värre. Elsevir h
 Esclarmonde, och den sistnämnde har implicit lovat att inte skada fler daaktroende, ett löfte som
 hon inte på något sätt bryr sig om att hålla.
 
-**Elsevirs kammare**\
+Elsevirs kammare
+--------
+
 Lite för sig själv, högt upp i en korridor som också leder ner till matsalen, har abbedissan sin
 kammare. Det är ett tämligen stort rum med en riktig säng, flera stora hyllor längs väggarna och ett
 prydligt ordnat skrivbord. Elsevir själv, som en är en mycket noggrann och organiserad slags ledare,
 spenderar mycket tid med att fylla i luntor, föra anteckningar och planera och detaljstyra klostrets
 olika verksamheter och behov.
 
-**Påkomna!**\
+Påkomna!
+--------
+
 Om rollpersonerna någonsin blir påkomna snokandes där de inte borde vara, eller när de borde vara på
 gudstjänst, kommer de att skickas till moder Elzevir för upptuktelse. Klarar rollpersonerna sig bra
 och är i gasen kan Påkomna! vara en onödig bromskloss, om de däremot är lite vacklande är händelsen

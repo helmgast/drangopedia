@@ -157,7 +157,7 @@ Persongalleri
 -   Syster [Mirella], Syster [Alaisina], Syster [Beatrix], noviser.
 -   Fader [Adritus], [Herm Nove]-precept med bruten fot
 -   Sir [Ignatius], även känd som Sir Armborst, Herm Nove-riddare
--   Sir [Marcos]†, Herm Nove-riddare, <s>sorgligt</s> bortgången
+-   Sir [Marcos]†, Herm Nove-riddare, ~~sorgligt~~ bortgången
 -   Sir [Tarinus av Belem], tystlåten Herm Nove-riddare
 -   Lady [Kalixia], [Svärdsystrarnas] stormästarinna
 -   Lady [Celina], svärdssyster

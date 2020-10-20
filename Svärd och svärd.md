@@ -19,7 +19,7 @@ oprecis för ändamålet. Jag ska försöka reda ut skar och ting här.
 Calanasvärd
 -----------
 
-Den närmaste historiska motparten till Calanasvärdet torde vara *Espada Ropera*[1][][2] med vissa
+Den närmaste historiska motparten till Calanasvärdet torde vara *Espada Ropera*[1][2] med vissa
 inslag av *Estoc*[3]. Notera att till skillnad från en Estoc har ett Calanasvärd en skärande egg
 (två t o m eftersom det är ett tveeggat vapen. :P).
 

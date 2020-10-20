@@ -32,7 +32,8 @@ under [Ryttarkriget] fick posten som Konungens förkämpe och högra hand. Han �
 av St Kira], och far till Dorin, 1 år, och Mianni, 5 år, och residerar med sin familj i [Kungliga
 slottet]. Han är en, med drunokiska mått mätt, ganska stor karl, med långt, ljusblont hår, breda
 axlar och mycket maskulin käklinje. Till sinnet är han ädel, lojal, behärskad, och klok. Stridsyxan
-är hans föredragna vapen, vilket är tämligen ovanligt bland ridderskapet i Drunok.\
+är hans föredragna vapen, vilket är tämligen ovanligt bland ridderskapet i Drunok.
+
 Pindon förtjänade riddarvärdigheten efter en Örnfestival för många år sedan, då han dök upp från
 ingenstans och presterade bättre i [Budbärarens ritt] än till och med någon ur ridderskapet. Trots
 sin enkla bakgrund dubbades han omgående till riddare av självaste kung [Akala Gahallan III],
@@ -47,7 +48,7 @@ innan händelserna under Ryttarkriget så småningom ledde honom till det kungli
 Det kan vara så att Pindon inte är riktigt så jordnära som han verkar; han tycks intresserad och
 oroad av vad som håller på att hända med världen, och har ofta bistått [Thizara] i diverse viktiga
 och mystiska ärenden. I hennes sällskap har han nedstigit i själva Underjorden, och stått öga mot
-öga med [Gebashan Häxkonungen] såväl som [Demjan Eldsfursten], drömmagikern i [Yonggurla].\
+öga med [Gebashan Häxkonungen] såväl som [Demjan Eldsfursten], drömmagikern i [Yonggurla].
 
   [Sir Pindons personliga vapen]: Pindon.jpg "Sir Pindons personliga vapen"
   [Ryttarkriget]: Ryttarkriget

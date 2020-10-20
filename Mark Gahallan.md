@@ -34,9 +34,10 @@ kap åt sin son eller ej.
 Mark rönte viss framgång i [Ryttarkriget], där han deltog i försvaret av [Val Ordos], och blev
 därefter känd som en god stridsman. Emellertid hjälpte detta föga mot de närmast övermänskliga
 varelser som dräpte honom i ett bakhåll i de nordvästra utmarkerna, på väg för att gästa hertigen av
-Val Ordos med sin familj.\
+Val Ordos med sin familj.
+
 Hertig Mark sörjs närmast av Mircalla och deras gemensamma son, [Virgil Gahallan]. Enligt envisa
-rykten lär den förra inte sakna honom allt för mycket, dock.\
+rykten lär den förra inte sakna honom allt för mycket, dock.
 
   [Hertig Marks personliga vapen]: Mark_Gahallan.jpg "Hertig Marks personliga vapen"
   [Tolrune Gahallan]: Tolrune_Gahallan

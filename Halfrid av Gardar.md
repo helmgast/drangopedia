@@ -30,7 +30,7 @@ Arlons Kronomark övergår i Illtariets vidder. Sir Halfrid har dock lämnat god
 livets mysterier, och ställa sin lans och sitt svärd till behövandes förfogande. Då och då uppsöker
 han hertig [Nicoz Mehzinors] domäner i Val Timan, för att uppvakta sin trolovade, lady [Po av
 Varád], en av hertigens husriddare. De båda har visst varit förälskade sedan ungdomen, då de
-träffades av och till under boskapsmarkander i Varád, lady Pos far jarl [Gesars] förläning.\
+träffades av och till under boskapsmarkander i Varád, lady Pos far jarl [Gesars] förläning.
 
   [Sir Halfrids personliga vapen]: Halfrid_av_Gardar.jpg "Sir Halfrids personliga vapen"
   [Brisa]: Brisa_av_Gardar

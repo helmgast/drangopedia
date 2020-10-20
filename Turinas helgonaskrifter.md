@@ -13,12 +13,12 @@ links:
 title: Turinas helgonaskrifter
 ---
 
--   Författare: [Jerbiton av Orvina]\
--   Språk: Sabriska (Thalaskisk skrift), jargisk översättning finns\
--   Läsbarhet: Svår (Ob4T6)\
--   Förkunskaper: Ockultism (Daak) 5\
--   Kunskapsinnehåll: Ockultism (Sabriska helgon) 9\
--   Tillgänglighet: Lättåtkomlig (Ob2T6)\
+-   Författare: [Jerbiton av Orvina]
+-   Språk: Sabriska (Thalaskisk skrift), jargisk översättning finns
+-   Läsbarhet: Svår (Ob4T6)
+-   Förkunskaper: Ockultism (Daak) 5
+-   Kunskapsinnehåll: Ockultism (Sabriska helgon) 9
+-   Tillgänglighet: Lättåtkomlig (Ob2T6)
 
 Den mest gedigna genomgången av Consabers alla helgonberättelser skrevs på 1300-talet sabrisk
 tideräkning av Jerbiton av Orvina. Boken är uyppdelad i tre volymer, som presenterar helgonen i

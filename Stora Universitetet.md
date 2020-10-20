@@ -104,7 +104,8 @@ sedan länge flagnat, men en del tak är utsmyckade med små bisarra skulpturer 
 fönsterkarmar och murkrön är ofta belagda med färgglada bårder i abstrakta blågröna och vita
 mönster. En berömd bit av insidan av yttermuren är smyckad med enorma [Orongohongo]-tecken inristade
 av ingen mindre än [Teron dor Golax], universitetets nuvarande överhuvud. De sägs betyda "Lärdomen
-skall för evigt segra", av de få som nu kan läsa dem.\
+skall för evigt segra", av de få som nu kan läsa dem.
+
 Bland särskilt viktiga objekt i universitetets samlingar märks [Garandor-skallen],
 [Lubandu-ristningarna], [Ahaotjamastavarna], [Stenäggen från Dabu], [Hongonfragmenten], [Coomarornas
 spira], en rustning av drakfjäll och tre bevingade mumier som påstås vara från [Kiva]. I
@@ -128,7 +129,7 @@ intellektuella arv i händelse av oroligheter. I krissituationer, såsom under [
 år sedan, förväntas också samtliga vapenföra studenter att hjälpa till med universitetets försvar.
 Detta ihop med de mäktiga murarna och det otillgängliga läget har gjort att universitetet genom sin
 existens gått i stort oantastat ur alla konflikter utom Sham-Ukin den Stores erövring av Garandor,
-då ovärdeliga skatter gick förlorade.\
+då ovärdeliga skatter gick förlorade.
 
   [lohemiska]: Lohemiska
   [Dembale-universitetet]: Dembale-universitetet

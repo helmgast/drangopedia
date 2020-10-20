@@ -7,7 +7,7 @@ links:
   - Listor
   - Portalsidor
   mention:
-  - '"Usurpatorn"'
+  - Usurpatorn
   - Abraxes
   - Agon
   - Atalante
@@ -37,17 +37,19 @@ links:
 title: Folk i Skugglandet
 ---
 
-**Det svarta hovet:**
+Det svarta hovet:
+--------
 
 -   [Dimmornas herre]
 -   [K'tenwe]
 -   [Ninmug]
 
-**Marmorhovet:**
+Marmorhovet:
+--------
 
 -   [Stenkonungen]
 -   [Daggblänkets furste]
--   [Atalante]\
+-   [Atalante]
 -   [Thisbe]
 -   [Agon]
 -   [Kato]
@@ -56,21 +58,23 @@ title: Folk i Skugglandet
 -   [Silverdagg]
 -   [Mäster Hagar]
 
-**Annorstädes:**
+Annorstädes:
+--------
 
 -   [Havsdjupens moder]
--   [Månört]<span style="text-decoration: underline;"></span>
+-   [Månört]
 -   [Sabera]
 -   [Kara]
 -   [Kapten Nordanvind]
 -   [Sjöstjärna]
 -   [Stenstodernas Furste]
 
-**Döda:**
+Döda:
+--------
 
 -   [L'wethme]
 -   [Xardu]
--   ["Usurpatorn"]
+-   "[Usurpatorn]"
 -   [Gamides]
 -   [Mokulinde]
 -   [Gwydion]
@@ -98,7 +102,7 @@ title: Folk i Skugglandet
   [Stenstodernas Furste]: Connelsgaith
   [L'wethme]: Lwethme
   [Xardu]: Xardu
-  ["Usurpatorn"]: Usurpatorn
+  [Usurpatorn]: Usurpatorn
   [Gamides]: Gamides
   [Mokulinde]: Mokulinde
   [Gwydion]: Gwydion

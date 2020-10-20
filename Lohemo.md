@@ -53,7 +53,7 @@ lohemiska furstestaterna var i princip bankrutta .
 
 Idag har Lohemo blivit något av en avkrok. Filosofen [Dido Teta-ata] benämnde ön "vår vördade,
 trötta gamla trädgårdsmästare", och syftade på dess minskade roll i arkipelagens politik samt mängd
-av gamla och mycket vackra furstesäten, ofta med extremt påkostade trädgårdar. Enligt [Garandors][]
+av gamla och mycket vackra furstesäten, ofta med extremt påkostade trädgårdar. Enligt [Garandors]
 [handelsråd] har Lohemos export minskat med nästan 50% sedan år 9800 arkipelagisk tid, detta har
 tillsammans med en massiv emigration av öns arbetsföra befolkning radikalt förändrat
 levnadsförhållandena på ön. Lohemo har dock fortfarande stora städer och en rik och, tack vare

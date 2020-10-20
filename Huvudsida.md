@@ -52,7 +52,7 @@ Pyssel
 Scenarier
 ---------
 
-<b>[De vita svalorna på berget Vostram]</b>
+- [De vita svalorna på berget Vostram]
 
   [Stora Arkipelagen]: Stora_Arkipelagen
   [Calnia]: Calnia

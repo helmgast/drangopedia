@@ -57,7 +57,9 @@ Du har studerat Tengrim, mûhadinsk skrift, för att lära dig mer om ditt urspr
 men egentligen lärde du dig inte så mycket om dig själv annat än att ingen vet vilka dina föräldrar
 var.
 
-**Personlighet** Du är en person som, om det inte varit för ditt utseende, få hade lagt märke till
+Personlighet
+--------
+Du är en person som, om det inte varit för ditt utseende, få hade lagt märke till
 inledningsvis. Du är en eftertänksam och tänkande varelse. Det är sällan du accepterar information
 utan att fundera över den. Ibland får du kritik för att du gör dig "onödigt svår" och per automatik
 ifrågasätter fakta som du bara borde acceptera. Det är dock ingenting du gör för att provocera, utan
@@ -68,7 +70,8 @@ på att förmedla detta. Din karaktär är försiktig, och även om du sällan u
 impulsivitet eller höjd röst kan man vara säker på att när du väl skrider till handling kommer det
 vara genomtänkt och med stor målmedvetenhet du agerar.
 
-**Relationer**
+Relationer
+--------
 
 [Beatrix] Beatrix fysik är imponerande och påminner dig något vad du en gång såg hos munkarna i din
 uppväxt. Ibland känns det som hon tittar konstigt på dig och du kan inte riktigt avgöra om det är

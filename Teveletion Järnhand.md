@@ -39,7 +39,7 @@ title: Teveletion Järnhand
 ---
 
 ![][1] Teveletion är ledaren för [Tia'shi Tarivei], en ambitiös och kallsinnig sanarialv med
-spektakulära magiska krafter. Han och hans <s>kamrater</s> kumpaner [Sassanarrion], [Nyare] och
+spektakulära magiska krafter. Han och hans ~~kamrater~~ kumpaner [Sassanarrion], [Nyare] och
 [Alariel] var besatta av att avslöja världens glömda förflutna och föra alversläktet till ny
 storhet, och gick med tiden allt längre i denna strävan, tills de på allvar blev ett hot mot
 [Liljans råds] intressen, för att inte tala om sanarialliansens kollektiva moral, och bannlystes.

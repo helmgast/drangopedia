@@ -12,15 +12,13 @@ links:
 title: Khakrasutra
 ---
 
--   Författare: [Khakra]\
--   Illustratör: [Djavan Izhan do Davag]\
--   Språk: Thalaskiska (thalaskisk skrift)\
--   Läsbarhet: Mycket svår (Ob5T6)\
--   Förkunskaper: Alstra Biotropi/ Psykotropi/ Pneumotropi/ Fototropi, Besvärjelse, Transformering,
-    Teoretisk Magi 12\
--   Kunskapsinnehåll: Formaliserade besvärjelser, Skumma effekter, Teoretisk Magi 13, Anatomi 10,
-    Förföra 10\
--   Tillgänglighet: Obskyr (Ob7T6)\
+-   Författare: [Khakra]
+-   Illustratör: [Djavan Izhan do Davag]
+-   Språk: Thalaskiska (thalaskisk skrift)
+-   Läsbarhet: Mycket svår (Ob5T6)
+-   Förkunskaper: Alstra Biotropi/ Psykotropi/ Pneumotropi/ Fototropi, Besvärjelse, Transformering, Teoretisk Magi 12
+-   Kunskapsinnehåll: Formaliserade besvärjelser, Skumma effekter, Teoretisk Magi 13, Anatomi 10, Förföra 10
+-   Tillgänglighet: Obskyr (Ob7T6)
 
 I denna ökända skrift förmedlar lumiandraken Khakra kontroversiella personlighetspsykologiska
 sanningar och suspekta besvärjelser till mänskligheten, däribland de gåtfulla 'Khakras osynliga

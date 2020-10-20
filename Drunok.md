@@ -20,7 +20,7 @@ title: Drunok
 
 Kungariket beläget nordöst om [Jargiska kejsardömet] och norr om [Asharinahalvön]. I huvudstaden
 [Arlon] styr kung [Gahallan] sitt rike. Kungen har stor makt och är känd för sin rättvisa samt sin
-förmåga att styra landet bort från konflikter med sina grannländer. Kungariket har <s>40.000</s>
+förmåga att styra landet bort från konflikter med sina grannländer. Kungariket har ~~40.000~~
 JÄTTEMÅNGA invånare. Drunok är ett platt och bördigt jordbruksland som producerar stora mängder
 spannmål. Jordbruksvarorna är lätta att sälja över gränsen in till den jargiska provinsen [Maulio].
 I övrigt livnär sig landet på den genomfartshandel som går på [Raunfloden] från Jargiska kejsardömet

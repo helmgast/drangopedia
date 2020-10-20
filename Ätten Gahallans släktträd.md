@@ -20,8 +20,8 @@ Drunoks konungaätt. Bara de allra viktigaste grenarnas äktenskap och avkomma �
 exempel [Alinnas av Pavara] barn och barnbarn är inte medtagna, ej heller [Renmars av Fågelängen]
 familj.
 
-![][1]
+![släktträd]
 
   [Alinnas av Pavara]: Alinna_av_Pavara
   [Renmars av Fågelängen]: Renmar_av_Fågelängen
-  [1]: Gahallansläktträd.jpg "Gahallansläktträd.jpg"
+  [släktträd]: Gahallansläktträd.jpg "Gahallansläktträd.jpg"

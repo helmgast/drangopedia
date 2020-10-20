@@ -42,7 +42,8 @@ barnaavlandet och således eskalerade raskt ett diskret skött förhållande mel
 fattig, riddare och en behagfull, men försummad, grevinna till en fullskalig skandal. Eftersom Piett
 var en hederlig karl erkände han utan omsvep frukten av deras affär som sin egen avkomma och därmed
 fanns det inga som helst hinder för den förorättade greven att få skilsmässa beviljad och sin
-otrogna hustru avhyst till närmaste kloster.\
+otrogna hustru avhyst till närmaste kloster.
+
 Piett var som bekant tämligen mån om att göra rätt för sig, och dessutom djupt förälskad i den
 numera föredetta grevinnan och beslöt sig därför att för att så gott han kunde rädda upp situationen
 och göra en någorlunda ärbar kvinna av henne. Som landlös riddare utan fast tjänst till någon var
@@ -66,14 +67,16 @@ gamle vapenbroder, den vandrande riddaren [Burwell av Cahain].
 Etien lärde sig snabbt att trivas med den buttre gamle riddaren och dennes kringflackande liv. Han
 fick en rejäl riddaruppfostran av den gamla skolan med tornerspel och tillfälliga tjänster hos olika
 adelsherrar. Sin första riktiga strid deltog han i vid femton års ålder, som riddar Burwells
-väpnare.\
+väpnare.
+
 En skandal involverande baronen av Deorabys andra dotters utomäktenskapliga havandeskap fick Etien
 att hastigt och lustigt bege sig till kolonierna i arkipelagen på obestämd framtid, även om han
 hävdar sin oskuld i frågan. En komplicerande faktor är onekligen att han inte kan bevisa sin oskuld
 utan att dra vanära över baronen av Crecgans unga hustru. Vanligtvis bor han som gäst hos sin syster
 [Arienne] och hennes [make] men ger sig ibland iväg på diverse mer eller mindre ridderliga äventyr.
 Han ägnar sig även åt en sporadisk, och ensidig, korrespondens med baron Deoraby som till påfallande
-stor del består av anklagelser och smädelser.\
+stor del består av anklagelser och smädelser.
+
 Etien bär svärdet [Claim Solais], ett arvegods efter sin far. Han är den ende överlevande i ätten
 Durmand och bär därför (liksom sin far) ättens vapensköld som sin egen. Blasoneringen är som följer:
 På en en grön sköld en balk i silver. Över detta en fläkt örn i kontrafärg. ![Etien Durmands
@@ -84,8 +87,8 @@ bland män i hans värv). Hans halmblonda hår brukar vara lite charmigt rufsigt
 tendens att falla ned i ett par spjuveraktiga blå ögon. Ett skönt anlete och sorgfri, uppsluppen och
 nästan skamlös natur gör honom väldigt populär bland kvinnor av både hög och låg börd men i regel
 brukar han vara relativt försiktig med att utnyttja detta till fullo, då en skandal till lätt hade
-kunnat kosta honom huvudet.\
-\
+kunnat kosta honom huvudet.
+
 Trots sitt kvinnotycke och enligt utsago mångfaldiga kärleksaffärer (han har hunnit med ett par, men
 inte i närheten så många som rykten gör gällande), har Etien förlorat sitt hjärta helt och
 fullständigt till den faliska kaptene [Svarta Arsinoë], även om han inte gör sig några illusioner om
@@ -98,15 +101,17 @@ Under torneringen på Saar gjorde Etien väl ifrån sig under dysten, mest iögo
 spektakulära utslagning av [Jahanet av Undas] på första anloppet. Vidare besegrade han även Sir
 [Milfrey] och Lady [Enry av Tír Chellaigh] i jämna och hårt utkämpade dyster innan han besegrades av
 Sir [Ysanar Ulthari], dock utan att slås ur sadeln och inte innan han brutit en lans mot den
-namnkunnige riddaren.\
+namnkunnige riddaren.
+
 Vid bohorden vann han än mer ära genom att leda sitt eget banér till seger efter att,
 uppseendeväckande nog, ha rekryterat bland annat [Clotaire] att kämpa under det. Det har sedan dess
 oavbrutet surrat rykten om varför denne smått legendariske hjälte skulle ställa upp under en
-relativt okänd sabrisk riddares banér.\
+relativt okänd sabrisk riddares banér.
+
 Etien fortsatte sitt uppseendeväckande beteende på Saar då han under segerbanketten offentligt
 skämde ut sin svåger [Marcel Devin de Ryon][make] med elaka antydningar om dennes manlighet och
-sedan oväntat seglade iväg mitt i natten.\
-\
+sedan oväntat seglade iväg mitt i natten.
+
 Efter en äventyrlig rundresa på jakt efter en samling gamla reliker bröt Etien och Arsinoë
 slutgiltigt upp, och hon seglade hem mot Caserion. Etien har numera ett någorlunda stabilt
 förhållande med krigarkvinnan [Wahi].

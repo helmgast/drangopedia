@@ -26,7 +26,7 @@ Samtidigt är det inte så enkelt, eftersom även en gud på jorden fortfarande 
 himmelen; det är [Kwarenah], Mhîms nåd, som ger de världsliga Mhîmerna deras [upphöjdhet].
 Fornzhaniska filosofer som [Tarluk] talade om Himlens nåd, hur en härskare kunde förlora sitt
 mandat, och detta är tankar som i någon mån levt vidare genom årtusendena. Det hela kokar ned till
-ett enkelt faktum, beskrivet bland annat i [Tawhârkeralan][]: Mhîm är ofelbar, och skulle Mhîm av
+ett enkelt faktum, beskrivet bland annat i [Tawhârkeralan]: Mhîm är ofelbar, och skulle Mhîm av
 någon anledning visa sig felbar, måste han därför förlorat sitt mandat att härska. Vad detta innebär
 i praktiken är att många Mhîmer varit oroliga för att misslyckas i olika sammanhang - myten om deras
 gudomliga makt och härlighet har ofta nått sådana proportioner att det vore en katastrof för deras

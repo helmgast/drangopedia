@@ -56,11 +56,13 @@ Viktiga tänkare, ze ancient wörrld:
 Tvådelad modell:
 
 "Himlens läror" (Awa'l Mhâma'a): Fata'a-exeges, keralatolkningar, rättsvetenskap, zhanisk mystik,
-geomanti, filosofi\
+geomanti, filosofi
+
 "De gamles läror" (Awa'l Ânim): Matematik, historia, läkekonst, kosmologi, edronitisk magiteori,
 filosofi, astronomi, geologi, biologi, etc etc
 
-**Mûhadinsk grundutbildning**
+Mûhadinsk grundutbildning
+--------
 
 Många mûhadinska barn får sin grundläggande bildning i Mhîmrättens tempelskolor. Dessa skolor är
 öppna för alla fria zhaner, Upphöjda såväl som barn av enklaste familj, koshaner såväl som kajiker,

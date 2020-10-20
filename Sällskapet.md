@@ -46,22 +46,22 @@ Medlemmar
 
 ![Sällskapets vapensköld]
 
--   *[Mzan Rezrek]*, kurfurste av Tzorfalz.\
--   [Meleka Rezrek], hans dotter.\
--   [Fru Gazira]\
--   [*Krigsfurst Jhemkor*]\
--   [Furst Pornaz]\
--   [Furst Rhaloz]\
+-   *[Mzan Rezrek]*, kurfurste av Tzorfalz.
+-   [Meleka Rezrek], hans dotter.
+-   [Fru Gazira]
+-   [*Krigsfurst Jhemkor*]
+-   [Furst Pornaz]
+-   [Furst Rhaloz]
 
 Deras lakejer:
 
--   [Cazimierz av Tzalavs hus]\
--   [Jhanna Cazelos]\
--   [Jhaza Vizin], härfurstinna av Gordrion.\
--   [Kapten Kardos]\
--   *[Mäster Kazan]*\
--   [Sjöfurst Marek]\
--   [Reirzan Tzorum], ärkefurste av Gordrion.\
+-   [Cazimierz av Tzalavs hus]
+-   [Jhanna Cazelos]
+-   [Jhaza Vizin], härfurstinna av Gordrion.
+-   [Kapten Kardos]
+-   *[Mäster Kazan]*
+-   [Sjöfurst Marek]
+-   [Reirzan Tzorum], ärkefurste av Gordrion.
 -   [Masharóv], erebomantiker
 
 Deras skapelser:
@@ -75,21 +75,17 @@ Deras allierade:
 
 Före detta medlemmar:
 
--   [Celdan]\
--   *[Szarazcon]*\
--   [Siroz Marin]\
+-   [Celdan]
+-   *[Szarazcon]*
+-   [Siroz Marin]
 
 Svarta Svärdets beskyddare på jakt efter rollisarna:
 
 -   [Zerem]
--   [Zhanna]\
+-   [Zhanna]
 
 Historia
 --------
-
-\
-\
-\
 
   [Gordrion]: Gordrion
   [Sällskapets vapensköld]: Sällskapet.jpg "Sällskapets vapensköld"

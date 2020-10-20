@@ -99,7 +99,7 @@ Apsara \[Rang 4\]
 **PSY:** 12 \[3T6+2\]\
 **VIL:** 14 \[3T6+4\]\
 **BIL:** 12 \[2T6+5\] **AGG:** 7 – Hotar (Observerar)\
-**Förflyttning:** 10 m/runda\*,**BF:** 9,5 kg**UK:** 7 rutor\
+**Förflyttning:** 10 m/runda\*,**BF:** 9,5 kg **UK:** 7 rutor\
 **Chockvärde:** 11,**Skadetålighet:** 5 rutor,**VINIT:** 10,**Insikt:** 7,**Qadosh**: 5
 
 *\*Apsaran kan flyga och simma upp till 3 gånger denna hastighet.*

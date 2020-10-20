@@ -30,7 +30,8 @@ något som associeras med åren precis efter vuxenriten i det kamorianska samhä
 Att som vuxen bli anklagad för att vilja tjäna stela är mycket förolämpande, och något mycket få
 kamorianer skulle riskera.
 
-**Ra'bul**\
+Ra'bul
+--------
 Den andra undantaget från cetas, de mest hederlösa individerna i det kamorianska samhället som ändå
 är så starka eller mäktiga att de inte helt lätt går att ignorera. De benämns "ra'bul", de skamlösa.
 En ra'bul är en som tycker sig ha rätt att kräva allt, som förolämpar och slår de som står emot
@@ -45,7 +46,8 @@ sättet att lösa problemet utan att förlora cetas. Skulle någon utomstående 
 denne ra'bul och döda eller fördriva henne på bekostnad av sin egen cetas är det mycket dåligt för
 hela klanen.
 
-**Dhuram**\
+Dhuram
+--------
 Benämning på den handling där en person slutgiltigen moraliskt besegrar sin motpart. Det handlar om
 grov förudmjukelse, total seger och fullständig dominans där man fullföljer sin seger över alla
 rimliga gränser. I de flesta fall kommer den som utför dhuram att förlora mycket cetas.
@@ -54,7 +56,8 @@ Dhuram är ett av de få fall där kamorianen medvetet bryter mot Jämviktens pr
 hon svarar med grymhet och övervåld. Kanske handlar det om att en klan behöver göra sig av med en
 ra'bul, någon av krigarna offrar då sin egen heder genom att begå dhuram mot ra'bulen.
 
-**Pe'tulad**\
+Pe'tulad
+--------
 Jämviktens princip, en filosofi som genomsyrar varje aspekt av det kamorianska samhället. Principen
 går i kort ut på att den optimala reaktionen på varje handling är en lika stark handling. Om vinden
 blåser i träden faller inte hela skogen, om en varg slår ett hjortkid söker inte hjortarna upp och
@@ -70,7 +73,8 @@ behöver, använder aldrig mer våld än situationen kräver, frossar inte, njut
 accepterar direkt och utan bitterhet om hon skulle förlora och själv bli dödad eller skadad i
 jakten.
 
-**So'rath**\
+So'rath
+--------
 För de kamorianska stammarnas överlevnads och framgångs skull är det livsviktigt att de individuella
 komponenterna fungerar optimalt. Ytterst faller ansvaret att känna sina styrkor och svagheter på den
 enskilde. Är någon för sjuk för att jaga ska denne erkänna detta, om en ledare inser att det finns

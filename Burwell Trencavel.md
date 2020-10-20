@@ -53,8 +53,8 @@ för sig och klär sig utmärkt i sabriska kretsar, men är också väl befaren 
 traditioner, språk och historia, något han delar med St Tyndall-munken [Claimon Trencavel], som är
 hans kusin på fädernet. Det är oklart hur väl de båda känner varandra, dock.
 
-**Resurser: ?**\
-**Rykte: 14 (Skum gentleman)**
+- **Resurser: ?**
+- **Rykte: 14 (Skum gentleman)**
 
   [Sir Burwells personliga vapen]: Burwell_Trencavel.jpg "Sir Burwells personliga vapen"
   [Raimon Trastamére av Aladene]: Raimon_Trastamére_av_Aladene

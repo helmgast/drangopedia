@@ -39,7 +39,8 @@ ansikte under en stor slokhatt, som får hans ögon att glimma i skuggan under b
 ständigt en piska att läxa upp bångstyriga slavar och underhuggare med, och är ständigt
 ackompanjerad av ett entourage av lismande gûrder.
 
-**Resurser: 11 (Slavar, underhuggare)**
+Resurser: 11 (Slavar, underhuggare)
+--------
 
   [Khaziz]: Khaziz_klan_Zolod
   [Homaxrat Hzamak]: Homaxrat_Hzamak

@@ -32,7 +32,7 @@ av en människa, och överlät administrationen av regionen till Cuvri'an.
 
 Det var ungefär vid den tiden som medlemmar i Cuvri'an uppmärksammade att Lian besatt märkliga
 förmågor. Antagligen hade de legat latenta och frambringats av den fruktansvärda stress hon genomled
-mot slutet av kantonand Thoyagas liv. I umgänget med [några][] [nya][] [vänner] ur hus Cuvri'an och
+mot slutet av kantonand Thoyagas liv. I umgänget med [några] [nya] [vänner] ur hus Cuvri'an och
 de nyskapade [Silverrävarna] mådde Lian allt bättre.
 
 Hon blev så småningom själv medlem i Silverrävarna.

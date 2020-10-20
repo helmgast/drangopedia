@@ -235,13 +235,14 @@ title: Thalamur
 Persongalleri
 -------------
 
-**Alean Ninarians hushåll & allierade**
+Alean Ninarians hushåll & allierade
+--------
 
 -   Magikrat [Alean Ninarian fin Visha], magikrat i [An-Thalamur], en kompetent men mycket gåtfull
     individ
--   Lady [Lilean <s>Visanni</s> Ninarian fin Visha], sanslöst blåblodig sanariälva
-    -   [Niamh Avanni fin Visha]†, hennes livvakt
-    -   [Lyshana], hennes halvalviska kammarjungfru
+-   Lady [Lilean ~~Visanni~~ Ninarian fin Visha], sanslöst blåblodig sanariälva
+-   [Niamh Avanni fin Visha]†, hennes livvakt
+-   [Lyshana], hennes halvalviska kammarjungfru
 -   Thakal [Saevan Suyanir Barsal], agent åt [Alean Ninarian], dekadent och svårmodig konstnär
 -   Tribunal Prokurator [Deheric Shadal]†, diplomat och informatör vid [Alean
     Ninarians][Alean Ninarian] hov
@@ -255,7 +256,8 @@ Persongalleri
 -   [Lostari Olo'om fin Coron'naiere], trubadur och magiteoretiker, en av Alean Ninarians
     studiekamrater
 
-**Silverskäran**
+Silverskäran
+--------
 
 -   [Amarkal do'Chavash], pensionerad jamada, högt uppsatt och excentrisk silverskäranmedlem
 -   [Keshin Suyanir Imzash], inte fullt så pensionerad jamada, hänsynslös sadist
@@ -270,7 +272,8 @@ Persongalleri
 -   [Diya] och [Haryo], kvinnliga lustdemoner
 -   [Bahir], deras "bror"
 
-**Svarta Stjärnan**
+Svarta Stjärnan
+--------
 
 -   Primas [Redris Mehanir Sangal], den [Svarta Stjärnans] grundare
 -   Gadh [Meras Garahir Bhar], en tidig medlem av den [Svarta Stjärnan][Svarta Stjärnans] som på
@@ -286,7 +289,8 @@ Persongalleri
 -   Strai [Samhan Borok], näslös veteran, Svarta Stjärnan-krigare
 -   [Lifem], hans kamrat, ung men härdad legoknekt
 
-**[Viscarinalliansen]**
+[Viscarinalliansen]
+--------
 
 -   [Jualla Bizar Alaya], magikrat av Sava-tribunalen
 -   [Thatiz do Andor Zadhaz], primas inom Ifka-tribunalen
@@ -295,7 +299,8 @@ Persongalleri
 -   [Igditer Valomir], ståthållare av [Kasmodiah]
 -   [Ribeas Hashon], Kasmodiahs marskalk
 
-**Ivani-tribunalen:**
+Ivani-tribunalen:
+--------
 
 -   Primas [Lashtor Chagidal do Valach], ambitiös militär
 -   [Ximor]†, Rakhoris samordnare
@@ -303,10 +308,11 @@ Persongalleri
 -   Lektor [Zimri Cartika thal Qatada], Sanguis andra dotter, Sharas högra hand
 -   Thakal [Zia Cartika thal Qatada]†, Sanguis tredje dotter, numera sorgligt bortgången
 -   Thakal [Shirvan Cartika thal Qatada], Magikrat Sanguis yngsta dotter
-    -   [Adara]†, hennes tjänarinna
-    -   [Vykarotsar], Rakhori-man i Shirvans tjänst
+-   [Adara]†, hennes tjänarinna
+-   [Vykarotsar], Rakhori-man i Shirvans tjänst
 
-**Ivani-tribunalens [Elektorer][]:**
+Ivani-tribunalens [Elektorer]:
+--------
 
 -   Prefekt [Arganthor Olbes], hyser fetischistisk kärlek till armén, tros därför stötta [Lashtor
     Chagidal][Lashtor Chagidal do Valach]
@@ -322,7 +328,8 @@ Persongalleri
 -   Primas [Ashaldar Bakhor], konservativ och konspiratorisk, tros stötta [Shara Cartika] men
     möjligtvis [Ximor]
 
-**Im-Berefels hushåll & allierade**
+Im-Berefels hushåll & allierade
+--------
 
 -   Magikrat [Im-Berefel Ra'Drach do Kampa], excentrisk individ
 -   Primas [Vurgon Sulanga], herre av Ukor-Valash
@@ -334,7 +341,8 @@ Persongalleri
 -   [8], mumie
 -   [Davor Kashrutian], bibliotekarie i [Kasmodiah]
 
-**I Nordcolonan**
+I Nordcolonan
+--------
 
 -   Gadh [Vargin Ikhimir Harjad]†, tillförordnad borgherre av [Thoyagon]
 -   Strai [Radmak]†, åldrad veteran i Thoyagons garnison
@@ -351,20 +359,22 @@ Persongalleri
 -   [Gellan], hennes coloniske kamrat och medfånge
 -   [Rhokkag], tirakisk vägvisare i [Makarnos]
 
-**Lashorakh med omnejd**
+Lashorakh med omnejd
+--------
 
 -   Primas [Sekhar Nadir Khoron], chef
 -   Thakal [Arkyl], hans högra hand
 -   Thakal [Pamak Lugalir Qudok], hans vänstra hand, gammal bekant till Saevan
 -   [Talya Amidira Voroga], framstående köpman
 
-**I Seredan och Ossaindalen**
+I Seredan och Ossaindalen
+--------
 
 -   Greve [Margon Ulthari] av Seredan, huserar nu i [Varglyan]
-    -   Sir [Breodan], hans oäkta son
+-   Sir [Breodan], hans oäkta son
 -   Lady [Enid Ulthari], hans hustru
-    -   Sir [Cleodric], deras son
-    -   [Alys] och [Emlyn], deras döttrar
+-   Sir [Cleodric], deras son
+-   [Alys] och [Emlyn], deras döttrar
 -   Sir [Theobald], sir [Rollo Castanet], sir [Pons de Flambeau], lady [Ceridwen av Varney]; riddare
     i Varglyan
 -   [Floid], dvärgvuxen hovnarr
@@ -376,14 +386,16 @@ Persongalleri
 -   ["Lynn"], misstänkt Rakhori-agent, numera enarmad
 -   [Torbol], en storvuxen krigare, överlevare från Qorchis följe
 
-**I Rinyaskogen, Olanden och dess Skuggland**
+I Rinyaskogen, Olanden och dess Skuggland
+--------
 
 -   [Kuberon], Köldens herre
 -   [Vani'a], en före detta namnlös skuggvarelse från [Rimfrosthovet]
 -   [Gråfot]†, en henéaschaman av Tivikistammen
-    -   [Sakha], hennes bundna ande
+-   [Sakha], hennes bundna ande
 
-**Övriga thalasker**
+Övriga thalasker
+--------
 
 -   [Reubin Xirhamir Jesbin][Jesbin], magikrat av [Kholonan-tribunalen], tror på fruktan, vrede och
     vedergällning.
@@ -392,7 +404,8 @@ Persongalleri
 -   [Sarila], mystisk Rakhorikvinna, tycks numera leda vad som återstår av [De tolv]
 -   [Ira Menari], Khakras lärling
 
-**Övriga sabrier**
+Övriga sabrier
+--------
 
 -   Blason [Tearlach Machirnan sìol Sunahye t’an Yeneashen]
 -   Adept [Áine Machirnan sìol Sunahye]
@@ -403,7 +416,8 @@ Persongalleri
 -   Riddar [Cynwall av Arsacke], rovriddare
 -   Fader [Vitoft], prelat i Arsacke och kumpan till riddar [Cynwall av Arsace]
 
-**Hoëluns rauner**
+Hoëluns rauner
+--------
 
 -   [Hoëlun khan Irgen], furstedotter i exil
 -   [Barke], hennes högra hand
@@ -413,7 +427,7 @@ Persongalleri
 -   [Tsatäi], en åldrad ihana
 -   [Nanjima], fryntlig matriark
 -   [Hangur]†, hård krigare, dödad av [Riasha]
-    -   [Adov], [Yiguz], hans medkonspiratörer
+-   [Adov], [Yiguz], hans medkonspiratörer
 -   [Chenre], ung kvinna med arg bror
 -   [Dolchik]†, hennes bror, kluven i två
 -   [Tsanbur], ung man med klumpfot
@@ -421,32 +435,35 @@ Persongalleri
 -   [Güyug khan Irgen], Hoëluns far, förmodat död
 -   [Kamag], ung spjutkastare, överlevare från Qorchis följe
 
-**Övriga raunlänningar**\
-\*[Tayug], en furste i exil
+Övriga raunlänningar
+--------
 
+-   [Tayug], en furste i exil
 -   [Gamad], khagan av [Varghorden]
 -   [Hadantabur], storkhagan av [Den silverne ökenvargen]
 -   [Körug], khan av Åskhordens svarta banér
-    -   [Koomag], [Sabaarun], krigare i Svarta banéret
+-   [Koomag], [Sabaarun], krigare i Svarta banéret
 
-**Rhiannons rebeller**
+Rhiannons rebeller
+--------
 
 -   [Rhiannon sìol Leath-Shùile], änka till Tokons ard righ
 -   [Eira], hennes dotter
 -   [Aidann], hennes son
 -   [Kymnenos], colonisk general och råttjägare
 -   [Bran sìol Marn],tokonkrigare, [Lianns] make
-    -   [Siorn]†, [Cafall], [Lothar], [Tem]†, hans krigare
+-   [Siorn]†, [Cafall], [Lothar], [Tem]†, hans krigare
 -   [Khrun klan Drezin hus Vartakh], kung i exil av Kholon-renk-Ghor-Drezin, före detta magikrat av
     Kholonan-tribunalen
 -   [Prolom Eframir Hohórga], landsflyktig colonisk kantonand
 -   [Beyuni], hans hustru
 
-**Saknade efter Sankt Baraxor**
+Saknade efter Sankt Baraxor
+--------
 
 -   [Esgithe], Rhiannons dotter
 -   Sir [Berengar], sir [Anselm Posigien], Sir [Ildefons Rhoderyn], St Eobothsriddare
-    -   [Bernard Carmuc], en St Eoboth-sergeant
+-   [Bernard Carmuc], en St Eoboth-sergeant
 -   [Jehana Nadira Vechédim], tidigare konkubin åt [Reubin Xirhamir Jesbin][Jesbin], dotter till
     [Nadir Vechédim]
 -   [Liann][Lianns], colonisk adelsdam, före detta konkubin åt [Reubin Xirhamir Jesbin][Jesbin]
@@ -454,16 +471,19 @@ Persongalleri
     Jesbin][Jesbin]
 -   [Thyrhana], före detta konkubin åt [Jesbins][Jesbin]
 
-**se också [Folk i Calnia]**
+Se också [Folk i Calnia].
 
-**Historiska personer**
+
+Historiska personer
+--------
 
 -   Magikrat [Hyraspes thal Qatada], av Ivani-tribunalen
 -   Magikrat [Khezim klan Drezin hus Vartakh], av Kholonan-tribunalen
 -   Kondikar [Zoharija Vechédim], Hyraspes underhuggare
 -   Thakal [Naman Vechédim], Hyraspes underhuggare
 
-**Forntidsalver i [Kini'an Tevela]**
+Forntidsalver i [Kini'an Tevela]
+--------
 
 -   [Corolin], ledare/ärkemagiker
 -   [Kaela]†, [Corondel], Illividan, Teneve; Corolins adjuntanter
@@ -472,7 +492,7 @@ Persongalleri
 -   [Kelmon], [Tialian], vapenmästare
 -   [Seska], ungmö, förälskad i Saevan
 
-**Fraktioner och organisationer**
+Fraktioner och organisationer
 ---------------------------------
 
 -   [Perina-tribunalen]
@@ -489,7 +509,8 @@ Persongalleri
 -   [Åskhorden], på väg tillbaka från fjärran östern
 -   [Yssuk Yül], mystisk fiendefraktion i uråldriga raunländska legender
 
-====**Platser** ====
+Platser
+---------------------------------
 
 -   [Thoyagon], [Terens myrar], [Nanlokes], [Ramsalos] - kantoner i nordcolononan
 -   [Kücündur], obskyrt pass genom nordvästra Kholonbergen
@@ -502,7 +523,7 @@ Persongalleri
 
   [Alean Ninarian fin Visha]: Alean_Ninarian_fin_Visha
   [An-Thalamur]: An-Thalamur
-  [Lilean <s>Visanni</s> Ninarian fin Visha]: Lilean_Visanni_fin_Visha_tan_Lytesse
+  [Lilean ~~Visanni~~ Ninarian fin Visha]: Lilean_Visanni_fin_Visha_tan_Lytesse
   [Niamh Avanni fin Visha]: Niamh_Avanni
   [Lyshana]: Lyshana
   [Saevan Suyanir Barsal]: Saevan_Suyanir_Barsal

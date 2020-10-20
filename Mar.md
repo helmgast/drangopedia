@@ -8,6 +8,6 @@ links:
 title: Mar
 ---
 
-![Sir Mars personliga vapen]\
+![Sir Mars personliga vapen]
 
   [Sir Mars personliga vapen]: Sir_Mar.jpg "Sir Mars personliga vapen"

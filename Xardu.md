@@ -26,7 +26,7 @@ vika undan urartade det fort i blodspillan. Xardu var inte så ohederlig att han
 envig, men han bussade sina män på Eithene, och när striden väl var över låg Nicoz och Eithene
 utslagna, och Xardu död med avhugget huvud. Ett dussin eller så av hans män hade stupat, och de få
 återstående krigarna stod blödande och utmattade och betraktade med häpnad och fruktan blodbadet
-omkring sig.\
+omkring sig.
 
   [Marmorhovets]: Marmorhovet
   [Nicoz]: Nicoz

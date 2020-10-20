@@ -29,7 +29,7 @@ lärde har slutit sig till att Amoyo måste härröra från [Tainos] uråldriga 
 darkenska språk, vilket gjort många på universiteten fascinerade av Amoyo. Den högt respekterade
 [Aricandor] menar dock att [Visselspråket] på [Tiro] är en mer sannolik rest av Taino-språk, vilket
 gör Amoyos ursprung till en öppen fråga. Aricandor lär någon gång försiktigt ha föreslagit att det
-skulle kunna härröra från [Lenonga].\
+skulle kunna härröra från [Lenonga].
 
   [Moyofolkets]: Moyo
   [lohemiskan]: Lohemiska

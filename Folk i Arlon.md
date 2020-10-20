@@ -59,7 +59,9 @@ links:
 title: Folk i Arlon
 ---
 
-![Arlons stadsvapen]**Kungliga hovet:**
+Kungliga hovet:
+--------
+![Arlons stadsvapen]
 
 -   [Kung Akala Gahallan III]
 -   [Drottning Bortaï den Fagra]
@@ -86,14 +88,16 @@ title: Folk i Arlon
 -   [Zelko], Ebhrons ambassadör
 -   [Bonifatius], legator åt [Caias Arcadius Ducas], princep av Merun.
 
-**Kabalaorden:**
+Kabalaorden:
+--------
 
 -   [Principus Morgan]
 -   [Mäster Zu]
 -   [Yidaniv do'Talok]
 -   [Kira]
 
-**Övriga:**
+Övriga:
+--------
 
 -   [Halarion], Certanis livvakt
 -   [Loribald Filbunke], en förmögen handelsman, halvhjärtad Xinukultist

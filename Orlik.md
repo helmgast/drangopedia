@@ -33,7 +33,8 @@ Exakt vad Orlik ville uppnå med detta har aldrig framgått, och hans köttsliga
 ändats i [Slaget om Arlon] där [Kumbanigash den Svarte] dräpte honom med [Zhat-kur-thorakh] och
 förjagade hans mörker med [Solens första strålar]. Häroldens själ levde vidare på Drömplanet,
 emellertid, och fortsatte hemsöka världen i skumma och olycksbådande syften, höljd i levande
-skuggor.\
+skuggor.
+
 Orliks primära kraft tycks vara den att framkalla fruktansvärda mardrömmar och hallucinationer hos
 alla som ser in i hans ögon. [Inalea] är särskilt känslig för detta. Han besitter också andra former
 av magi, såsom teleportation och levitation, ihop med den telepati samtliga av De Tystas präster
@@ -45,7 +46,7 @@ fysiska, brännande mörker som tycks härstamma från Häroldens egen värld.
 Det tycks möjligt att Härolden mött sitt slut sedan [Mido] klöv hans huvud med [Gudadräparen] i
 Drömriket, och de båda störtade ned i en till synes bottenlös avgrund. Ingen av dem har hörts av
 sedan dess. Ironiskt nog hade [Arkonten], Urmörkrets andra förkämpe, anlänt till Mundana kort före
-denna händelse.\
+denna händelse.
 
   [De Tysta]: De_Tysta
   [Bardis]: Bardis

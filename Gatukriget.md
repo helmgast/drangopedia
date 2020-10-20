@@ -43,14 +43,14 @@ title: Gatukriget
 +-----------------------------------------------------------+
 |                                        Stridande parter   |
 +-----------------------------------------------------------+
-| [Garandors lagmän][]\                                     |
-| [Eres Asra][]\                                            |
+| [Garandors lagmän]\                                     |
+| [Eres Asra]\                                            |
 | [Maharathaïm]                                             |
 +-----------------------------------------------------------+
 |                                         Befälhavare       |
 +-----------------------------------------------------------+
-| Brac [Martolomo Udantar][]\                               |
-| [Tenzen Zarashandu][]\                                    |
+| Brac [Martolomo Udantar]\                               |
+| [Tenzen Zarashandu]\                                    |
 | [Jhanna Palomian]                                         |
 +-----------------------------------------------------------+
 |                                             Styrkor       |
@@ -90,7 +90,7 @@ utnyttjas som billig arbetskraft i ytterligare framruschade husbyggen, vilket re
 olyckor såväl som fattigdom, brottslighet, och misär.
 
 Efter att ett väldigt hyreshus tillhörande den faliske byggherren Jhallo Jhamrimzez rasade samman
-över en tätt packad gata och dödade över hundra människor bestämde sig dåvarande [brac][] [Martolomo
+över en tätt packad gata och dödade över hundra människor bestämde sig dåvarande [brac] [Martolomo
 Udantar] för att sätta stopp för den nedåtgående spiral han ansåg att staden befann sig i, och efter
 mycket politiskt intrigerande fick han i [Örådet] igenom ett flertal dramatiska reformer, om än med
 liten marginal. De viktigaste av dessa var en lag som förbjöd borgenärer att ta ut ränta på de

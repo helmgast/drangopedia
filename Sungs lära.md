@@ -83,8 +83,8 @@ upphov till den fängslande, mångfacetterade värld de så älskar att begrunda
 Praktik
 -------
 
-<s>Det finns inga gudar att ty sig till som så i Sungs lära, inga böner att be och inga offer att
-göra</s>. Man har dock ett antal symboler och ritualer som anses hjälpa med att avlasta psyket och
+~~Det finns inga gudar att ty sig till som så i Sungs lära, inga böner att be och inga offer att
+göra~~. Man har dock ett antal symboler och ritualer som anses hjälpa med att avlasta psyket och
 underlätta eftertanke och andlig och fysisk renhet. Bland dessa märks meditation, inhalering av
 rökelse och tobak, rituella bad, och långa, ensamma vandringar ut i vildmarken. Endast verkligt
 heliga män brukar företa sig det senare, men meditation och bad är vanliga små ritualer även bland

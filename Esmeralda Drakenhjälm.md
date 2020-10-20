@@ -41,7 +41,8 @@ rå över båda hertigdömena, och konungen dömde snart att hon hade rätt i sa
 förstått sig på Drunoks uråldriga och komplexa regler för arvsordningar så väl som hon gjorde, och
 enligt kungens och hennes tolkning var hon nu rättmätig vasallfurstinna av två hertigdömen.
 Esmeralda Drakenhjälm fortsatte dock att insistera på att hon därtill var rättmätig furstinna av
-Thara och baronessa av Arpád, och kräver än idag att man ska återerövra hennes domäner i väster.\
+Thara och baronessa av Arpád, och kräver än idag att man ska återerövra hennes domäner i väster.
+
 Eftersom ärkehertiginnan är både kvinna, barnlös, och till åren kommen har hugade adelsmän i riket
 börjat blicka hungrigt efter hennes rika domäner. Arvtagare är, enligt ärkehertiginnan och konungen,
 [Telda av Navar], ärkehertiginnans systerdotters oäkta dotter med en av Bohuslavs kusiner (sedermera
@@ -66,7 +67,8 @@ vilket hon gör nästan konstant eftersom hon anser att hovet inte fungerar utan
 sig i sitt släktgods [Valdusborg], känt som Drunoks mäktigaste fästning. Hennes åldrade marskalk
 [Sir Nanmar] sköter annars slottet i hennes frånvaro.
 
-**Viktiga vasaller:**
+Viktiga vasaller:
+--------
 
 -   [Mardar Casen], jarl av Herishem
 

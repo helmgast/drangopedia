@@ -25,7 +25,8 @@ links:
 title: Syantecaran
 ---
 
-**Bakgrund**
+Bakgrund
+--------
 
 Fordom en av [drakalliansens] förgrundsgsgestalter, en egensinnig intrigör och beslutsfattare
 tillika en sällsynt stor och mäktig lumian. Slitningar mellan Syantecaran och drakalliansen började

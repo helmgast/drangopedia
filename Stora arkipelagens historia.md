@@ -90,8 +90,6 @@ Kiva fortsatte att existera i [Phunguwes] folks medvetande långt efter det att 
 Idag finns hur som helst allra flest myter och legender om Kiva i [ok'oarus] muntliga tradition,
 något som inte är så märkligt om man ser ok'oaru som ättlingar till phunguwe.
 
-\
-
 Sarathikonfederationen
 ----------------------
 
@@ -170,8 +168,6 @@ varandra, och överlevde mycket längre än någon trodde var möjligt. Omkring 
 phunguwe slutligen flera avgörande sjöslag mot tainoa, och lade därmed i princip hela arkipelagen,
 Moran undantaget, under sin kontroll. Först nu blev det omöjligt för Iset att stå emot phunguwe, som
 i en slutlig invasion år 6143 krossade honom och hans rike.
-
-\
 
 Tainoa
 ------

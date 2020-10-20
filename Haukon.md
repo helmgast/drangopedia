@@ -24,7 +24,8 @@ religiösa nit har på senare år givit vika för ålderdomens pragmatism, även
 för moralfrågor kvarstår hos honom. Mer av plikt än övertygelse har han också tjänat som präst i
 Jordmoderkulter i sina hemtrakter; som godsherre har bönderna mer eller mindre förväntat sig av
 honom att förrätta Jordmoder-riter vid årets högtider, och det är en viktig del i den traditionella
-relationen mellan frälset och bondeståndet, som Haukon är mån om att förvalta.\
+relationen mellan frälset och bondeståndet, som Haukon är mån om att förvalta.
+
 Sir Haukon är inte längre den stridsman han en gång var, lite stel i lederna efter många långa år
 och skador, men han kan fortfarande hantera både svärd och lans mer än väl. Oftast är det snarare
 hans erfarenhet och kunskap om lag och rätt, seder och bruk och taktik och strategi som kommer hans

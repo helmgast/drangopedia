@@ -26,7 +26,8 @@ title: Bernard den Okuvlige
 gränsen mot Asharien och [Cermira]. Han är en mäktig kämpe, men har börjat bli till åren kommen och
 ställer inte längre upp i turneringar och duster. Som "Protektor av de östra markerna" bär han
 fortfarande ansvaret, dock, att beskydda Drunok mot attacker från öster, vilket han gjort
-framgångsrikt under alla sina år - därav hans imponerande epitet.\
+framgångsrikt under alla sina år - därav hans imponerande epitet.
+
 En undergren av den anrika ätten Talarra är numera jarlar av [Vitterdal] och vasaller under Cermiras
 korrupte överjarl [Vidkun Kurvald], och Bernard har förgäves försökt göra anspråk på Vitterdal. Om
 Drunok inte vore så hotat i norr och väster hade det varit möjligt att det hela utmynnat i krig

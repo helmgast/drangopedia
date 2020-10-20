@@ -18,7 +18,8 @@ links:
 title: Veddo
 ---
 
-**Ulaqidak-stammen:**
+Ulaqidak-stammen:
+--------
 
 -   [Aalaqpugu]
 -   *[Jaujat]*

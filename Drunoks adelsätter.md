@@ -40,24 +40,22 @@ grävlingen.
 
 Prominenta medlemmar:
 
-Akala Gahallan III, kung av Drunok och Illtariet, furste av Pavara, riddare av Virgilorden, med
-flera titlar.\
-Dolis Agn och Vete, drottning av Drunok och Illtariet. Död 2964.\
-Rion, prins av Drunok och Illtariet, furste av Val Palane, riddare av Virgilorden. Landsförvisad och
-arvlös 2974.\
-Rianna, prinsessa av Drunok och Illtariet. Död 2973.
-
-Bortaï den Fagra khan Orkhon, drottning av Drunok och Illtariet, furstinna av Val Palane
-
-Tolrune Gahallan, furste av Valo, rikets överbefälhavare.\
-Mark Gahallan, Tolrunes son, hertig av Namira\
-Virgil Gahallan, Marks son, jarl av Tar och Vitterdal (vasall åt Ivan Dordaros)
+- Akala Gahallan III, kung av Drunok och Illtariet, furste av Pavara, riddare av Virgilorden, med
+flera titlar.
+- Dolis Agn och Vete, drottning av Drunok och Illtariet. Död 2964.
+- Rion, prins av Drunok och Illtariet, furste av Val Palane, riddare av Virgilorden. Landsförvisad och
+arvlös 2974.
+- Rianna, prinsessa av Drunok och Illtariet. Död 2973.
+- Bortaï den Fagra khan Orkhon, drottning av Drunok och Illtariet, furstinna av Val Palane
+- Tolrune Gahallan, furste av Valo, rikets överbefälhavare.
+- Mark Gahallan, Tolrunes son, hertig av Namira
+- Virgil Gahallan, Marks son, jarl av Tar och Vitterdal (vasall åt Ivan Dordaros)
 
 Vasaller:
 
-Husriddare:\
-Sir Cannar, riddare, marskalk av Valo.\
-Sir Pindon, konungens husriddare
+Husriddare:
+- Sir Cannar, riddare, marskalk av Valo.
+- Sir Pindon, konungens husriddare
 
 Ätten Palinaro
 
@@ -91,9 +89,9 @@ vänster sida svart. Ättens valspråk är ”Strävan är framgångens begynnel
 
 Prominenta medlemmar:
 
-Ruben Palinaro, furste av Kintikla, hertig av Sunnanmark. .\
-Dorin Palinaro, hertig av Lugdum, jarl av Silverfallet. .\
-Borsid Palinaro, jarl av Grimssalar.
+- Ruben Palinaro, furste av Kintikla, hertig av Sunnanmark.
+- Dorin Palinaro, hertig av Lugdum, jarl av Silverfallet.
+- Borsid Palinaro, jarl av Grimssalar.
 
 Ätten Dordaros
 
@@ -132,18 +130,18 @@ med en gyllene vindflöjel. Ättens valspråk är ”Memento mori”, och korpen
 
 Prominenta medlemmar:
 
-Ivan Dordaros, hertig av Altona\
-Ruprecht Dordaros, jarl av Nirva\
-Kamand Dordaros, jarl av Brek Ildun\
-Mircalla av Targus, g.m. Mark Gahallan, Ivans systerdotter
+- Ivan Dordaros, hertig av Altona
+- Ruprecht Dordaros, jarl av Nirva
+- Kamand Dordaros, jarl av Brek Ildun
+- Mircalla av Targus, g.m. Mark Gahallan, Ivans systerdotter
 
-Vasaller:\
-Tarros Dunkeld, jarl av Brek Khazim\
-Arngrim Dunkeld\
-Halsten Van Sola
+Vasaller:
+- Tarros Dunkeld, jarl av Brek Khazim
+- Arngrim Dunkeld
+- Halsten Van Sola
 
-Ätten Drakenhjälm\
-\
+Ätten Drakenhjälm
+
 Två hertigdömen
 
 Drakenhjälm är den adelsätt som förlorade mest i kriget mot Jargien, där deras furstendöme Thara
@@ -178,8 +176,8 @@ alltjämt en furstekrona. Ättens valspråk är X, och draken dess heraldiska dj
 
 Prominenta medlemmar:
 
-Esme Drakenhjälm, hertiginna av Valdus och Navar\
-Telda av Navar, hennes systerdotter
+- Esme Drakenhjälm, hertiginna av Valdus och Navar
+- Telda av Navar, hennes systerdotter
 
 Vasaller: Sir Nanmar
 
@@ -198,30 +196,29 @@ Sedan gamle hertig Dunkeld dog i ett överfall ihop med sin äldsta son och dott
 medlemmar bestått av tre bröder och en syster, alla barnlösa än så länge. De har givetvis några
 kusiner etc annorstädes, men dessa är av ringa vikt på den politiska scenen i Drunok.
 
-Hertig Njal Dunkeld av Illtariet\
-Tarros Dunkeld, jarl av Brek Khazim\
-Arngrim Dunkeld, jarl av Vedrin\
-Tyra av Vedrin
+- Hertig Njal Dunkeld av Illtariet
+- Tarros Dunkeld, jarl av Brek Khazim
+- Arngrim Dunkeld, jarl av Vedrin
+- Tyra av Vedrin
 
-Ätten Agn och Vete\
+Ätten Agn och Vete
 Rehelm Agn och Vete, hertig av
 
 Dunaätten
 
 Ätten Tornfalk
 
-Ätten Talarra\
-Bernard den Okuvlige, hertig av Talarra\
+Ätten Talarra
+Bernard den Okuvlige, hertig av Talarra
 Adela av Talarra
 
 Ätten Klippa
 
-Ätten Trevena\
-Malkom Trevena, kung av Utmark\
-Valdemar Trevena\
-Aros Trevena\
-Vigrid Trevena\
+Ätten Trevena
+Malkom Trevena, kung av Utmark
+Valdemar Trevena
+Aros Trevena
+Vigrid Trevena
 Nierika av Durum
 
-Borsiderna\
-\
+Borsiderna

@@ -45,15 +45,15 @@ title: Det gamla karaktärsregistret
 -   [Folk i Drunok]
 -   [Folk i Jargien]
 -   [Folk i Kraggbergen & Utmark]
--   [Folk i Skugglandet][][Folk\_i\_Yonggurla]
+-   [Folk i Skugglandet][Folk\_i\_Yonggurla]
 -   [Folk i Tarkas]
--   [Folk i Västlanden]\
+-   [Folk i Västlanden]
 -   [Gudar och andra überväsen]
 -   [Urskuggvarelser]
 -   [Sällskapet]
 -   [Veddo]
--   [Vandöda]\
--   [Dött folk]\
+-   [Vandöda]
+-   [Dött folk]
 
   [La Grande Karaktärsregister]: La_Grande_Karaktärsregister
   [Nicoz hov]: Nicoz_hov

@@ -58,7 +58,8 @@ ha rätt; Saevan hade en oanad fallenhet för magi, i synnerhet fototropi, och g
 Konsten förblev dock hans stora passion och magin gav honom ytterligare sätt att få utlopp för den.
 
 Alean Ninarian agerade till och från som mentor åt Saevan och vann hans tillit. Saevan kom att bli
-så gott som obrottsligt lojal åt sin Magikrat och en av hans mer betrodda agenter.\
+så gott som obrottsligt lojal åt sin Magikrat och en av hans mer betrodda agenter.
+
 Saevan tror helhjärtat på drömmen om ett återupprättat Colonan, men hade helst sett det åstadkommas
 med minimal blodspillan. Han är dock inte naiv nog att tro att processen kan ske helst oblodigt,
 särskilt inte när det gäller att störta Consabers förtryckande feodalsystem och vidskepliga

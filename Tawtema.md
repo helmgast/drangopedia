@@ -17,7 +17,7 @@ mån som en sorts udda valuta av ofattbart värde; ju större och äldre och vac
 det värt. Gamla tawtematräd sträcker sig inte sällan mer än 50 meter över marken, och antas vara
 åtskilliga sekel (somliga säger millennier) gamla. Enligt legenderna fördes fröna till de äldsta av
 dessa träd över havet från [Kiva], vars ljus ännu kan anas när regndroppar gnistrar i deras blekblå
-blommor.\
+blommor.
 
   [Ok'oaru]: Okoaru
   [Kiva]: Kiva

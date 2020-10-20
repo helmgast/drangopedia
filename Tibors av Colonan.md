@@ -40,7 +40,7 @@ vemod som ofta märks i hennes sånger. Hon är lite mörkare i hyn än sabrier 
 som skvallrar om ett tydligt [neromenziskt] påbrå, och bär sitt mörkbruna hår i en lång fläta
 invirad med guldtråd på typiskt thalaskiskt manér. I klädväg bär hon alltid sabriska klänningar för
 att bättre smälta in, men gärna med dubbla bälten, som i Thalamur. Hon går sällan någonstans utan en
-harpa, luta eller något annat av de otaliga instrument hon tycks behärska. Hon är 19 år gammal.\
+harpa, luta eller något annat av de otaliga instrument hon tycks behärska. Hon är 19 år gammal.
 
   [Tiborashras personliga vapen, lagt på en sabrisk kvinnosköld]: Tibors_av_Colonan.jpg
     "Tiborashras personliga vapen, lagt på en sabrisk kvinnosköld"

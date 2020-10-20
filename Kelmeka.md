@@ -38,7 +38,7 @@ djupt vatten, och exempelar har aldrig påträffats utanför qwandalos öar. Bla
 som lovat qwandalos representant i [Örådet] att ta itu med kemelka-fasan. Mandagors expeditioner
 till qwandalo-öarna har varit omgärdade av stor mystik, men det tycks faktiskt som att de genererat
 resultat - om inte annat har några nyttoväxter endemiska för öarna räddats undan och planterats på
-annat håll i Arkipelagen.\
+annat håll i Arkipelagen.
 
 Ursprung
 --------

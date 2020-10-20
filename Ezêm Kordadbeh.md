@@ -21,14 +21,14 @@ links:
 title: Ezêm Kordadbeh
 ---
 
--   **Författare:** Okänd\
--   **Språk:** Klassisk edronitiska (Tengrim)\
--   **Läsbarhet:** Mycket svår (Ob5T6)\
--   **Förkunskaper:** Bibliotekskunskap 12, Historia 7\
+-   **Författare:** Okänd
+-   **Språk:** Klassisk edronitiska (Tengrim)
+-   **Läsbarhet:** Mycket svår (Ob5T6)
+-   **Förkunskaper:** Bibliotekskunskap 12, Historia 7
 -   **Kunskapsinnehåll:** Astrologi 7, Djurlära 7, Geografi 8 (Forntida), Historia 14 (Forntida),
     Kulturkännedom 9 (Västlanden), Ockultism 10 (Forntida religion, kosmologi), Räkning 6, Teoretisk
-    magi 5, Växtlära 8 (Västlanden)\
--   **Tillgänglighet:** Ovanlig (Ob5T6)\
+    magi 5, Växtlära 8 (Västlanden)
+-   **Tillgänglighet:** Ovanlig (Ob5T6)
 
 Ezêm Kordadbeh betyder 'vägarnas och kungarikenas bok'. Den sammanställdes, vad man vet, i
 stadsstaten [Alkarzan] för omkring 5000 år sedan, på uppdrag av en av kejsarna av [Edron], sannolikt

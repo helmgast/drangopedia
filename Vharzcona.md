@@ -27,7 +27,8 @@ svingas genom luften, nästan som om stålet sjöng. Av denna anledning kändes 
 att ge svärdet namnet Vindsång (Vharzcona på cirefaliska).
 
 Vharzcona har med tiden visat sig vara ett ytterst dödligt vapen; Nicoz har vid ett flertal
-tillfällen dekapiterat motståndare i strid med det.\
+tillfällen dekapiterat motståndare i strid med det.
+
 Nicoz använde Vharzcona när han, med viss framgång, deltog i Svärdsspelen 5020 f.t. Till publikens
 missnöje förekom inga avhuggna huvuden.
 

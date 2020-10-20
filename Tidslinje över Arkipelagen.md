@@ -128,13 +128,6 @@ title: Tidslinje över Arkipelagen
 `         `[`Lilla`` ``trippelalliansen`` ``bildas`][`Stora`` ``trippelalliansen`]` på `[`Tumar`]\
 `  10044  `[`Lunslakten`]` - Sabriska riddare misslyckas med att kväsa trollpopulationen på `[`Lun`]` `\
 `  10051  `[`Hjaon`` ``Rincan`]` mördas i Garandor, `[`Fraktionen`]` olagligförklarar `[`Maharathaïm`]` `\
-`  `\
-\
-\
-\
-\
-\
-\
 
 x -4802 Dabu
 

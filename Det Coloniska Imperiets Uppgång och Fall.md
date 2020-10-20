@@ -12,12 +12,12 @@ links:
 title: Det coloniska imperiets uppgång och fall
 ---
 
--   Författare: [Ylcorcronlth]\
--   Språk: Coloniska (Colonisk skrift), men ett otal översättningar florerar.\
--   Läsbarhet: Svår (Ob4T6)\
--   Förkunskaper: Inga\
--   Kunskapsinnehåll: Historia 15 (Colonan), Aggression (Kan uppmuntra till förbättringsslag)\
--   Tillgänglighet: Vanlig (Ob2T6)\
+-   Författare: [Ylcorcronlth]
+-   Språk: Coloniska (Colonisk skrift), men ett otal översättningar florerar.
+-   Läsbarhet: Svår (Ob4T6)
+-   Förkunskaper: Inga
+-   Kunskapsinnehåll: Historia 15 (Colonan), Aggression (Kan uppmuntra till förbättringsslag)
+-   Tillgänglighet: Vanlig (Ob2T6)
 
 ’Det coloniska imperiets uppgång och fall’ är en extremt omfattande skildring av det coloniska
 imperiets historia – kanske en av de mest gedigna som skrivits. Nackdelen är att den också är

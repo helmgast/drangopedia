@@ -28,7 +28,8 @@ Marcel Devin föddes i Calnia som andre sonen i den anrika handelsfamiljen Devin
 så god hjälp så möjligt åt brodern som inte helt besatt Marcels intelligens och framåtanda.Men livet
 som broderns rådgivare tråkade snabbt ut den ambitiöse unge mannen, och inom kort var han istället
 totalt intrasslad i gillespolitik. Innan han helt visste ordet av så hade intrigerna och hans egen
-drivkraft fört honom ända till plebejförsamlingen som handelgillets yngsta representant någonsin.\
+drivkraft fört honom ända till plebejförsamlingen som handelgillets yngsta representant någonsin.
+
 Marcel gjorde, som vanligt, sitt bästa, och hans bästa var en aning för gott för de styrande i
 Consaber. 27 år gammal blev han adlad som en hedersbetygelse för sina tjänster, en belöning som
 också effektivt petade honom från hans plats i plebejförsamlingen. Men Marcel, en optimist i själ
@@ -39,7 +40,8 @@ bordet den dagen fick han en viss vid namn [Arienne], tredje dottern till greve 
 Belleme. Hennes klartänkta intelligens imponerade nästan lika mycket som hennes skönhet, och han
 beslöt sig för att se till att hon blev hans hustru, nu när han hade sin nya barontitel att falla
 tillbaka på. De har två barn tillsammans, [Brennan] som är Marcels arvvinge och dottern [Tameli] som
-är faderns ögonsten.\
+är faderns ögonsten.
+
 26 år gammal ärvde Marcel huset Devin efter den barnlöse broderns död, men affärerna hade då gått
 dåligt i flera år, och många viktiga allierade hade övergivit huset. Marcel samlade de
 bundsförvanter och kontakter han hade kvar, och satsade en farligt stor del av sina tillgångar på

@@ -34,7 +34,7 @@ links:
 title: Akhûl Oxuma
 ---
 
-![][1] Akhûl Oxuma är en äldste, *ulay*, inom [Maharathaïm], och andlig ledare för klanen [Sati
+![Oxuma porträtt] Akhûl Oxuma är en äldste, *ulay*, inom [Maharathaïm], och andlig ledare för klanen [Sati
 Maiwa], som dominerar organisationen i [Garandor]. I egenskap av dessa befattningar är han också
 formellt ledare för [Mônwase Hana], stadens Maharathaïmtempel, och har därför det yttersta ansvaret
 för rekrytering och träning i regionen. Diplomati har aldrig varit Akhûls starka sida, milt
@@ -60,7 +60,7 @@ Efter [Fraktionens] olagligförklarande av Maharathaïm under sommaren 10051 är
 försvunnen, medan Tenzen Zarashandu verkar leda de av organisationens medlemmar som gått under
 jorden i Garandor. Rykten gör gällande att Akhûl Oxuma senast siktades på [Luberos].
 
-  [1]: Oxuma.jpg "Oxuma.jpg"
+  [Oxuma porträtt]: Oxuma.jpg "Oxuma.jpg"
   [Maharathaïm]: Maharathaïm
   [Sati Maiwa]: Sati_Maiwa
   [Garandor]: Garandor

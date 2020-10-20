@@ -45,7 +45,8 @@ Iset Azarmisherah var en trollkarl i forntiden som härskade över [Lubandu]-rik
 årtusenden. Hans mytomspunna krig mot Tainoas [tre legendariska hövdingar] såväl som [Ebhron] och
 [Phunguwe] etsade in hans namn i Arkipelagens legender för all tid. Även övärldens akademiker har
 länge fascinerats av honom, då han härskade under de gåtfulla [Mörka åren], varifrån nästan inga
-skrivna källor återstår utom de [gerasiska] inskrifterna och lertavlorna från hans rike.\
+skrivna källor återstår utom de [gerasiska] inskrifterna och lertavlorna från hans rike.
+
 Det är svårt att skilja sanning från myt vad gäller Iset, legenderna gör gällande att han var en
 överlevande av det halvt gudomliga folkslag som befolkade [Det gamla riket]; därav hans odödlighet.
 Enstaka skeptiker bland arkipelagens lärda menar att han snarare var en mänsklig furste i exil från
@@ -67,7 +68,8 @@ svekfullhet och grymhet än någonsin tidigare, men förgäves; de kunde inte h�
 ebhronitiska krönikor att Iset Azarmisherah i sin vrede utslungade en mäktig förbannelse över ön
 innan han övergav den, mörk magi som nedgjorde den ebhronitiska armén till priset av att Luberos
 blev obeboeligt för evig tid. De bevarade delarna av Hongonfragmenten nämner inget om detta,
-emellertid.\
+emellertid.
+
 Sedan det mesta av Övärlden glidit honom ur händerna fortifierade Iset sig på Moran där han höll ut
 medan tainoa blomstrade och växte sig starka, men de kunde aldrig slutligt besegra honom. Slutet kom
 istället med phunguwes invasion av Arkipelagen. Isets ränker sådde split mellan Phunguwe och Taino i
@@ -82,7 +84,8 @@ Iset själv sägs omväxlande ha dött i envig mot Ged, som dräpte honom med si
 infattad i den. Det finns dock inga kända vulkaner på Moran, och inga bevarade källor nämner en
 envig mot prokonsul Ged, så Isets slutliga öde har förblivit ett mysterium, till glädje för
 sagoberättare och konspirationsteoretiker arkipelagen över. Somliga säger att Iset  en gång ska
-vakna upp ur någon dunkel grav på Moran, och åter härska över öarna.\
+vakna upp ur någon dunkel grav på Moran, och åter härska över öarna.
+
 ''Iset, '' "stentyrann", är ett ebhronitiskt namn som Lubandus konung tillskrevs av sina motståndare
 på Luberos, så är också epitetet *Azarmisherah*, som betyder "av den stjärnlösa himlen". Phunguwe
 kallade honom Izhanor dor Awonwaie, som tydligt är deriverat från det ebhronitiska namnet. På
@@ -90,12 +93,12 @@ gerasiska, sitt eget rikes språk, var han känd som Hráva Manásãm, "kungen u
 tainoa kallade honom Hrawa Huyanxa, "den vederstygglige konungen". Hans eftermäle är förvisso mycket
 dåligt, och han tillskrivs så gott som alltid en skurkroll i historiska källor såväl som sagorna,
 men Moran blomstrade under hans långa välde, och dess vittrade ruiner och monument reser sig än idag
-i stum vittnesbörd om hans storhet.\
+i stum vittnesbörd om hans storhet.
+
 Det ska enligt utsago en gång ha funnits en stol tillägnad Iset i [Örådets salar], men den
 förstördes fullständigt i den [Stora jordbävningen] på Oriton. [Gorzarzynernas] siare uttolkade
 detta som ett tecken från gudinnan att Isets själ slutligen skingrats, och att hans skugga aldrig
-mer ska falla över övärlden.\
- 
+mer ska falla över övärlden.
 
   [Lubandu]: Lubandu
   [Moran]: Moran

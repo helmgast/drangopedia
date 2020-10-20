@@ -37,7 +37,7 @@ tryggt förvar vid något furstehov.
 
 Tarros är relativt lång och kraftig, med skarpskuren profil och ett hårfäste som krupit bakåt en hel
 del. Han har mörkare hår än sina bröder, vältrimmat skägg och kalla ögon. Helst klär han sig enkelt,
-med vapenrock eller tabard i Örnordens eller huset Dunkelds färger.\
+med vapenrock eller tabard i Örnordens eller huset Dunkelds färger.
 
   [Tarros Dunkelds personliga vapen]: Tarros_Dunkeld_2.jpg "Tarros Dunkelds personliga vapen"
   [Örnorden]: Örnorden

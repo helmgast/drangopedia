@@ -25,9 +25,10 @@ title: Eithene Visa’an vhic Retalion
 
 Eithene är en thismälva från Sunari och en beryktad fanfäkterska och krigare. Hon har valts ut som
 av [Verduhrakh]. I hans tjänst har hon färdats över stora delar av Mundana, även om hon främst rör
-sig i Rhung-Alari och på Asharina.\
+sig i Rhung-Alari och på Asharina.
+
 Som krigare är hennes vapenskicklighet närmast oöverträffad, även bland de som är flera gånger så
-gamla som henne (och Eithene borde redan vara lastgammal med mänskliga mått mätt).\
+gamla som henne (och Eithene borde redan vara lastgammal med mänskliga mått mätt).
 
 +--------------------------------------------------------------------------------------------------+
 | Statblock                                                                                        |
@@ -81,27 +82,27 @@ gamla som henne (och Eithene borde redan vara lastgammal med mänskliga mått m�
 | Eithene spenderar gör den ytterligare Ob1T6 flätmagisk Hugg- och Stickskada, Pyrotropi,          |
 | Hydrotropi, Pneumotropi och Geotropi.                                                            |
 |                                                                                                  |
-| Stridskonster                                                                                    |
-| -------------                                                                                    |
-|                                                                                                  |
-| **Stridskonst:** Su’nai ishani t’an Eithene\                                                     |
-| **Moment:** Ishani\                                                                              |
-| **Tekniker:** Avancerat anfall: stick, Avvärja projektil, Dubbelstöt, Dödande anfall,            |
-| Hoppteknik, Kasta vapen, Krigslist, Kontring, Momentspecialisering: Ishani, Mästaranfall: hugg,  |
-| Mästarutfall, Precisionsanfall: närstrid, Tränat anfall: kross, Utspel, Vapenaffinitet:          |
-| Shoni’meniyse                                                                                    |
-|                                                                                                  |
-| **Stridskonst:** Su’nai ilivi\                                                                   |
-| **Moment:** Ishani, spark\                                                                       |
-| **Tekniker:** Balans, Hög spark, Momentspecialisering: ishani, Perfektionism, Uppresning,        |
-| Utmanövrering, Utspel\                                                                           |
-| **Stridskonst:** Su’nai conornin\                                                                |
-| **Moment:** Carwelan, niamh\                                                                     |
-| **Tekniker:** Avancerat anfall: hugg, Precisionsanfall: närstrid, Rappt utfall, Snabbdragning,   |
-| Utspel, Meditation, Ripost\                                                                      |
-| **Stridskonst:** Ovadi leome\                                                                    |
-| **Moment:** Serine, Noloin\                                                                      |
-| **Tekniker:** Meditation, Momentspecialisering: Noloin, Precisionanfall: avstånd, Snabbskytte\   |
+| Stridskonster                                                                                   |
+| ----------------------------------------------------------------------------------------------- |
+|                                                                                                 |
+| **Stridskonst:** Su’nai ishani t’an Eithene\                                                    |
+| **Moment:** Ishani\                                                                             |
+| **Tekniker:** Avancerat anfall: stick, Avvärja projektil, Dubbelstöt, Dödande anfall,           |
+| Hoppteknik, Kasta vapen, Krigslist, Kontring, Momentspecialisering: Ishani, Mästaranfall: hugg, |
+| Mästarutfall, Precisionsanfall: närstrid, Tränat anfall: kross, Utspel, Vapenaffinitet:         |
+| Shoni’meniyse                                                                                   |
+|                                                                                                 |
+| **Stridskonst:** Su’nai ilivi\                                                                  |
+| **Moment:** Ishani, spark\                                                                      |
+| **Tekniker:** Balans, Hög spark, Momentspecialisering: ishani, Perfektionism, Uppresning,       |
+| Utmanövrering, Utspel\                                                                          |
+| **Stridskonst:** Su’nai conornin\                                                               |
+| **Moment:** Carwelan, niamh\                                                                    |
+| **Tekniker:** Avancerat anfall: hugg, Precisionsanfall: närstrid, Rappt utfall, Snabbdragning,  |
+| Utspel, Meditation, Ripost\                                                                     |
+| **Stridskonst:** Ovadi leome\                                                                   |
+| **Moment:** Serine, Noloin\                                                                     |
+| **Tekniker:** Meditation, Momentspecialisering: Noloin, Precisionanfall: avstånd, Snabbskytte\  |
 +--------------------------------------------------------------------------------------------------+
 
   [Verduhrakh]: Verduhrakh

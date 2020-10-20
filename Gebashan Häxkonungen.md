@@ -35,7 +35,8 @@ uråldrig vandöd redan då han och hans fränder i Sekhmets cirkel bragte Mûha
 för två tusen år sedan. Om den man han verkligen var vet man inte mycket. Han sägs ha fötts i
 Akpilos och varit hovmagiker åt Edrons förste kejsare, och isåfall är han långt äldre än Mûhad.
 Efter Nanórgonas uppstigande har Gebashan sällat sig till denne och troget följt hans ödesdigra väg
-genom Vävnaden.\
+genom Vävnaden.
+
 Gebashan sägs rå över [De vittrade öarna], ett vindpinat rike nånstans långt väster om Cai. Han stod
 högst i [Sekhmets Cirkel], ingick en gång i [Domara Tashar], och har suttit på Dödstronen,
 ordförandestolen i [De trettons råd],  sedan många sekler. Han är fysiskt en kuslig uppenbarelse,

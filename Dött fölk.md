@@ -83,17 +83,17 @@ title: Dött fölk
 Smetigast död vinner. Klara, färdiga...gå!
 
 -   [Adjan ben Uzul], kefal av Alkharzan, dräptes av [Mido]
--   [Alariel], av Tia'shi Tarivei, utplånades av [Thizara] och [Ishan]\
+-   [Alariel], av Tia'shi Tarivei, utplånades av [Thizara] och [Ishan]
 -   [Almund], dog i random encounter
 -   [Atargatis], dog mot [Ishmet]
 -   [Atzak], de sorgligaste resterna, barmhärtighetsmördad av [Arzul]
--   [Ayesha], sögs livet ur av en nattmara\
+-   [Ayesha], sögs livet ur av en nattmara
 -   [Birannos], fick dödshjälp av [Inalea]
 -   [Blodkäft], slaktad av Mido i ärlig strid
 -   [Carro], dog i random encounter
 -   [Chegaran ir'Arona Anrayem], dödad av [Amara]
 -   [Mäster Chelem], pålad av rauner
--   [Chimge (danserska)], dödad av aunuriska soldater\
+-   [Chimge (danserska)], dödad av aunuriska soldater
 -   [Deretwynn], dödad av Nicoz
 -   [Dolis Agn & Vete], dog i sjukdom
 -   [Eli], dödad av aunuriska soldater
@@ -101,24 +101,24 @@ Smetigast död vinner. Klara, färdiga...gå!
 -   [Esmeralda], halshuggen av Nicoz.
 -   [Galathorn vhic Tani'yena], uppäten av [Mångbane]
 -   [Gammal-som-Tiden], uppgick i världsalltet
--   <span style="text-decoration: underline;"></span>[Herr Gregarin], föll i strid mot [Rekhem]\
+-   [Herr Gregarin], föll i strid mot [Rekhem]
 -   [Herr Henryk], föll i strid mot Rekhems och Alariels underhuggare. 
--   [Ishana], dog av blodförlust i Duandans slott.\
--   [Ivlis Dordaros], steglad och rådbråkad av [Yegor van Culnar]\
--   [Jahangir], Den silverne ökenvargens storkhagan, dödad av Inalea\
+-   [Ishana], dog av blodförlust i Duandans slott.
+-   [Ivlis Dordaros], steglad och rådbråkad av [Yegor van Culnar]
+-   [Jahangir], Den silverne ökenvargens storkhagan, dödad av Inalea
 -   [Riddar Jalak], dödad av Inalea
--   [Krigsfurst Jhemkor], uppäten av [Xhanarra] i Drömriket\
--   [Jihan Nar], dräpt av Denelian\
--   [Herr Lart den Kyske] , föll i strid mot Rekhem\
+-   [Krigsfurst Jhemkor], uppäten av [Xhanarra] i Drömriket
+-   [Jihan Nar], dräpt av Denelian
+-   [Herr Lart den Kyske] , föll i strid mot Rekhem
 -   [Kashashte], dödad av Karangar
 -   [L'wethme] , dödad av Nicoz
 -   [Mark Gahallan], hertig av Namira, dräpt av helmgastar
 -   [Sir Memnon], halshuggen av Nicoz
 -   [Moróga], uppäten av [Góhlbrand]
 -   [Mzan Rezrek], kurfurste av Tzorfalz, dödad av Nicoz
--   [Narmineh], dödad av Sällskapets sjuka experiment\
+-   [Narmineh], dödad av Sällskapets sjuka experiment
 -   [Ni'hârmá], gibbad av Nicoz och Inalea
--   [Nyare], av Tia'shi Tarivei, trippel-gibbad av Nicoz, [Valis], och [*Ytilaq*]\
+-   [Nyare], av Tia'shi Tarivei, trippel-gibbad av Nicoz, [Valis], och [*Ytilaq*]
 -   [Sir Odo], dödad av Ishana
 -   [Ottar], mördad av Sassanarrion
 -   [Petronius], dödad av okända lönnmördare
@@ -126,20 +126,20 @@ Smetigast död vinner. Klara, färdiga...gå!
 -   [Amir Rukh], föll i duell mot Nicoz
 -   [Sarbak], gibbad av Mido och Inalea.
 -   [Sassanarrion], av Tia'shi Tarivei, dräptes av Ishan
--   [Shammashsetep], dödad av Eithene\
+-   [Shammashsetep], dödad av Eithene
 -   [Svarta Vargen], uppgick i världsalltet
 -   [Szarazcon], mördad av Urskuggor
 -   [Sir Talek], föll i fältslag
 -   [Tarbar], savakunnernas konung, dödad av Inalea
 -   [Toktamish], dräpt av Mido
--   [Vercci], dog mot Rekhem\
--   [Vetherian], Liljerådsmedlem, dödad av Nicoz och [Yenetai]\
+-   [Vercci], dog mot Rekhem
+-   [Vetherian], Liljerådsmedlem, dödad av Nicoz och [Yenetai]
 -   [Vire'an], av Tia'shi Tarivei, död under mystiska omständigheter
--   [Vito], föll mot kristallgolem\
+-   [Vito], föll mot kristallgolem
 -   [Vrimzikiel], avrättad
 -   [Ytilaq][*Ytilaq*], omkomm i Arlons slott
--   [Yzanna], ihjälslagen av [L'wethme]\
--   [Zarlug den Galne], död i strid mot aunurier\
+-   [Yzanna], ihjälslagen av [L'wethme]
+-   [Zarlug den Galne], död i strid mot aunurier
 -   [Xardu], dräpt i envig av Nicoz
 
   [Adjan ben Uzul]: Adjan_ben_Uzul

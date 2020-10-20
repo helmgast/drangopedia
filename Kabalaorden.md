@@ -162,7 +162,7 @@ Kabalaordens småsyskon. Inom vissa områden överglänser visserligen de andra 
 magitraditionerna sin ”storasyster” (Thakalatribunalernas förståelse för teckenmagi och Legio
 colonans arbete med abstrakt flödesteori är bra exempel), men generellt finns det både mer och
 bättre magiforskning i Ebhron (detta ska ses i kontrast till de mundana vetenskaperna I Ebhron, som
-stagnerat något oerhört de senaste seklen). Se även [Cathexion][] [Theothanatos].
+stagnerat något oerhört de senaste seklen). Se även [Cathexion] [Theothanatos].
 
 Akademier
 ---------

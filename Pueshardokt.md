@@ -59,7 +59,7 @@ Efter detta följer i sagorna många mer eller mindre fantastiska äventyr där 
 sig komplettera sin list och sitt mod med vapenkonst; hon kom snart i lag med [Okalam den Starke],
 en annan legendarisk hjälte, som bistod henne i att stjäla ägg från [Förbannelsens fåglar] och räda
 självaste [Damoklenes hallar]. Men de kunde inte återta Jondishur från usurpatorn [Mahaka], och
-hamnade i sina fruktlösa försök att göra det i blodsskuld till [Eldsfursten][] [Hyaxam], som räddade
+hamnade i sina fruktlösa försök att göra det i blodsskuld till [Eldsfursten] [Hyaxam], som räddade
 parets nyfödda son undan Konungen utan land. Pueshardokts heder blev hennes undergång, när
 Eldsfursten omsider inkallade denna skuld; hon skulle leda en grupp heavéryttare han stod i färd med
 att utrusta, och därmed bistå Hyaxams furste, [Kraden Nanórgona den Grymme], att säkra det
@@ -72,7 +72,7 @@ utförligt beskriven i Ansale-Idons krönikor. Allt fick för hennes del ett abr
 åkallade Eldsfurstarna alla sina krafter till dess försvar. Hyaxam lovade att lösgöra henne från
 hennes skuld om hon var beredd att strida mot drakarna i Edron, och hans flotta bar henne och
 drakryttarna till havet utanför [Cai] där de flög in i kaoset av eld och blod, och snart mötte
-[mortuachdrakarna][] [Rekhem] och [Gim'naud], de mest fruktansvärda motståndare man kunde föreställa
+[mortuachdrakarna] [Rekhem] och [Gim'naud], de mest fruktansvärda motståndare man kunde föreställa
 sig. Likfullt lyckades det Pueshardokt att leda heavéryttarna i att skaka av sig dessa bestar, och
 decimerade dök man ned mot [Raptarinanki], Edrons väldiga ziggurat, och tog med överraskning de
 drakar som där slogs mot Nanórgonas livgarde. [Terenat], en mäktig lumian, dräptes i tumultet, men

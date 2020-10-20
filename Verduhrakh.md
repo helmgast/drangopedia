@@ -38,7 +38,8 @@ title: Verduhrakh
 Lumiandraken Verduhrakh har varit talman i Consabers regentförsamling sedan 2618 e.D, och
 medarbetare till samtliga konungar i Consaber sedan dess. Han har också varit medlem i [Huset
 Cuvri’an] i [Legio Colonan] längre än vad någon kan minnas. Vidare blev han adlad för över 350 år
-sedan av Consabers dåvarande konung.\
+sedan av Consabers dåvarande konung.
+
 Även om Sir Verduhrakh ibland delar med sig av sin ofantliga kunskap i akademien i [Calnia] så är
 det blott axplock av hans fulla vetskap om Mundanas historia såväl som nutid. Exempelvis sägs det
 att han för Lirmana, huset Cuvri’ans Domus Magus, har avslöjat vad alvernas förbannelse egentligen

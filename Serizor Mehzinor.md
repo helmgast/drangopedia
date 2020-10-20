@@ -37,10 +37,11 @@ järnskelett, skapt av mäktig magi, och tycks ha gjort någon form av avbön; f
 död har han försiktigt försökt närma sig hennes dotter med Nicoz, [Maeve], och få förlåtelse av sin
 bror. Som ett led i detta har Serizor för tillfället försökt infiltrera [Caias Arcadius Ducas] hov i
 Merun, för att hålla koll på Drunoks avfällige prins [Rion] och vad denne kan tänkas ruva på för
-planer.\
+planer.
+
 När Serizor inte plottar eller rekryterar skumma drägg i städers sämre områden händer det att han
 brottas med pantheror, och överlever. Han bär svärdet [Rezvazaracem], ”Systerhämnaren”, ett mäktigt
-vapen.\
+vapen.
 
 +--------------------------------------------------------------------------------------------------+
 | Statblock (ca 5020 f.t.)                                                                         |
@@ -88,17 +89,17 @@ vapen.\
 | **Särskild utrustning:** Rezvazaracem, En stor kasse bitterhet. Stort Gods med 40 tunnland och 8 |
 | torp.                                                                                            |
 |                                                                                                  |
-| Stridskonster                                                                                    |
-| -------------                                                                                    |
-|                                                                                                  |
-| **Stridskonst:** Cirefalisk Fäktteknik\                                                          |
-| **Moment:** Stridssvärd, Storsvärd\                                                              |
-| **Tekniker:** Avancerat anfall: hugg och stick, Dödande anfall, Momentspecialisering:            |
-| Melorsvärd, Rappt utfall, Tungt anfall, Två vapen: lång-lång, Utspel, Snabbdragning,             |
-| Uppföljning, Ripost.\                                                                            |
-| **Stridskonst:** Serizors syskonkärlek\                                                          |
-| **Moment:** Spark, Slag, Greppa\                                                                 |
-| **Tekniker:** Avancerat anfall: kross, Bedövande slag, Benbrytning, Hög spark, Skrämma/hota.\    |
+| Stridskonster                                                                                 |
+| --------------------------------------------------------------------------------------------- |
+|                                                                                               |
+| **Stridskonst:** Cirefalisk Fäktteknik\                                                       |
+| **Moment:** Stridssvärd, Storsvärd\                                                           |
+| **Tekniker:** Avancerat anfall: hugg och stick, Dödande anfall, Momentspecialisering:         |
+| Melorsvärd, Rappt utfall, Tungt anfall, Två vapen: lång-lång, Utspel, Snabbdragning,          |
+| Uppföljning, Ripost.\                                                                         |
+| **Stridskonst:** Serizors syskonkärlek\                                                       |
+| **Moment:** Spark, Slag, Greppa\                                                              |
+| **Tekniker:** Avancerat anfall: kross, Bedövande slag, Benbrytning, Hög spark, Skrämma/hota.\ |
 +--------------------------------------------------------------------------------------------------+
 
   [Nicoz]: Nicoz_Mehzinor

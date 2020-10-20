@@ -29,7 +29,8 @@ emellertid, och håller liksom resten av sina närmaste en relativt låg profil 
 hans försvar skall dock sägas att han alltid visat sig synnerligen lojal till kronan, och att hans
 egna domäner är förnämnligt skötta - befolkningen drabbades lindrigt av både [Ryttarkriget] och
 [Vita Döden], mycket tack vare furst Palinaros frikostighet med sina välfyllda kornbodar. För detta
-är han högt aktad av sina undersåtar och vasaller.\
+är han högt aktad av sina undersåtar och vasaller.
+
 Fursten är liten och skröplig, och för det mesta något frusen, varvid han allt som oftast bär en
 tjock kappa i hermelinpäls. På ett av hans magra fingrar sitter en massiv signetring i guld och
 lapis lazuli, som är nyckeln till de ansenliga rikedomar hans ätt har bundna i faliska och jargiska

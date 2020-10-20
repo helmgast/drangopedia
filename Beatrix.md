@@ -44,12 +44,16 @@ alternativet lät som att det skulle innebära liiite mer frihet. Ett "lämpligt
 vilket visade sig vara Gran Vostram i bortersta Tarkas. Alltså den oländigaste och avlägsnaste delen
 av en ociviliserad och människotom sandöken.
 
-**Personlighet**Klostret känns lite för litet för dig, men efter det äventyr som var Den Stora
+Personlighet
+--------
+
+Klostret känns lite för litet för dig, men efter det äventyr som var Den Stora
 Händelsen bands du hårt till dina vänner och trivs ändå. Du är fortfarande väldigt envis, även om
 det inte betyder att du ständigt måste få din vilja igen. Snarare är det så att när du väl bildat
 dig en uppfattning om något är du ganska säker på din sak, på gott och ont.
 
-**Relationer**
+Relationer
+--------
 
 [Alaisina] är helt klart karaktärssvag. Har människan inga ambitioner med sitt liv? Du irriterar dig
 väldigt på att hon inte ger allt. Visst, ni är inte på världens roligaste plats direkt, men nu är ni

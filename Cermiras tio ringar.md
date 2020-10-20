@@ -32,16 +32,19 @@ kung [Vidkun VII:s] tio bastarder; Raho Utbygdsjägaren, Vilbur, Enok Enhärjare
 Magne den Rådbråkade, Morgan, Hubert, Tomeran Halvalven, Caziman av Tivar och Merlinda Snökristall.
 En [rimur] (eller en [stagran], meningarna går isär) ska ha sökt upp de tio med följande budskap:
 
-För den starkaste, en ring av dvärgastål\
-För den ädlaste, en ring av lapissten\
-För den djärvaste, en ring av drakelds vrål\
-För den lömskaste, en ring av månens sken\
-För den som döden står när, en ring av skuggkristall\
-För den kallaste, en ring av svart diabas\
-För den drömmande, en ring av stjärnors fall\
-För den fagraste, en ring av alviskt glas\
-För den visaste, en ring av västerns rikedom\
-För den som tillkommer oss, en ring i skugglandsblom\
+```
+För den starkaste, en ring av dvärgastål
+För den ädlaste, en ring av lapissten
+För den djärvaste, en ring av drakelds vrål
+För den lömskaste, en ring av månens sken
+För den som döden står när, en ring av skuggkristall
+För den kallaste, en ring av svart diabas
+För den drömmande, en ring av stjärnors fall
+För den fagraste, en ring av alviskt glas
+För den visaste, en ring av västerns rikedom
+För den som tillkommer oss, en ring i skugglandsblom
+```
+
 Huruvida dessa tio faktiskt har varsin magisk ring är en öppen fråga, men särskilt om de yngsta av
 konungens bastarder, [Hubert], [Merlinda] och [Tomeran], florerar många rykten om mysterier och
 trolldom. Somliga har tagit anstöt av att de legendariska ringarna tillskrivits bastarderna, och

@@ -168,8 +168,7 @@ title: Stora Arkipelagens öar
 -   [Jarma], delad mellan Fraktionen och Sho Boka Sham-Ukin 
 -   [Jatar], västlig ö känd för rikt och märkligt djurliv
 -   [Jorun], östlig ö
--   [Juon], the Coruscant-island (vilket tyvärr gått förlorat när nån gjorde kartan...oh
-    woe...fixat, se [Mjini]\
+-   [Juon], the Coruscant-island (vilket tyvärr gått förlorat när nån gjorde kartan...oh woe...fixat, se [Mjini]
 -   [Kea], liten klippö väster om [Oke], platsen där [Virga Bellissimis] makt första gången
     demonstrerades.
 -   [Kymfora], liten atoll ett tjugotal sjömil öster om Lohemo, plats för en sabrisk arkeologisk
@@ -179,8 +178,7 @@ title: Stora Arkipelagens öar
 -   [Liro], liten östlig ö, bevuxen av de väldiga [Afrura]-träden, som inte finns någon annanstans
 -   [Lo], klippig och svårtillgänglig östlig ö, men med rika naturtillgångar
 -   [Lun], nordlig ö, enligt rykten bebodd av unik trollras
--   [Lohemo], bördig, högt civiliserad ö i Arkipelagens hjärta, känd för sitt universitet och sin
-    uråldriga historia\
+-   [Lohemo], bördig, högt civiliserad ö i Arkipelagens hjärta, känd för sitt universitet och sin uråldriga historia
 -   [Luberos]
 -   [Malu], centralt belägen, bördig ö, känd för sin tobak
 -   [Mares], bebodd av uråldrig, gåtfulla kvinna
@@ -209,9 +207,8 @@ title: Stora Arkipelagens öar
 -   [Perdos], skogtäckt ö i norra arkipelagen med ansenliga guldfyndigheter, falierna har spenderat
     mycket resurser på att ställa ön under sin kontroll
 -   [Ralo], sabrisk besittning
--   [Rama], sägs ofta besökas av melusiner\
--   [Ramo], bördig ö i Arkipelagens norra delar, har mindre stad och handelscentrum vid namn
-    [Chanika]\
+-   [Rama], sägs ofta besökas av melusiner
+-   [Ramo], bördig ö i Arkipelagens norra delar, har mindre stad och handelscentrum vid namn [Chanika]
 -   [Rana], lågt belägen ö i drottning Nardas välde, periodvis ligger stora delar under vatten,
     mestadels bebodd av [Båtfolket] och konstiga träskvarelser. 
 -   [Ranara]
@@ -239,8 +236,7 @@ title: Stora Arkipelagens öar
 -   [Tekana], östlig ö, känd för sina skickliga segelmakare och segeldukstillverkare.
 -   [Telmo], sydlig ö i Hannos rike, producerar delikata vindruvor
 -   [Thean], nordlig ö
--   [Thul], har en 40 meter hög staty av, påstås det, en av Kivas härskare, som tronar längst ut på
-    en nordlig udde.\
+-   [Thul], har en 40 meter hög staty av, påstås det, en av Kivas härskare, som tronar längst ut på en nordlig udde.
 -   [Thylo], bördig, nordlig ö
 -   [Tientu], bergig och skogsbeklädd jätteö i kung Hannos rike
 -   [Tiro], [Mandagors] ö, betalar tribut till Sham-Ukin, skogsbeklädd och isolerad

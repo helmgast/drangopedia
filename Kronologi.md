@@ -78,15 +78,11 @@ title: Kronologi
     under Cuvri'ans kontroll. En politiskt tveksam manöver som dock sker med administrat [Khruns]
     goda minne.
 
-<!-- -->
-
 -   En koalition av östrauniska horder under [Jahangir] av [Den silverna ökenvargen] och
     [Uriangkathai] av [Den eviga vinden] anfaller Consaber via Tokon. Den eviga vinden drar sig
     nästan omedelbart ur kriget och återvänder till stäppen, och kraftigt försvagade besegras
     återstående rauner grundligt av Consabers försvarare. Uriangkathai blir kraftigt stigmatiserad
     bland raunerna, men anledningen till hans svek förblir höljd i dunkel.
-
-<!-- -->
 
 -   [Silverrävarna] grundas på [Verduhrakhs] initiativ.
 
@@ -96,16 +92,10 @@ title: Kronologi
 -   Dibukkulter härjar i Colonan, den vedervärdige [Vitala] har återigen tagit kontrollen över norra
     Colonans nekrokulter och bedriver ett obarmhärtigt guerillakrig mot den nordcoloniska adeln.
 
-<!-- -->
-
 -   Hus Cuvri'an fortsätter sitt märkliga maktspel i norra Colonan och lägger allt mer mark under
     sig. Cuvri'an är i slutet av året det hus i Legio Colonan med näst störst landegendomar.
 
-<!-- -->
-
 -   [Izman Regelius] vinner [Svärdsspelen i Hadarlon].
-
-<!-- -->
 
 -   Det kortlivade [May'axatl-riket] går under i samband med intensiva stridigheter under vilka dess
     härskare avlidit. Rykten gör gällande att en mäktig artefakt förts ut ur riket under kaoset.
@@ -116,22 +106,14 @@ title: Kronologi
 -   Raunländska plundringståg i Colonan och Thalamur. Den silverne ökenvargen, decimerad och bitter,
     är fortsatt aggressiv.
 
-<!-- -->
-
 -   Raunernas översteprästers, De Tysta, högsäte Monoliten angrips och plundras av drakväktare och
     kamorfen [Ni'hârmá]. Ett föremål med gudomliga krafter blir stulet, och hamnar omsider i
     Verduhrakhs klor.
 
-<!-- -->
-
 -   Oneirotropins existens bekräftas slutligen av Legio Colonan, efter att en monolit med mätbart
     oneirotropisk natur funnits på en öde ö i Stora arkipelagen.
 
-<!-- -->
-
 -   [Certani] och [Tanstari] rekryteras av hus Cuvri'an.
-
-<!-- -->
 
 -   Den försvunna ruinstaden [Yanginor] återupptäcks högt upp i [Colonbergen]. Rauner ledda av
     Ni'hârmá slåss mot Verduhrakhs hantlangare för kontroll över staden. Fokus för stridigheterna
@@ -159,11 +141,7 @@ title: Kronologi
 -   Kraden Nanorgóna gör sitt återinträde på Mundanas storpolitiska scen. Han har i hemlighet
     uppfört maktbaser på [Cai] och i [Ebhron] och verkar ha storslagna planer.
 
-<!-- -->
-
 -   [Nhim-Karak] reanimeras av Nanorgóna, trots drakalliansens försök att hindra honom.
-
-<!-- -->
 
 -   Verduhrakh iscensätter sin egen död för att vilseleda Nanorgóna.
 
@@ -207,8 +185,6 @@ title: Kronologi
 -   Nanorgóna använder sin nyfunna styrka för att trotsa drakalliansen och utropar sig åter igen
     till härskare över Edron.
 
-<!-- -->
-
 -   Konflikter utbryter inom Cuvri'an angående relationen till Nanorgóna. Verduhrakh och de flesta
     av husets medlemmar propagerar för att Nanorgóna måste bekämpas, en mindre grupp ledd av
     Tenavron vill istället alliera sig med ärkemagikern.
@@ -247,8 +223,6 @@ dock betala med sina liv för segern.
     konspiration för att släppa in raunerna i Arlon, tillfångatas. Resterna av hans upprorshär
     skingras helt.
 
-<!-- -->
-
 -   En av sanaris autokrater, Vetherian, mördas i Kisharnias torn av en fraktion sanariädlingar som
     vill hämnas hans experiment med den magiska sjukdomen 'Vita döden', som dödade många alver i
     småbyar i Sunaris periferi för fyrtiotalet år sedan. De ansvariga grips fort, men dvärgar och
@@ -259,8 +233,6 @@ dock betala med sina liv för segern.
 
 -   Den mystiske Gaoste dal'Avon vinner svärdsspelen, som för tillfället arrangeras av ashariska
     rikemän och hålls vid pyramiden på Ashaslätten på grund av kriget i Soldarn.
-
-<!-- -->
 
 -   Rauner från Den silverne ökenvargens hord erövrar Urag-Ghan och Raunflodens norra stränder.
 
@@ -281,8 +253,6 @@ dock betala med sina liv för segern.
     sig senare att general Zenos på något sätt blev lurad, men han belönas efter kriget med en
     hertigtitel i Drunok.
 
-<!-- -->
-
 -   Prins Rion av Drunok ertappas som en förrädare och grips i Ramdors ruiner. Arlon faller strax
     därpå, belägrat sedan länge, och konungen lyckas nätt och jämt räddas undan genom en lönngång.
     Drunoks motståndshär vinner sin första seger mot en raunländsk styrka vid Grimssalar, och sedan
@@ -299,8 +269,6 @@ dock betala med sina liv för segern.
     Storkhagan Uriangkathai går med på fred i Drunok i utbyte mot fortsatt inflytande över området
     genom sin dotters äktenskap med konungen.
 
-<!-- -->
-
 -   November - Orlik förpassas tillfälligt från Mundana av Kumbanigash i slaget vid Arlon, och
     draken Jandlinatjari övertygar åter en gång Uriangkathai att ge vika.
 
@@ -313,8 +281,6 @@ dock betala med sina liv för segern.
     draken Rekhem, hans allierade. Det sista motståndet mot freden; avfälliga drunokiska riddare och
     Mórogas splittrade armé, flyr till Utmark.
 
-<!-- -->
-
 -   Alariel har bindgalen hoppat av Tia'shi Tarivei och lagt beslag på Udanars krona, en urmäktig
     artefakt prins Rion sökte i Ramdor. Den ger honom otroliga krafter. Han och Rekhem bryr sig
     numera bara om att förstöra så mycket som möjligt, och servera Drunok på ett silverfat till
@@ -324,20 +290,14 @@ dock betala med sina liv för segern.
     väcka en slags mörkerherre som dvaldes i Kraalens djup, men Kumbanigash lyckades med nöd och
     näppe utplåna honom. Eller...?
 
-<!-- -->
-
 -   I slutet av året bryter ett nytt krig ut mellan Thalamur och Consaber. Thalaskiska härar under
     Takhim Zelon och Davor Khavos gör en blixtoffensiv in i Colonan och ockuperar allt land fram
     till gränsfloden mot Consaber, där kriget snart når ett stillestånd. Kholon-renk-Ghor-Drezin
     belägras.
 
-<!-- -->
-
 -   Under året sker någon sorts märklig förändring i andeplanets vävnad, kännbar av spiritister och
     schamaner över hela Mundana. Det är De fyra tornen som ligger bakom, och drakarna lyckas bara
     stoppa Västerns torn från att fullborda sin del av ritualen.'
-
-<!-- -->
 
 -   Enstaka vittnesmål gör gällande att Mithera var varmt och blomstrande en del av året. Ingen kan
     emellertid bekräfta detta, och senare år verkar skogen lika frostbiten som vanligt.
@@ -374,71 +334,45 @@ dock betala med sina liv för segern.
 
 -   [Haramelo Mazdrac d.y.] vinner Svärdsspelen i Hadarlon.
 
-<!-- -->
-
 -   [Abraxes] häver [Dahzûrs rit].
-
-<!-- -->
 
 -   Fortsatt krig i Rhung-Alari. Den thalaskiska flottan är svårt sargad av Consabers överlägsna
     sjömakt, men Colonan hålls i ett järngrepp. Dvärgarna i det belägrade Kholon-renk-Ghor-Drezin
     har inte hörts av, fästet ligger helt tyst och förslutet. Thalamur förbereder en slutlig
     storoffensiv in i Consaber. Cirefaliska kapare angriper sabriska fartyg.
 
-<!-- -->
-
 -   Damarien fortsätter mobilisera med stöd av Jargien. Vad de planerar vette gudarna.
 -   I ett sturskt infall av drottning Bortaï av Drunok kräver Den eviga vinden att få en kämpe
     inbjuden till Svärdsspelen i Hadarlon. Om så inte sker, hotar Uriangkathai att förklara krig mot
     Soldarn.
 
-<!-- -->
-
 -   [Toktamish] dör i [Zahalin].
 
-<!-- -->
-
 -   Motsättningarna de thalaskiska magikraterna emellan blir allt starkare.
-
-<!-- -->
 
 -   Xinu får tag i drakväkterskan Inalea i An-Thalamur, och torterar ur henne många av drakväktarnas
     hemligheter. Hon förs i fångenskap vidare till magikraten i Colonan. Kumbanigashs fäste i Kirath
     angrips av Xinus tjänare.
 
-<!-- -->
-
 -   Bortom Blå havet har kamorfer av både Dakhû'r-nu och Xiannu fått upp spåren efter en legendarisk
     artefakt som ska kunna ledsaga dem till ett tempel med gåtfulla krafter. De söker med ljus och
     lykta efter den, och lösningen på dess mysterium.
 
-<!-- -->
-
 -   L'wethmes tron i Skugglanden står tom alltsedan dennes död för Nicoz Mehzinors händer.
     Skugglandets andra furstar låter än så länge denna avfälliga del av Det svarta hovet vara.
-
-<!-- -->
 
 -   Flera magiker vid Kungliga Akademin i Calnia mördas, däribland Hosgar av Caer Mhorn, huvudlärare
     vid tropometriska institutionen och Julian Mino av Flarne, rutinerad alkemist från hus Lynesse.
     Detta förebådar de fortsatta angreppen mot den Kungliga Akademin i slutet av året.
 
-<!-- -->
-
 -   [Charankahet] vaknar.
-
-<!-- -->
 
 -   Den Röda Triskelen skickar sin första expedition till [De Yttre Öarna] och inleder kontakter med
     dess härskare, kung [Hanno]
 
-<!-- -->
-
 -   Kungliga akademin i Calnia angrips av sabotörer och lönnmördare. I slutändan visar sig angreppet
     vara ihopkokt av gordrier och riktat mot akademins stasisfängelser. Efter att ha fritagit en av
     fångarna försvinner gordrierna från Calnia.
-
-<!-- -->
 
 -   Thalamur invaderar Consaber under hösten, med spektakulär framgång, och tränger djupt in på Urma
     Bréann innan offensiven saktar ned under vintern.
@@ -449,34 +383,20 @@ dock betala med sina liv för segern.
 -   Thalamurs offensiv mot Consaber har gått i stå under vintern, och man belägrar nu Uriens och för
     en segdragen kampanj mot Tokon.
 
-<!-- -->
-
 -   Thalaskiska styrkor invaderar Danbréann på våren, de får snart förstärkningar genom portaler
     från det thalaskiska fastlandet. Portalerna kollapsar emellertid, och thalaskerna slås tillbaka.
 
-<!-- -->
-
 -   Ökad [lenongaaktivitet] i norra och centrala arkipelagen.
-
-<!-- -->
 
 -   En drunokisk sommartornering angrips av jargiska ryttare.
 
-<!-- -->
-
 -   Mhîm [Matruk Wolani] dödas under sommaren.
-
-<!-- -->
 
 -   Drunoks huvudstad Arlon angrips inifrån av vandöda horder, som hovmagikern [Thizara] ger sitt
     liv för att stoppa.
 
-<!-- -->
-
 -   Thalaskiska agenter infiltrerar Araxianiternas kloster på den Vita Jungfrun. De kommer därifrån
     med ordens allra heligaste reliker.
-
-<!-- -->
 
 -   12:e oktober - Colonans Dibukkult under [Vitala Rommer][Vitala] erövrar slottet [Thoyagon] från
     Thalamurs armé.
@@ -486,8 +406,6 @@ dock betala med sina liv för segern.
 
 -   Januari-februari - Thalaskiska styrkor belägrar [Calnia], [Verduhrakh][Verduhrakhs] är
     försvunnen, [Esgithes] ritual genomförs i [St Baraxors kloster].
-
-<!-- -->
 
 -   27:e mars - [Nicoz], [Ghaële] och [Kuru'gan] deltar i en skärsmytsling i [Perimanskogen].
 

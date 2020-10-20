@@ -38,8 +38,8 @@ Sir Amoras gjorde exceptionellt bra ifrån sig under [Saar-torneringen 10051] se
 han kan ha vunnit en plats bland arkipelagens sabriska riddare - kanske är det här hans öde väntar,
 trots allt?
 
-**Resurser: 10 (Kontakter vid hertigens hushåll)** \
-**Rykte: 15 (Torneringsprestationer)**
+- **Resurser: 10 (Kontakter vid hertigens hushåll)**
+- **Rykte: 15 (Torneringsprestationer)**
 
   [Sir Amoras personliga vapen]: Sir_Amoras.jpg "Sir Amoras personliga vapen"
   [hertiginnan Amadea]: Amadea_Helmason_av_Negaidh

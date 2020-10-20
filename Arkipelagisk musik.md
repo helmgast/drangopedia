@@ -59,13 +59,9 @@ har ofta huvudstämman i oritonska dansmelodier. Helst ska den vara tillverkad a
 spelsätt. Munstycket sätts i mungipan mellan tänderna, och luftströmmen styrs med tungan.
 Instrumentet anses svårspelat, men medger stora variationsmöjligheter för klangfärgen.
 
-\
-
 ### Danser
 
 ### Sånger
-
-\
 
 Ok'oaru
 -------
@@ -88,9 +84,6 @@ ytterligare av att hålen måste borras mycket noggrant (minsta fel och shankhan
 oanvändbar), samt att tillverkningen av munstycket är svår för ok'oaru, som generellt har få och
 dåliga verktyg för träarbete. Shankhan används som signalhorn av ok'oarus krigare, men också i många
 riter och ceremonier.
-
-\
-\
 
 ### Danser
 

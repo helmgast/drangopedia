@@ -29,7 +29,8 @@ oklara konturer, uppemot 30 fot hög, ansiktslös och skinande av blekt, spökli
 i en vid radie omkring sig. Den bär ett harnesk av grå sten, benskenor av svart järn och en gyllene
 krona, samt ett jättelikt svärd i en halvgenomskinlig, blåaktig metall.
 
-**Beteende**\
+Beteende
+--------
 Mångubben är inte överdrivet sällskaplig och tycks inte ha något intresse av att kommunicera med
 lägre varelser. Den har setts planera i många steg och långsamt bygga upp en styrka, så den är av
 allt att döma långt ifrån ointelligent, men oftast attackerar den bara besinninglöst och förstör
@@ -39,7 +40,8 @@ utplånandet av sociala strukturer och civilisation tjänar som ett led i detta 
 det bara är en förstörelselysten best som underkuvats av sitt eget vansinne och går bärsärkagång av
 vrede över att ha nedkallats till världen.
 
-**Spelledartips**\
+Spelledartips
+--------
 Mångubben slösar oftast inte tid på att kasta besvärjelser i strid, sedan den väl åkallat en bunte
 lunioner. Blir den beskjuten med belägringsmaskiner och andra vapen faktiskt kapabla att hota den
 använder den effekten Libration på sig själv, annars ignorerar den de flesta skador. Om rollpersoner
@@ -51,7 +53,8 @@ spelledarpersoner åt gången; hantera den bara strikt enligt reglerna om rollpe
 utmana den. Var kreativ med dess Mångalenskap; se till att folk påverkas på dramatiskt intressanta
 sätt.
 
-**Nedkallning**\
+Nedkallning
+--------
 Mångubben kan föras till Mundana med effekten 'Mångubbens nedstigande' av artonde magnituden (denna
 finns bland annat bevarad i [Nibirus bok] från Kynborea). 'Gestalta' eller 'Nedkalla' behöver inte
 vävas in eftersom Mångubben själv kan färdas genom etern till åkallaren. När detta är gjort måste
@@ -81,7 +84,8 @@ Mångubben, Lunionernas härskare \[Rang 17\]
 **Förflyttning:** 20 m/runda,**BF:** 75 kg\
 **Chockvärde:** 60,**Skadetålighet:** 10 rutor,**VINIT:** 15,**Insikt:** 13.
 
-**Anfallsmanövrer (närstrid):**\
+Anfallsmanövrer (närstrid):
+--------
 Trampning (20), ObK11T6, Bryt (-), SI (1/1).\
 Slag (25), ObK11T6, Bryt(–), SI (1/2).\
 Spark (23) ObK11T6+1, Bryt(–), SI (3/1).\
@@ -90,7 +94,8 @@ Greppa\* (25), (se grundboken).\
 Krossa\* (spec).\
 ''\*Mångubben kan försöka krossa motståndare han greppat med bara en hand, se i övrigt grundboken
 sid 29. Alla varelser Mångubben vidrör mer än ett ögonblick tar extra Ob2T6 poäng smärta. ''\
-**Anfallsmanövrer (avstånd):**\
+Anfallsmanövrer (avstånd):
+--------
 Mångalenskap (auto), Räckvidd \[20-40-80-160m\], orsakar mångalenskap\*\*\
 Kast med liten byggnad (15), ObK20T6, räckvidd \[45-90-180-270\]\*\*\*\
 *\*\*Mångubbens aura av galenskap drabbar automatiskt varje runda alla inom räckvidden som inte
@@ -144,7 +149,8 @@ högmagisk för selenotropi, och lunioner och månsultaner manifesterar sig spon
 att tjäna sin herre. Ett vanligt modus operandi för Mångubben är att leta upp en sådan plats för att
 kunna bygga upp sina styrkor.
 
-**Magiska föremål:**\
+Magiska föremål:
+--------
 *Regolitharnesket* är nästan ogenomträngligt, men är mycket bräckligt och tenderar att falla i bitar
 gradvis. På Mundana saknar Mångubben resurserna att reparera harnesket.\
 *Lunionernas krona* gör att alla lunioner under rang 7 villkorslöst lyder Mångubben.\

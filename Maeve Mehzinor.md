@@ -37,7 +37,8 @@ Med problemen detta medför är den officiella förklaringen i Drunok att Maeve 
 Caserion, och hölls hemlig på grund av hennes föräldrars situation där. Huset Mehzinor, eller
 åtminstone dess överhuvud [Vitoz] är dock införstådd med hur det faktiskt ligger till, och har tills
 vidare, dock med en viss brist på entusiasm, slutit sig till den officiella linjen och tagit upp
-Meva (vilket är hennes faliska namn) i familjen som om det aldrig rått någon tvekan om saken.\
+Meva (vilket är hennes faliska namn) i familjen som om det aldrig rått någon tvekan om saken.
+
 Maeve är en sprallig och energisk nioårig flicka som tycker om att sjunga, fäktas, rida, jaga samt
 smyga runt och tjuvlyssna på saker som hon inte har det minsta med att göra. Hon har ärvt sin korta
 stubin av bägge sina föräldrar och har därmed ett tämligen ombytligt och eldfängt humör, även för
@@ -48,7 +49,8 @@ talang att hitta vägar till skugglanden nästan oavsett var hon är, och god ko
 att inte hamna där av misstag... för det mesta. Hennes bästa vän är [Vilenni], som i framtiden ska
 bli hennes kammarjungfru, men Maeve har svårt för [Zhanima], då hon av någon anledning tycks
 uppfatta denna som en skrämmande skugga snarare än en verklig människa av kött och blod. [Celdan]
-och [Quentin] tjänstgör som Maeves lärare i diverse ting.\
+och [Quentin] tjänstgör som Maeves lärare i diverse ting.
+
 Det har tisslats en del vid hovet om Maeves märkliga egenheter, till exempel hur unga hennes
 föräldrar måste varit när hon föddes och hennes minst sagt okonventionella uppfostran. 
 

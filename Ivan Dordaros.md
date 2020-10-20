@@ -25,7 +25,8 @@ title: Ivan Dordaros
 
 Gift med [Drusa av Tivar]
 
-**Viktiga vasaller: **
+Viktiga vasaller: 
+--------
 
 -   [Vidkun Dordaros], son, jarl av Tar 
 -   [Ruprecht Dordaros], yngre bror, jarl av Nirva

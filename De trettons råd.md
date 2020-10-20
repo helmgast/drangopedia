@@ -79,8 +79,9 @@ någonsin beviljas tillträde kan dylika förluster ta sekler att ersätta. I ge
 åter räkna [Kraden Nanórgona av Edron] till sitt antal efter dennes återuppvaknande i Nadaria för
 tre decennier sedan. en händelse De trettons råd var högst involverade i, även om alla deras planer
 rent tekniskt sett gick i stöpet. Så kraftfull var dock Nanórgonas ande att influxen lät honom väcka
-sig själv till livet, och han har efter mycket om och men anslutit sig till Rådet.\
-De nuvarande medlemmarna, och de senaste på de nu vakanta platserna, är:\
+sig själv till livet, och han har efter mycket om och men anslutit sig till Rådet.
+
+De nuvarande medlemmarna, och de senaste på de nu vakanta platserna, är:
 
 Sekhmets cirkel
 ---------------
@@ -184,8 +185,8 @@ i all aktivitet. Vävaren är den som ser till att aktioner sker på lyckosamma 
 determinerade händelser förutspås i god tid, och i största allmänhet är i kontakt med ödet och allt
 som hör där till.
 
-Vävaren före [Dessime Karaion][Dessime Karaion Dua'thur] var den urgamla [Radh-Kamriske][]
-[sagitauren][] [As'tsari]. [As'tsari] förutspådde Dessimes födsel, tog själv hand om hennes
+Vävaren före [Dessime Karaion][Dessime Karaion Dua'thur] var den urgamla [Radh-Kamriske]
+[sagitauren] [As'tsari]. [As'tsari] förutspådde Dessimes födsel, tog själv hand om hennes
 uppfostran och placerade henne på Vävarens tron. Dessime föddes exakt 300 år före den stundande
 peripetin, med flertalet märkliga förmågor. Hon sägs vara den mäktigaste vävaren sedan rådet
 bildades, och har en själ av en [drakes] rang.

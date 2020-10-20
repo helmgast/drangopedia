@@ -16,8 +16,8 @@ title: Raimon Trastamére av Aladene
 
 ![Raimon Trastaméres personliga vapen]
 
-Hertig av De Norra Öarna, greve av Ralo\
-\
+Hertig av De Norra Öarna, greve av Ralo
+
 **Resurser: 29 (Politiskt inflytande, Tredje flottan, vasaller och knektar)**  \
 **Rykte: 21 (Hertig över öarna)**
 

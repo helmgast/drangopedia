@@ -47,7 +47,7 @@ fruktansvärda av Maharathaïms prövningar, och dessa är även i allmänhet st
 En legend inom Maharathaïm talar om [Sol Utulu], ett nedre, än mer hemligt och heligt tempel
 någonstans oändligt djupt ned i Garandors underjord, bland ruinerna av [Sol Samra]. Om det
 överhuvudtaget existerar är inte känt, men efter att Mônwase Hana stormats av [Fraktionens] soldater
-det ödesdigra året [10052] började rykten surra i Garandor om att de Maharathaïm-medlemmar som kom
+det ödesdigra året 10052 började rykten surra i Garandor om att de Maharathaïm-medlemmar som kom
 undan gömde sig hos [Kogan] i underjorden; i Sol Samra.
 
 Mônwase Hana var helgat åt [Gwando], en av [eldsandarna], som tronade i form av en grotesk staty i
@@ -66,7 +66,6 @@ gnagande rädsla för Gwandos vrede.
   [Sol Utulu]: Sol_Utulu
   [Sol Samra]: Sol_Samra
   [Fraktionens]: Fraktionen
-  [10052]: 10052
   [Kogan]: Kogan
   [Gwando]: Gwando
   [eldsandarna]: Iwa_Ogon

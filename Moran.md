@@ -28,7 +28,8 @@ och hjärtat i ett imperium som sträckte sig ända till [Luberos]. Men Morans c
 och av dess forna storhet återstår bara bleka skuggor. Pragmatiska herdar och bönder har utan
 misskund brutit upp gamla vittrade akvedukter och megaliter för att få sten till husgrunder och
 tempel, men de hemsökta ruinerna djupare inåt Morans inland vågar de inte röra, och djunglerna och
-dimmorna har fått sluka dem bäst de vill.\
+dimmorna har fått sluka dem bäst de vill.
+
 Öns terräng består i väster av förhärjade slätter och klippor som snart övergår i tropiska djungler,
 här och var genomkorsade av uråldriga stenlagda vägar och djupa flodfåror och raviner mellan branta,
 fuktiga klippväggar. Det sägs ofta att det ligger en kuslig tystnad över öns ödsliga inland, men det

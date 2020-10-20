@@ -84,7 +84,7 @@ spekulationer om att hon månne tillhör denna grupp - varför annars skriva und
 Av dessa hennes tre kända drakväktare var ingen aktiv under Tarasharkrigen; de tycks samtliga vara
 av mycket yngre datum, något som också rimmar väl med drakväktarna i alliansen. De är:
 
--   [Yémaya Chango], jägare och schaman från [Rana].\
+-   [Yémaya Chango], jägare och schaman från [Rana].
 -   [Dokk Wansi], krigarpoet från [Sinadera]
 -   [Hashirah], melusin från [Iana-Ahiwa]
 

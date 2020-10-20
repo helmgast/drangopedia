@@ -81,7 +81,7 @@ title: Tarasharkriget
 Tarasharkriget var en episod i [Stora Arkipelagens] historia som utspelade sig mellan 7505 och 7585
 Arkipelagisk tid, eller 5278-5358 enligt Kabalaordens tideräkning. Det var en enorm konflikt mellan
 [Tarasharerna] i [Ebhron] och de många stadstaterna och smårikena i Arkipelagen, varav de primära
-aktörerna var [Nevash], [Palam Dawu], [Batu Oro] och den [lohemiska][] [Norra alliansen]. Krigets
+aktörerna var [Nevash], [Palam Dawu], [Batu Oro] och den [lohemiska] [Norra alliansen]. Krigets
 många komplicerade vändningar, allianser och aktörer krönikerades flitigt av samtida skribenter, och
 det ömsesidigt frekventa bruket av magi, lönnmord och innovationer som [Jiddirin]- och
 [Tumega]-skeppen drog sitt strå till för att cementera minnet av Tarasharkriget som en episod höjd

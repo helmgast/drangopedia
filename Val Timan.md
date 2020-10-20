@@ -62,7 +62,7 @@ outforskade och oexploaterade lilla hertigdömet i framtiden ska ha mycket att e
 De vasaller som besitter ägor i hertigdömet är riddarna [Haukon], [Arog] och [Corben]. Sir Corben
 agerar dessutom ståthållare i Duandan medan ståthållarposten i Urag-Basan tillföll den av
 Zorianorden tillsatte kommendanten av Halldsvakt, fram tills dess att fästningen och dess garnison
-gick under vintern 2976-77 e.D..
+gick under vintern 2976-77 e.D.
 
 Det finns flera fästningar i hertigdömet, [Dunmar] i Timan, [Dun Baer] i Duandan och [Halldsvakt] i
 Urag-Basan, även om den sistnämnda var knappt mer en ruin under pågående återuppbyggnad när den
@@ -73,13 +73,13 @@ ligger i vad som länge var trolltrakter är torn, murar och pallisader i regel 
 än vad man kan vänta sig. Skillnaderna på de större borgarna är marginell, men skillnaden kan vara
 häpnadsväckande i mindre byar.
 
-[Do'anari] (i folkmun kallat 'Alvby'): 143 invånare\
-[Tennmarken][]: \~80 pers\
-Ödeby: \~50 pers\
-[Vägsände][]: \~40 pers\
-[Dunmarsby][]: \~100 pers\
-[Forsfallet][]: ?\
-[Midmar][]: \~2000\
+- [Do'anari] (i folkmun kallat 'Alvby'): 143 invånare
+- [Tennmarken]: \~80 pers
+- [Ödeby]: \~50 pers
+- [Vägsände]: \~40 pers
+- [Dunmarsby]: \~100 pers
+- [Forsfallet]: ?
+- [Midmar]: \~2000
 
   [Timan]: Timan
   [Midmar]: Midmar

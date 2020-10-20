@@ -28,7 +28,8 @@ Halvalv], en utstött yngling ur Felosis lågadel. Hon tillverkar framförallt r
 mer ovanligt i Arkipelagen och därför mer lönsamt, men svärd är hennes verkliga passion, och hon
 nekar sällan ett erbjudande att smida en bra klinga. Den ädla och förmögna Lady [Arienne Senlis
 Devin de Ryon] har vid något tillfälle setts i hennes smedja, men vad två så omaka kvinnor skulle ha
-för affärer tillsammans är okänt.\
+för affärer tillsammans är okänt.
+
 Rilde är runt trettio år, med rött krusigt hår och breda axlar. Hon klär sig helst i manskläder, men
 vet någorlunda att föra sig som en dam om nöden skulle falla på.
 

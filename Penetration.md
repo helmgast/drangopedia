@@ -15,7 +15,8 @@ Penetration (x). De vapen som har Penetration (x) på en *skadetyp* drar lika m�
 rustnings skyddsvärde som deras värde i Penetration.
 
 Alternativt är penetration en binär egenskap utan ett siffervärde. Antalet poäng som dras från
-skyddsvärdet är då lika med antalet hela skadetärningar i relevant skadetyp.\
+skyddsvärdet är då lika med antalet hela skadetärningar i relevant skadetyp.
+
 *Exempel: En stridshacka har egenskapen penetration på sin stickskada, vilket noteras såhär:
 S+Ob2T6+2P. Således dras alltid två poäng skyddsvärde från rustningar som skyddar mot träffar från
 stridshackan. Ökad skada (grundskada, stridskonsttekniker) påverkar inte penetrationsvärdet.*

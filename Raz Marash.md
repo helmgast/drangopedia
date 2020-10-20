@@ -13,7 +13,8 @@ links:
 title: Raz Marash
 ---
 
-**De livlösa**\
+De livlösa
+--------
 Tirakernas kvinnor för oftast en säker och skyddad existens. Deras ringa antal i kombination med
 deras livsviktighet för stammarnas överlevnad skapar en situation där kvinnorna vårdas och skyddas i
 så stor utsträckning man över huvud taget är kapabel till. Därav ser man mycket sällan kvinnliga
@@ -23,7 +24,8 @@ de varit lätträknande.
 
 `   Det finns dock ett särskilt framträdande undantag till denna generalisering; raz marash - de livlösa. Dessa är tirakkvinnor som besatts av `[`ztrakim`]`, dödsandar, och därmed förlorat förmågan att föda barn. Enligt tirakisk legend så vilar ztrakim i de självlysande stenar som bland annat finns under `[`Kiaz`]`. När katastrof hotar tiraksläktet vaknar ztrakim och fäster sig i en utvald tirakkvinnas livmoder – därav hennes sterilitet. Det sägs att raz marash är förutbestämda att för varje tirak de hade fött om de behållit sin fertilitet orsaka hundra fienders nedgång.`
 
-**Mystiska krafter**\
+Mystiska krafter
+--------
 Det finns de tiraker som tvivlar på ztrakims existens. Schamaner som sökt efter dem på andeplanet
 har aldrig lyckats finna en sådan dödsande, vilket i sannolikhetens namn borde tyda på att
 dödsandarna inte är mer än en gammal legend. Trots detta är majoriteten av tirakerna – speciellt de
@@ -32,7 +34,8 @@ i Kiaz – övertygade om att raz marash besitter fruktansvärda krafter.
 `   Detta beror på att raz marash faktiskt uppvisar oförklarliga resurser. De raz marash som lever i Kiaz är elitkrigare, truppledare eller mystiker, och utmärker sig alltid med sin kompetens. Vissa schamaner hävdar att det är de osynliga ztrakimi och Maktah som sänker raz marash deras styrka. Andra har påstått att det är tirakerna orubbliga övertygelse om raz marashs makt som faktiskt ändrar på verkligheten och skänker vanliga, sterila tirakkvinnor fantastiska fysiska och psykiska gåvor.`\
 `   Om det är farliga dödsandar, ren slump eller viljans makt diskuteras alltjämt i Kiaz salar. Oavsett vilken anledningen är innebär alltid raz marash ökad moral och kampvilja för de tiraker som märker av dem. Beståndet raz marash har ökat i Kiaz från fem till femtio de senaste tio åren, och bara den förändringen har skapat en lavinartad moral- och motivationsförstärkning hos Kiaz’ tirakkrigare.`
 
-**Raz marash i praktiken**\
+Raz marash i praktiken
+--------
 De livlösa är en märklig sort, det finns inga gemensamma drag i vilka områden de framträder i, och
 deras förmågor verkar vara helt slumpmässiga. De ser aldrig annorlunda ut jämfört med andra tiraker,
 men de beter sig oftast lite speciellt; mer målinriktat och perspektivbetonat än vad som är brukligt

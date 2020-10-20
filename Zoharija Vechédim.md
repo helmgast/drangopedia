@@ -39,8 +39,8 @@ och Zoharija utvecklade förunderliga krafter.
 skepnadsändrande förmågor och oansenliga men kraftfulla fysik.
 
 *Se även:*\
-[Deheric Shadal][]\
-[Ira Menari][]\
+[Deheric Shadal]\
+[Ira Menari]\
 [Riasha Maganir]\
 
   [Kondikar]: Kondikar

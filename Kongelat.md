@@ -18,7 +18,8 @@ Angående kongelat. För att de inte ska bli övermäktiga och tråkiga (som de 
 skillnad:
 
 Kongelat fungerar inte som en extra kraftreserv, eftersom man magiteoretiskt inte kan "slänga på"
-ett extra filament på de man alstrat pga, you know, krökningstal.\
+ett extra filament på de man alstrat pga, you know, krökningstal.
+
 Följande metaförklaring kan dock användas: Ett kongelat upplöses av magikern samtidigt som man
 alstrar och den extra urladdningen gör alstringen av korrekt aspekt blir Ob1t6 lättare för just den
 alstringen som utförs, precis som om det vore en dubbel influx eller annan godartad omständighet. Så

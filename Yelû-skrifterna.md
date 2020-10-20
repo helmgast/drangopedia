@@ -22,14 +22,20 @@ links:
 title: 'Yelû-skrifterna'
 ---
 
-**Författare:** Okänd, delar är skrivna av en varelse vid namn Uzurheru\
-**Språk:** Forntida lemingo (Te'chana)\
-**Läsbarhet:** Obegriplig (Ob8T6)\
+**Författare:** Okänd, delar är skrivna av en varelse vid namn Uzurheru
+
+**Språk:** Forntida lemingo (Te'chana)
+
+**Läsbarhet:** Obegriplig (Ob8T6)
+
 **Förkunskaper:** Alkemi 15, Astrologi 15, Historia 12, Krigsmaskiner 15, Kulturkännedom 10,
-Geografi 10, Metallurgi 15, Ockultism 10 (Kosmologi), Räkning 15, Teoretisk magi 20\
+Geografi 10, Metallurgi 15, Ockultism 10 (Kosmologi), Räkning 15, Teoretisk magi 20
+
 **Kunskapsinnehåll:** Alkemi 18, Astrologi 18, Historia 18 (Svunna tidsåldrar), Krigmaskiner
-(Magitek) 25, Ockultism 20 (Kosmologi), Teoretisk Magi 25\
-**Tillgänglighet:** Mycket obskyr(Ob8T6)\
+(Magitek) 25, Ockultism 20 (Kosmologi), Teoretisk Magi 25
+
+**Tillgänglighet:** Mycket obskyr(Ob8T6)
+
 Yelû-skrifterna är en samling kamorfiska krönikor, somliga fragmentariska, andra kompletta, som
 upptäcktes i sanarialviska arkiv i [Kini'an Tenev Coron] på 2500-talet jargisk tideräkning.
 Bibliotekspersonalen skulle till att städa upp i arkiven och kom då över en stor mängd

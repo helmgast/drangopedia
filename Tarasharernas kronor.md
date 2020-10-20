@@ -20,12 +20,12 @@ links:
 title: Tarasharernas kronor
 ---
 
--   Författare: [Huhay Sanren]\
+-   Författare: [Huhay Sanren]
 -   Språk: Lohemiska (Arkipelagisk skrift), flera exemplar med [Zhanisk skrift] förekommer.
--   Läsbarhet: Normal (Ob3T6)\
--   Förkunskaper: Inga\
--   Kunskapsinnehåll: Berättarkonst 7 (Tarasharkriget), Historia 5 (Tarasharkriget)\
--   Tillgänglighet: Extremt populär (Ob2T6)\
+-   Läsbarhet: Normal (Ob3T6)
+-   Förkunskaper: Inga
+-   Kunskapsinnehåll: Berättarkonst 7 (Tarasharkriget), Historia 5 (Tarasharkriget)
+-   Tillgänglighet: Extremt populär (Ob2T6)
 
 Tarasharernas kronor är ett epos skrivet av den arkipelagiske tusenkonstnären [Huhay Sanren] för mer
 än tusen år sedan. Det mycket långa verket, ofta uppdelat i sju volymer, är en delvis fiktiv

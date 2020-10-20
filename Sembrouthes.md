@@ -25,7 +25,7 @@ title: Sembrouthes
 En mytisk ras av fruktansvärda och mycket kraftfulla halvgudar, eller [Giganter]. De omnämns i
 legender från [Stora arkipelagen], där de främst figurerar som fiender till arkipelagens urgamla
 gudahärskare i [Kiva] (se även [Sarathikonfederationen]). Deras ursprungs berörs aldrig särskilt
-noggrant i arkipelagens sagor, men enligt vissa dunkla källor var de barn till [titanen][]
+noggrant i arkipelagens sagor, men enligt vissa dunkla källor var de barn till [titanen]
 [Shakabalu].
 
   [1]: Sembrouthes.jpg "Sembrouthes.jpg"

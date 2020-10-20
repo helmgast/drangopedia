@@ -42,7 +42,8 @@ närhet har rapporterat bisarra mardrömmar, och många på universitetet får s
 den att de inte vill vistas i samma rum, men har svårt att förklara varför. Den tycks vidare
 fullständigt oförstörbar, då den klarade sig genom [Den stora jordbävningen] utan så mycket som en
 repa. Det sägs att [Sham-Ukin den Store] la beslag på den när han plundrade Garandor, men att den
-mystiskt uppenbarade sig på sin gamla piedestal på universitetet bara dagar efter hans död.\
+mystiskt uppenbarade sig på sin gamla piedestal på universitetet bara dagar efter hans död.
+
 Man hade möjligen kunnat bringa någon klarhet i mysterierna om en enda skalle till kom i Fraktionens
 magikers ägo så att man kunde studera dess egenskaper, men ingen annan av Nalugadar har setts till
 sedan [Talamdus] fall. Det finns sporadiska rykten att en finns hos [Gorzarzynerna] på [Lamar] och

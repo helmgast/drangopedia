@@ -636,7 +636,8 @@ tidens väktare och Fûm, palmernas väktare; för att bara nämna några få.
 
 darkenska och toshiska gudar???
 
-**BOX: MHÎMRÄTTENS HELGON**
+BOX: MHÎMRÄTTENS HELGON
+--------
 
 Det förekommer en stor mängd helgon inom Mhîmrätten. Officiellt är helgondyrkan förbjuden, men det
 förekommer ändå i viss mån – särskilt finns det en uppfattning inom folktron att helgongravar är
@@ -826,30 +827,30 @@ förgångna alltid är bättre,
 
 Zhanisk mystik:
 
-`   * Mystiskt fokus: personlig insikt, andeväsen och demoner, världar bortom Mundana `\
-`   * nekromanti, likplundring`\
-`   * elementarer, Places of Power, andebesvärjande`\
-`   * förbjuden kunskap, gamla urkunder`\
-`   * esoterisk alkemi, artefaktbyggande`\
-`   * konflikt: Mhîm vs De gamla gudarna vs Sovarna, en hierarki av kraftkällor`
+* Mystiskt fokus: personlig insikt, andeväsen och demoner, världar bortom Mundana 
+* nekromanti, likplundring
+* elementarer, Places of Power, andebesvärjande
+* förbjuden kunskap, gamla urkunder
+* esoterisk alkemi, artefaktbyggande
+* konflikt: Mhîm vs De gamla gudarna vs Sovarna, en hierarki av kraftkällor
 
 Edronitisk tradition:
 
-`   * Esoteriskt fokus: andeplanet, världens uppbyggnad`\
-`   * Själskrafter, transcendens`\
-`   * Kunskapssökande, vetenskaplig metod, empiri, observation`\
-`   * Ritualer, ceremonier, schamanism; experiment`\
-`   * Symbolmagi, kraftcirklar, kongelat`\
-`   * Kraftkällor, magiströmmar, monoliter, högmagiska platser`
+* Esoteriskt fokus: andeplanet, världens uppbyggnad
+* Själskrafter, transcendens
+* Kunskapssökande, vetenskaplig metod, empiri, observation
+* Ritualer, ceremonier, schamanism; experiment
+* Symbolmagi, kraftcirklar, kongelat
+* Kraftkällor, magiströmmar, monoliter, högmagiska platser
 
 Sungs lära:
 
-`   * Världsligt fokus; filosofiska frågor runt magis konsekvenser `\
-`   * Extemporering, besvärjelser, ritualer; praktisk magi`\
-`   * Magnituder, flöden, flätor, transformering; magis uppbyggnad`\
-`   * Filosofi, kunskapssökande genom tillämpning och erfarenhet`\
-`   * Ålderdomliga, skumma språk, symbolik, regelverk`\
-`   * Avsaknad av hierarki, respekt för vishet och personliga framsteg`
+* Världsligt fokus; filosofiska frågor runt magis konsekvenser 
+* Extemporering, besvärjelser, ritualer; praktisk magi
+* Magnituder, flöden, flätor, transformering; magis uppbyggnad
+* Filosofi, kunskapssökande genom tillämpning och erfarenhet
+* Ålderdomliga, skumma språk, symbolik, regelverk
+* Avsaknad av hierarki, respekt för vishet och personliga framsteg
 
 Demoner och andeväsen:
 

@@ -44,7 +44,8 @@ för att tillfredställa herr Mhann utan att själv förlora för mycket anseend
 Fraktionens framtid i vågskålen, och envisa rykten gör gällande att trycket på herr Hjaon har blivit
 för stort, att hindrena tycks honom oöverstigliga, och att den annars så självsäkre politikern nu
 håller på att bryta ihop. Men åtminstone har han den resursfulle och hängivne [Mandagor av Tiro] att
-stötta sig på - med orubbliga män som honom vid ens sida kan väl ändå inget gå fel?\
+stötta sig på - med orubbliga män som honom vid ens sida kan väl ändå inget gå fel?
+
 Herr Hjaon har flera söner, som alla är relativt odugliga och okända. Betydligt mer omtalad är hans
 ögonsten, dottern [Ywana], som är både klipsk och egensinnig och ständigt ställer till vad hennes
 far uppfattar som problem.

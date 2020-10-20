@@ -40,7 +40,7 @@ farsoter, men somliga rykten gör gällande att han ämnar åtgärda det problem
 (påstådda) älskarinna, Lady [Tibors av Colonan]. Amiralens äldste son, [Ludich Matravin], är
 godsherre på ön [Rum], medan en yngre son och två ogifta döttrar vistas på släktens gods på [Ava].
 De övriga av Vinces Matravins åtta barn blev kvar i Consaber, däribland sonen Rickad som är väpnare
-åt ingen mindre än hertigen av Turina, amiralens brorson.\
+åt ingen mindre än hertigen av Turina, amiralens brorson.
 
   [Amiral Vinces personliga vapen]: Matravin_av_Vestane.jpg "Amiral Vinces personliga vapen"
   [Kap Vestane]: Kap_Vestane

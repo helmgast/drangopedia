@@ -38,4 +38,4 @@ Greven av Belleme är en man i 65-årsåldern, med förvånande järnhälsa trot
 av medellängd och man ser fortfarande att han varit en stilig man, med kraftig käklinje och höga
 kindben. Det mörka håret är idag nästan helt grått, bara i den välansade skägget syns tydliga spår
 av brunt. Han är fortfarande stark nog att rida och resa, även om hans stela leder gör hans morgnar
-smärtsamma.\
+smärtsamma.

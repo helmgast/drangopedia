@@ -58,7 +58,8 @@ title: Folk i Chadarian
 
 -   [Torgug Xoro], jarl av Chadarians Hopp
 
-**Verusakademin:**
+Verusakademin:
+--------
 
 -   [Almexandra], Principus Regis
 -   [Anton]
@@ -73,19 +74,22 @@ title: Folk i Chadarian
 -   [Violetta]
 -   [Wilma]
 
-**Akademin för Graduell Magisk Luminans:**
+Akademin för Graduell Magisk Luminans:
+--------
 
 -   [Gaspar], ett spöke
 -   [Heleie Turalian], Asharinas främste alkemist
 -   [Vidmon Eronsson]
 
-**Jordmoderkulten:**
+Jordmoderkulten:
+--------
 
 -   [Anstir]
 -   [Deadicvheat]
 -   [Drusa]
 
-**Slim Hökens posse:**
+Slim Hökens posse:
+--------
 
 -   [Disa (Chadarian)]
 -   [Gurg], enfaldig trukh
@@ -95,7 +99,8 @@ title: Folk i Chadarian
 -   [Smara]
 -   [Torkel]
 
-**Övriga:**
+Övriga:
+--------
 
 -   [Balion], Certanis livvakt
 -   [Bogdan], en skum Drezindvärg

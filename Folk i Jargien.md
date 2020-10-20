@@ -55,7 +55,8 @@ links:
 title: Folk i Jargien
 ---
 
-**Erat:**
+Erat:
+--------
 
 -   [Caias Arcadius Ducas], princep av Merun.
 -   [Tatiana Ducaina], hans fru
@@ -79,7 +80,8 @@ title: Folk i Jargien
 -   [Jehor Quintillis], student vid Kejserliga akademin
 -   [Maximilian], [Zanbazar], legoknektar.
 
-**Maulio:**
+Maulio:
+--------
 
 -   [Belisarius Castor d.y.], princep av Maulio.
 -   [Bellissima Castor], hans hustru
@@ -90,7 +92,8 @@ title: Folk i Jargien
 -   [Sir Devon], en av Valdemars underhuggare
 -   [Fader Ignatius], en inflytelserik präst vid furstehovet i Irian
 
-**Absalon:**
+Absalon:
+--------
 
 -   [Rogerran Londstrim], Absalons herre.
 -   [Consuella], hans mätress.
@@ -99,11 +102,13 @@ title: Folk i Jargien
 -   [Dimitros], dekadent rikeman
 -   [Seneshmet]
 
-**Orno:**
+Orno:
+--------
 
 -   [Lea]
 
-**Henok:**
+Henok:
+--------
 
 -   [Felix Ulixes], princep av Henok.
 -   [Hibera], hans mätress.

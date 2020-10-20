@@ -30,8 +30,8 @@ skarpskuren och egentligen ganska vacker profil. Hans ätt, Trencavel, är greva
 svurna åt trubadurhelgonet St Tyndall är Claimon en ganska kompetent musiker, men detta är något han
 sällan uppvisar. 
 
-**Resurser: 13 (Stipendier, kontakter, lekbröder)**\
-**Rykte: 11 (Allmänt reko)**
+- **Resurser: 13 (Stipendier, kontakter, lekbröder)**
+- **Rykte: 11 (Allmänt reko)**
 
   [Broder Claimons ättevapen]: Trencavel.jpg "Broder Claimons ättevapen"
   [Bertram de Elara]: Bertram_de_Elara

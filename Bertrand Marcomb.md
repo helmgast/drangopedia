@@ -40,7 +40,8 @@ kända, misslyckande var då han tillfångatogs av [Sar Umrin Sham-Ukin], den d�
 kom fri är oklara, och ett anmärkningsvärt faktum är att han idag tycks ha bättre kontakter med
 [Diemedéerna] än nästan någon annan i Övärlden - kaffe, sockerrör och lapis lazuli från Omo
 genererar idag enorma inkomster i Marcombs kistor. Han sägs ofta vara den rikaste sabriern i
-världen.\
+världen.
+
 För mer än ett decennium sedan gjorde Marcomb gemensam sak med [Thiery Samand Armé-Dachaud], och
 senare [Marcel Devin de Ryon], och grundade handelshuset [Den Röda Triskelen]. Ägandeförhållandena
 och ambitionerna inom denna rörelse är mycket luddiga och skumma, i synnerhet som Marcomb
@@ -51,7 +52,8 @@ Arkipelagens uråldriga hemligheter, snarare än världsliga rikedomar och hande
 delvis tycks detta vara sant - den åldrade och excentriske Marcomb tar, öppet, mycket liten del i
 Röda Triskelens verksamhet, och flackar istället runt i Arkipelagen ombord sitt skepp [Krysantemum],
 på jakt efter okända ting. Vilken relation han egentligen har till de andra delägarna i Röda
-Triskelen är i stort höljt i dunkel.\
+Triskelen är i stort höljt i dunkel.
+
 **Resurser: 23 (Ofattbart rik excentriker)**  **Rykte: 20 (Fortfarande ofattbart rik excentriker)** 
 
   [Övärlden]: Stora_Arkipelagen

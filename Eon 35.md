@@ -8,7 +8,7 @@ links:
 title: Eon 3.5
 ---
 
-Eftersom Eon IV verkar <s>suga</s> inte vara exakt vad vi vill ha kläcktes planen att göra en
+Eftersom Eon IV verkar ~~suga~~ inte vara exakt vad vi vill ha kläcktes planen att göra en
 Pathfinder av Eon 3. Dvs fortsätta att fila på Eon 3s grundsystem istället för att bygga om det från
 scratch, dvs som pathfinder gjorde med D&D 3.5.
 

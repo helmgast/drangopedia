@@ -53,55 +53,29 @@ Stridsregler
 
 -   [Tabell för modifierad grundskada]
 
-<!-- -->
-
 -   [Tabell för extra skadebonus]
-
-<!-- -->
 
 -   [Reviderade vapendata]
 
-<!-- -->
-
 -   [Reviderade stridskonster]
-
-<!-- -->
 
 -   [Reviderade stridskonsttekniker]
 
-<!-- -->
-
 -   [Reviderade rustningsdata]
-
-<!-- -->
 
 -   [Rustningskonstruktion]
 
-<!-- -->
-
 -   [Momenthantering]
-
-<!-- -->
 
 -   [Nya stridskonster]
 
-<!-- -->
-
 -   [Nya stridskonsttekniker]
-
-<!-- -->
 
 -   [Nya vapen]
 
-<!-- -->
-
 -   [Penetration]
 
-<!-- -->
-
 -   [Parering och Blockering]
-
-<!-- -->
 
 -   [Extraskadetabeller för udda saker]
 
@@ -110,63 +84,33 @@ Magiregler
 
 -   [Effekter]
 
-<!-- -->
-
 -   [Besvärjelser]
-
-<!-- -->
 
 -   [Alkemiska processer]
 
-<!-- -->
-
 -   [Rang]
-
-<!-- -->
 
 -   [Syndesotropi]
 
-<!-- -->
-
 -   [Kitherotropi]
-
-<!-- -->
 
 -   [Arisotropi]
 
-<!-- -->
-
 -   [Hesperotropi]
-
-<!-- -->
 
 -   [Cronutropi]
 
-<!-- -->
-
 -   [Kosmotropi]
-
-<!-- -->
 
 -   [Nedkallning av kosmiska varelser]
 
-<!-- -->
-
 -   [Räckvidd och Varaktighet]
-
-<!-- -->
 
 -   [Ritualer]
 
-<!-- -->
-
 -   [Ritualmagi]
 
-<!-- -->
-
 -   [Kongelat]
-
-<!-- -->
 
 -   [Själ och hjärta]
 
@@ -175,35 +119,19 @@ Varelser
 
 -   [Thesmofylak]
 
-<!-- -->
-
 -   [Rau'sherim]
-
-<!-- -->
 
 -   [Celestial]
 
-<!-- -->
-
 -   [Eterherre]
-
-<!-- -->
 
 -   [Månsultan]
 
-<!-- -->
-
 -   [Mångubben]
-
-<!-- -->
 
 -   [Edil]
 
-<!-- -->
-
 -   [Vestal]
-
-<!-- -->
 
 -   [Vattententakler]
 

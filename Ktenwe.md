@@ -25,7 +25,7 @@ döda honom är okänt; möjligen kan förklaringen till hans odödlighet vara a
 [Drakväktare], men såvitt man vet dör Drakväktare av dekapitering, så kanske rörde sig det hela
 snarare om någon märklig del av K'tenwes skugglandsnatur. Drakväkterskan [Eithene] har uttalat
 misstankar om att K'tenwe kan vara ett av de många barn som den avsatte skugglandsfursten [L'wethme]
-avlade runtom i världen, och således halvbror till [Nicoz], hertig av [Val Timan].\
+avlade runtom i världen, och således halvbror till [Nicoz], hertig av [Val Timan].
 
   [Abraxes]: Abraxes
   [Svarta Hovet]: Svarta_Hovet

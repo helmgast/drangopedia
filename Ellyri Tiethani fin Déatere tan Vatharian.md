@@ -27,7 +27,7 @@ links:
 title: 'E''llyri Tiethani fin Déatere t''an Vatharian'
 ---
 
-E'llyri är en över hundrafemtio år gammal sanariälva som länge varit verksam i huset [Cuvri'an][]
+E'llyri är en över hundrafemtio år gammal sanariälva som länge varit verksam i huset [Cuvri'an]
 [Legio Colonan], i vars hägn hon bedrivit forskning i kronotropi, semotropi och biomantisk alkemi.
 En gång i tiden [Tenavron Cevarins] och [Lostari Catharions] läromästare. E'llyri är hemlighetsfull
 och mycket mäktig, men impopulär och något av en outsider i Cuvri'an där hon aldrig riktigt stått på

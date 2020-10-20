@@ -16,7 +16,7 @@ Halla är en ung kvinna från [Urag Basan] som anslöt sig till Hertig [Nicoz] t
 ställe, då sagde broder visat sig vara mindre än tillfredsställande som soldat och man. Då han
 ansågs för ömklig till och med för att straffas med döden för att ha försökt desertera, skickades
 han hem efter rejält prygel och uppmanades att skicka sin syster i sitt ställe då hon omöjligen
-kunde vara mindre karl än honom. Halla tjänstgör nu i slottet i Val Timan.\
+kunde vara mindre karl än honom. Halla tjänstgör nu i slottet i Val Timan.
 
   [Urag Basan]: Urag-Basan
   [Nicoz]: Nicoz

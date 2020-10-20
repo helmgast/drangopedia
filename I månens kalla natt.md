@@ -84,8 +84,6 @@ intresse för henne och därigenom göra det sannolikt att hon befinner sig i in
 -   Det finns något viktigt begravt i nordcolonan. Detta är nödvändigt för att rättfärdiga varför
     Legio colonan lägger asmycket resurser på att kontrollera avkroken.
 
-<!-- -->
-
 -   Certani är Tenavrons lärling från början. Hon behövs för karaktärsdynamiken.
 
 Agreed. Certani \<3 /Ol

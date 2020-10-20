@@ -13,7 +13,8 @@ title: Amarant
 
 [Röda Triskelens] stolthet, en tremastad sabrier på 130 ton. Utgör något av en operationsbas för
 konsortiet i [Stora Arkipelagen]. Modernt byggd, snabb och faktiskt även kanonbestyckad är Amarant
-kapabel att avvärja de flesta hoten från pirater och annat drägg i Arkipelagen.\
+kapabel att avvärja de flesta hoten från pirater och annat drägg i Arkipelagen.
+
 **Särskilda egenskaper:**Amarant är svårskött och kräver en relativt stor besättning, minst 40 man,
 men har utmärkta seglingsegenskaper, särskilt i centrala Arkipelagens relativt milda vindar
 (segelfaktor +1 för vindstyrka 2-4).

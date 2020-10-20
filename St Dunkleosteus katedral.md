@@ -48,7 +48,8 @@ enorma summor det skulle kosta att skeppa över fler dvärgar från Mundana prop
 de som ursprungligen byggde basilikan har blivit kvar. Ett undantag är den ökände zoloddvärgen
 [Khaziz], som sägs ligga i hemliga förhandlingar med fader Bertram om att låna ut både kompetens och
 arbetskraft till projektet.Vad Khaziz isåfall skulle begära i gengäld är föremål för mycket
-spekulationer.\
+spekulationer.
+
 Runt själva katedralen, en nästan rund byggnad med höga strävpelare, finns en stor trädgård,
 primodens personliga residens, ett badhus, samt kapitelhus åt [St Faulks orden] och, på nåder, [Herm
 Nove], även om det senare länge stått övergivet. Det finns också ett mindre [kloster] som drivs av

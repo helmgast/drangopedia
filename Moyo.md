@@ -27,7 +27,8 @@ säregna, primitiva hus- och båtbyggartekniker, och deras språk är inte besl�
 är också unika; man har bland annat en särskild sorts hajtandssvärd som knappast kan mäta sig med
 järnvapen, men ändå är eftertraktade som statusprylar runtom i Arkipelagen. Träsniderier och
 ristningar på jättesköldpaddsskal står högt i kurs, men man använder genomgående Arkipelagens
-uråldriga [logografiska symbolskrift] - det [moderna skriftspråket] i norr är föga känt hos Moyo. \
+uråldriga [logografiska symbolskrift] - det [moderna skriftspråket] i norr är föga känt hos Moyo.
+
 Det märkligaste med Moyos kultur är dock traditionen med "sierskor"- i många byar finns en flicka
 eller kvinna med påstått profetiska krafter som fungerar som andlig ledare för samhället, högt
 respekterad och vördad. Dessa kvinnor tycks märkligt ofta vara kroniskt sjuka, och många dör förr
@@ -44,7 +45,8 @@ Moyo sägs ha sällat sig till Gorzarzynakulterna, vilket måhända kan stämma 
 hos gorzarzynerna på Lamar har många likheter med Moyofolkets. Just bruket av tatueringar är utbrett
 i Moyos kultur, och man dekorerar sig med skumma, virvlande mönster i blått och rött - kvinnor har
 ofta en detaljerad bård som löper ned från läppen mot hakan, men det är lite oklart vad den ska
-representera - ett skäggsubstitut, har det hävdats från universitetet på Lohemo.\
+representera - ett skäggsubstitut, har det hävdats från universitetet på Lohemo.
+
 Moyo lever i hög grad som fiskare och pärlfiskare - för det senare är de mycket berömda, eftersom
 vattnen väster om Amilo är osedvanligt rika på pärlor. Några stammar på norra Tientu är valfångare,
 tack vare mycket sjövärdiga katamaraner de lärt sig bygga av Ok'oaru, medan befolkningen på Amilos

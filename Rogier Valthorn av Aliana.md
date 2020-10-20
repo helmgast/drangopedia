@@ -20,7 +20,8 @@ Rogier Valthorn är en borgare från [Aliana] i Consaber som en längre tid arbe
 [Röda Triskelen] i Stora Arkipelagen. Han är en ganska kompetent och resursfull individ, men trots
 ett flertal år i Arkipelagen inte alltför bekant med lokalinvånarna och deras språk och seder,
 vilket lett till en del fadäser emellanåt. Handelsvaror och räkenskaper förstår han sig på som få
-andra, dock, och är därför en värdefull anställd för konsortiet.\
+andra, dock, och är därför en värdefull anställd för konsortiet.
+
 Rogier har hunnit fylla 35, är av medellängd och något lönnfet, med ljust, lätt lockigt hår och
 skägg. Han ogillar Arkipelagens klimat och hetta och svettas en väldig massa, så han svalkar sig
 gärna under bredbrättade hattar om möjlighet finns. I övrigt klär han sig mycket stiligt och

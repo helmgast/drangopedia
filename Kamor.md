@@ -35,40 +35,40 @@ title: Kamor
 Personer
 --------
 
-[Iua Vindrist][]\
-[Ay'ro Vindrist][]\
-[Kuru'gan][]\
-[Soro'gan Blodkäft][]\
+[Iua Vindrist]\
+[Ay'ro Vindrist]\
+[Kuru'gan]\
+[Soro'gan Blodkäft]\
 [Maro'gan Krossaren]\
 
 Platser
 -------
 
-[De Gömda Städerna][]\
-[Dara'nórr][]\
+[De Gömda Städerna]\
+[Dara'nórr]\
 [Den första trädgården]\
 
 Andar & Varelser
 ----------------
 
-[Kee-Wakawa][]\
-[E'zernis][]\
-[Chaurag][]\
-[Kum'ra][]\
-[Nago][]\
-[Tothingog][]\
-[Usikai][]\
-[Åskbarnen][]\
-[Naryu Fal'ai][]\
-[Opun'o][]\
-[Anangal][]\
+[Kee-Wakawa]\
+[E'zernis]\
+[Chaurag]\
+[Kum'ra]\
+[Nago]\
+[Tothingog]\
+[Usikai]\
+[Åskbarnen]\
+[Naryu Fal'ai]\
+[Opun'o]\
+[Anangal]\
 [Hae-Nin]\
 
 Koncept
 -------
 
-[Den femfaldiga strävan][]\
-[Shi'lom][]\
+[Den femfaldiga strävan]\
+[Shi'lom]\
 [Kamoriansk heder]\
 
   [Iua Vindrist]: Iua_Vindrist

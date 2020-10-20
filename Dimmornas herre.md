@@ -53,7 +53,8 @@ dimmor, och sannerligen, en vit, tjock dimma tycks ofta uppenbara sig när Abrax
 inblandad i händelser runtom i världen. Under namnet Zebul, 'den som höljer världen i dimma', var
 han en av Nekrokraternas gudar i världens forntid; sida vid sida med [Xinu], [Dibukk] och [Koyn].
 Han tycks också ha någon form av förbund med [Havsdjupens moder], vars väldiga bestar flera gånger
-kommit till Abraxes hjälp.\
+kommit till Abraxes hjälp.
+
 Dimmornas Herre är också en framstående artefaktbyggare; många halvt mytiska förtrollade vapen som
 cirkulerar i Mundana påstås ha skapats av honom, däribland [Terena'an rowan]. Hans mästerverk
 framför andra lär vara [Akashâs kristallros], en sällsam artefakt av enastående skönhet. Denna
@@ -62,17 +63,20 @@ kanske är det inte blomman i sig han vill åt, utan den karta till [Världens h
 verkligen utgör. Ett mystiskt system av svarta monoliter under flera jargiska städer tycks också på
 något sätt knutet till Abraxes och hans planer. Vad dessa planer egentligen går ut på har inte
 avslöjats - Abraxes har ibland bistått [Thizara], [Nicoz] och deras allierade, men för ett pris, men
-lika ofta verkar han motarbeta dem och allt de står för.\
+lika ofta verkar han motarbeta dem och allt de står för.
+
 De andra drakarna betraktar Abraxes med misstänksamhet. Han var en gång med i [Drakalliansen], och
 bistod dessa i att förbereda Mundana inför Mörkret. Efter drakarnas något ödesdigra anfall mot Edron
 lämnade han dock alliansen för evigt i sällskap med [Rekhem] och [Syantecaran] - dessa tre gick
-sedan skilda vägar, och har varit rivaler snarare än vänner därefter.\
+sedan skilda vägar, och har varit rivaler snarare än vänner därefter.
+
 Det har hävdats att Abraxes en gång var en av Antichtons drakar, som lyckades klamra sig fast vid
 Mundana under en peripeti och karva ut en maktbas i Skugglandet. Mundanas makters alla försök att
 stoppa honom tycks ha misslyckats - kanske för att Abraxes inte var av Mundanas jord, och således
 inte bunden av dess öde. En möjlighet är att Abraxes är så urgammal att han flydde Antichton redan
 under den första peripetin, och var i Skugglandet då det bildades - han har hävdat för Thizara att
-han är den äldsta fysiskt levande varelsen i Mundana.\
+han är den äldsta fysiskt levande varelsen i Mundana.
+
 Abraxes är skenbart en medelstor lumian, vacker men skugghöljd och olycksbådande, med svartblå,
 obsidianglänsande fjäll, märkta av ålder och ärr, och vingarna täckta av vita fjädrar. Han är med i
 draksången redan på andra plats (efter [Khazdurnis]), och sägs vara den främste magikern av alla

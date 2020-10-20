@@ -18,9 +18,11 @@ Terne har också ett akademiskt lärosäte som är tämligen okänt trots deras 
 De har gjort stora framsteg för att definiera det exakta förhållandet mellan en cirkels diameter och
 omkrets, och febrilt arbete pågår för att utveckla ett talsystem som enkelt kan definiera detta och
 samtidigt vara praktiskt användbart. De enda framgångar som nåtts hittills är när akademikerna
-tillåtits definiera parametrarna för det senare utan insyn från mer pragmatiskt lagda intressen.\
+tillåtits definiera parametrarna för det senare utan insyn från mer pragmatiskt lagda intressen.
+
 Akademin på Terne består givetvis helt av runda byggnader, där den noggranne kan observera att desto
-senare byggnaden uppförts, desto närmare är dess grund en perfekt matematisk cirkel.\
+senare byggnaden uppförts, desto närmare är dess grund en perfekt matematisk cirkel.
+
 Kedjor och drev för mekaniska ändamål från Terne sägs vara de bästa, men då marknaden är tämligen
 liten (lokalt är den obefintlig) och Terne är en relativt isolerad plats exporteras de nästan enbart
 till excentriska perfektionister med för mycket pengar.

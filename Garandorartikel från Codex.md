@@ -148,8 +148,6 @@ lagmännens ämbete. Rollpersonen har därmed rätt att undervisa andra och ge o
 
 -   -   
 
-<!-- -->
-
 -   -   
 
 RUTA: Garandors straffsatser

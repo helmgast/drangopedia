@@ -57,7 +57,7 @@ kvicktänkt älva med blandat sanariskt och thismblod.
 Som magiker är Lirmana framförallt känd för sitt enastående intellekt, och sina kunskaper i
 ritualmagi. Hon är känd för ett flertal kryotropiska besvärjelser, främst Lirmanas isande nattkyla
 och Lirmanas vita vinterskrud. På sistone har det gått många rykten om att hon på resor med sitt
-privata skepp, [Tomoniuisge], råkat på [dödsgasten][] [Vezikoz] och hans mobila nekrokult, och att
+privata skepp, [Tomoniuisge], råkat på [dödsgasten] [Vezikoz] och hans mobila nekrokult, och att
 de båda ägnat många nätter på haven åt att utbyta blasfemiska besvärjelser och åkalla dunkla spöken
 från havsdjupen, som nu kan ses i farvattnen utanför Danbréann likt irrbloss ovan vattenytan.
 

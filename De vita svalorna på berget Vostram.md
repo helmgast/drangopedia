@@ -42,23 +42,23 @@ Setting
 Karta
 -----
 
-1 Cellerna\
-2 Mot klosterträdgården och bergets baksida\
-3 Biblioteket\
-4 Trappa till Klosterkyrka\
-5 Trappa till Kapellet\
-6 Abbedissans kammare\
-7 Priorinnans kammare\
-8 Mot observatoriet och bergets topp\
-9 Leksystrarnas sovsal\
-10 Förråd, ommöblerat till barack åt Herm Nove\
-11 Improviserat fängelse\
-12 Improviserad kammare åt precept Adriatus\
-13 LEDIG KAMMARE\
-14 Tvätteri\
-15 LEDIG KAMMAR\
-16 MYSTISK KAMMARE\
-17 MYSTISKT RUM\
+1. Cellerna
+2. Mot klosterträdgården och bergets baksida
+3. Biblioteket
+4. Trappa till Klosterkyrka
+5. Trappa till Kapellet
+6. Abbedissans kammare
+7. Priorinnans kammare
+8. Mot observatoriet och bergets topp
+9. Leksystrarnas sovsal
+10. Förråd, ommöblerat till barack åt Herm Nove
+11. Improviserat fängelse
+12. Improviserad kammare åt precept Adriatus
+13. LEDIG KAMMARE
+14. Tvätteri
+15. LEDIG KAMMAR
+16. MYSTISK KAMMARE
+17. MYSTISKT RUM
 
 Bakgrund
 --------
@@ -157,41 +157,45 @@ bön. Läggdags.
 
 Matins, natt, här ska man sova
 
-**Dag 1**\
-Lauds\
-Prime, Rollpersonerna träffas i full styrka för första gången sedan Castellosa dog, tack vare att
+Dag 1
+--------
+1. Lauds
+2. Prime, Rollpersonerna träffas i full styrka för första gången sedan Castellosa dog, tack vare att
 Blancheflor ordnat så att de alla har tjänstgöring i tvätteriet. Här får rollpersonerna chans att
-prata av sig om Castellosa och smida planer.\
-Vespers,\
-Compline\
-Matins\
+prata av sig om Castellosa och smida planer.
+3. Vespers,
+4. Compline
+5. Matins
 
-**Dag 2**\
-Lauds, Castellosa begravs.\
-Prime\
+Dag 2
+--------
+1. Lauds, Castellosa begravs.
+2. Prime
 Rollpersonerna skickas till [Bergets baksida] för att ge lite mat till Cerrita.
+3. Vespers
+4. Compline
+5. Matins
 
-Vespers\
-Compline\
-Matins\
-
-**Dag 3**\
+Dag 3
+--------
 En sandstorm blåser in under Matins och morgonmässan måste utföras i Fodienda Capella. Alla
 planerade aktiviteter under dagen avbryts och abbedissan förespråkar bön i enskildhet. Dock kommer
 ju ingen att övervaka vem som springer omkring vart i sanddimman... Det gäller att inte dra in för
-mycket sand på fel platser bara...\
-Lauds\
-Prime\
-Vespers\
-Compline\
-Matins\
+mycket sand på fel platser bara...
 
-**Dag 4**\
-Lauds\
-Prime\
-Vespers\
-Compline, [Zälgu] går in i sin sista och farligaste fas.\
-Matins\
+1. Lauds
+2. Prime
+3. Vespers
+4. Compline
+5. Matins
+
+Dag 4
+--------
+1. Lauds
+2. Prime
+3. Vespers
+4. Compline, [Zälgu] går in i sin sista och farligaste fas.
+5. Matins
 
 Rollpersonerna och Castellosa
 -----------------------------
@@ -200,12 +204,12 @@ Rollpersonerna och Castellosa
 från Jargien till Gran Vostram, en karavan som det höll på att gå förfärligt illa för. Tack vare
 rollpersonernas kvicktänkthet gick dock allting bra.*
 
-Syster [Beatrix]\
-Syster [Blancheflor]\
-Syster [Mirella]\
-Syster [Juliana]\
-Syster [Alaisina]\
-Syster [Castellosa]\
+- Syster [Beatrix]
+- Syster [Blancheflor]
+- Syster [Mirella]
+- Syster [Juliana]
+- Syster [Alaisina]
+- Syster [Castellosa]
 
 Fisktank
 --------
@@ -234,11 +238,7 @@ Eremiten Cerrita, halvgalen äldre kvinna, håller till i ett skjul på [Bergets
 
 ### [Platsbeskrivningar]
 
-Klosterkyrkan\
-Gran Vostrams klosterkyrka är betraktad som en synnerligen helig plats inom den jargiska daakkyrkan.
-Helgad av [Danculla den Upphöjda] under ÅRHUNDRADE har den länge varit en vallfärdsost för inte bara
-vostramiter, utan alla de jargiska nunneordnarna. Klosterkyrkan är uthuggen ur bergssidan,
-visserlige
+**Klosterkyrkan**: Gran Vostrams klosterkyrka är betraktad som en synnerligen helig plats inom den jargiska daakkyrkan. Helgad av [Danculla den Upphöjda] under ÅRHUNDRADE har den länge varit en vallfärdsost för inte bara vostramiter, utan alla de jargiska nunneordnarna. Klosterkyrkan är uthuggen ur bergssidan, visserligen.
 
 Kapitelsal
 
@@ -252,7 +252,7 @@ Trädet
 
 Berget [Vostram][Platsbeskrivningar]
 
-### '''Handouts, ledtrådar och röda sillar
+### Handouts, ledtrådar och röda sillar
 
 `- Hemliga lappar i biblioteket`\
 `- Det Onda Trädet`
@@ -272,7 +272,8 @@ karaktärer vara med när scenariot spelas på fyra personer.
 Lösa ideer
 ----------
 
-**Att integrera**
+Att integrera
+--------
 
 `- Instruktioner till spelledaren; de sista dagarna kan en rollpersons handlingar generaliseras till hela gruppen när eterherrens influenser börjar smälta samman deras medvetande.`
 
@@ -366,9 +367,11 @@ den uppenbara följdfrågan; vem gjorde det?
 
 För att ta reda på detta kan rollpersonerna ställa frågor.
 
-**Ledtrådar**
+Ledtrådar
+--------
 
-**Vem vet något?**
+Vem vet något?
+--------
 
 -   Foedisia, den galna eremiten, känner Zälgus närvaro i observatoriet
 -   Syster Recita, bibliotekarien, vet att Castellosa var inne sent i biblioteket och gjorde något
@@ -381,12 +384,14 @@ För att ta reda på detta kan rollpersonerna ställa frågor.
 -   Syster Elideria, såg Castellosa meditera
 -   Syster Venebella, känner till den hemliga gånger genom kryptan som leder upp till observatoriet
 
-**Vem har resurser?**
+Vem har resurser?
+--------
 
 -   Syster Astrakia, curata, den enda som, förutom Escarmonde, har nycklar till observatoriet
 -   
 
-**Andra källor till kunskap**
+Andra källor till kunskap
+--------
 
 -   Castellosas marginalanteckningar i *Ultima requies Sanctus sefridus*
 -   Stjärnkartan i klostertemplet?
@@ -404,7 +409,6 @@ Automatiska händelser
     rollpersonerna när Herm Nove-riddarna som jagat efter honom kommer ikapp. "Ni har dömt er själv
     till undergång!" vrålar han på muhadinska, "himlakejsaren kommer inte finna sig i att ni
     fängslar hans härolder!".
--   
 
 Slutet
 ------

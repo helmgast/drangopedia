@@ -39,7 +39,7 @@ källarvalv under universitetet på [Lohemo], då dess ljus är så praktfullt a
 kan uthärda det. En annan stjärna, *Kuruksetra*, sägs genom gudinnorna [Makeas] och [Namakes] försyn
 ha hamnat i [Gorzarzynas tempel] på [Lamar]. Vad det blev av de andra stjärnorna är inte känt,
 kanske ligger de med en söndervittrad mantel i något bortglömt gravvalv på Moran, kanske förtärdes
-de av elden i jordens innanmäte med sin bärare.\
+de av elden i jordens innanmäte med sin bärare.
 
   [Hongonfragmenten]: Hongonfragmenten
   [Iset Azarmisherah]: Iset_Azarmisherah

@@ -28,7 +28,7 @@ links:
 title: Deheric Shadal
 ---
 
-En persona som användes av [mynaden][] [Zoharija Vechédim] för att infiltrera perinatribulen i
+En persona som användes av [mynaden] [Zoharija Vechédim] för att infiltrera perinatribulen i
 slutet av det tjugonionde seklet, e.D.
 
 "Deheric" började göra ett namn för sig för drygt tio år sedan då han utmärkte sig under

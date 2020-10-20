@@ -18,7 +18,8 @@ Dessa två kraggsvärd smiddes av den gamle krigaren [Thyr] på order av kung [S
 skänktes till den framstående krigaren och drakdräparen [Ylkhrakh] och dennes blodsbroder [Nicoz
 Mehzinor], då de bägge hade förlorat sina Kraggsvärd i hedervärd strid. För att ära två såpass
 framstående krigare, smiddes klingorna av skärvor från stupade hjältars splittrade klingor, liksom
-resterna av deras gamla svärd.\
+resterna av deras gamla svärd.
+
 Svärden är av konventionell utformning för kraggsvärd, om än något mer ornamenterade än vanligt.
 Hantverket är gediget och jämförbart med långt äldre klingor, och den utmärkta balanseringen gör de
 tunga klingorna förrädiskt smidiga. Bägge har en kort vers på rechin inristade i blodskåran som

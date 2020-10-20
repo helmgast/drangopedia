@@ -61,7 +61,8 @@ den lilla gruppen, men sätter ingen som helst prestige i detta. Det är bara s�
 har bäst koll på vad som måste göras. Dessutom glömmer de andra oftast när det drar ihop sig till
 mässa och ve den som missar en mässa!
 
-**Personlighet**
+Personlighet
+--------
 
 Du är en lojal och mycket välvillig vän. Samtidigt är du väldigt mån om att uppfylla dina plikter.
 Ibland hamnar dessa två i konflikt med varandra och då kan det vara svårt för dig att vilken väg du
@@ -70,7 +71,8 @@ spenderar gärna tid i studier eller kontemplation. Du är ofta uppfylld av tank
 något som ibland gör att du verkar lite disträ eller avlägsen. Trots att ni alltid sover i enskilda
 celler blir du fortfarande lite nervös av det och ogillar i allmänhet när gruppen splittras.
 
-**Relationer**
+Relationer
+--------
 
 [Beatrix] var den första du talade med av de som senare skulle bli din närmsta krets vänner. Om man
 lite generaliserande kan säga att du är den mest spirituella bland era vänner så är hon den mest

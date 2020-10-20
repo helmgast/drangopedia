@@ -14,16 +14,12 @@ links:
 title: Lycans Eumo
 ---
 
-<div style="background-color: #ddf5eb; border-style: dotted;">
-
-Något jag har funderat på är termen Eumo såsom en större geografisk enhet (Eumo, Belu, Dhuk, Summag
+*Något jag har funderat på är termen Eumo såsom en större geografisk enhet (Eumo, Belu, Dhuk, Summag
 och Vildlanden), och termen Eumo som stat. Bör man kalla Eumo (geografiskt område) för något annat
-än Eumo (stat)?
-
-</div>
+än Eumo (stat)?*
 
 Stora Eumo är ett enormt område bestående av mer eller mindre laglösa områden kring Caibukten.
-<s>Nästan hela Eumo består av öken eller torra stäpper vilka är bebodda av krigiska stammar</s>. Det
+~~Nästan hela Eumo består av öken eller torra stäpper vilka är bebodda av krigiska stammar~~. Det
 är en till stor del gudsförgäten och ogästvänlig avkrok med vidsträckta ökenområden och hemsökta
 jungler.
 
@@ -55,7 +51,7 @@ Sung. Sungmunkarna har styrt upp en relativt stark statsmakt i Eumos inland och 
 för att fördela regionens rikedomar. Sungmunkarna är generellt högt respekterade och har gjort
 mycket för att hålla stora delar av Eumo stabila.
 
-Eumos mer perifera regioner tenderar dock att vara laglösa och nergångna. <s>Folket i Eumo</s> *De
+Eumos mer perifera regioner tenderar dock att vara laglösa och nergångna. ~~Folket i Eumo~~ *De
 vildsinta stammarna i Eumos utmarker* lever till stor del på tullar, röveri och karavanplundring
 (bland annat av guld och ädelstenar som transporteras ut från Belus dal). Stammarna i perifera Eumo
 är självständiga och krigiska, men de flesta är ändå lojala mot munkarna i Sung, och brukar följa de

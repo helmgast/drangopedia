@@ -15,13 +15,15 @@ tronar på bergets topp.
 Rollpersonerna kan ta sig in i observatoriet tidigt, men att komma ner till Zälgu är betydligt
 svårare.
 
-**Vägen upp**\
+Vägen upp
+--------
 Trappan till observatoriet nås genom en portöppning utan dörr i bergssidan. Denna leder in till en
 tunnel som löper långt genom berget och slutligen ut i ett cylinderformat schakt innehållande
 trappan som leder upp till observatoriets första våning. Högst upp i spiraltrippan leder en olåst
 lucka i taket upp till observatoriet.
 
-**Bottenvåningen**\
+Bottenvåningen
+--------
 Observatoriets bottenvåning är ett stort runt rum, fyllt med skåp och hyllor. På väggarna sitter en
 mängd stjärnkartor, gamla och nya, och förvaringsutrymmena är fulla av böcker, tabeller med
 himlakropparnas rörelser, astronomiska instrument och annan parafernalia. En stege i rummets mitt
@@ -33,7 +35,8 @@ den med en större yxa eller finna en av de två nycklarna. En ena nyckeln, som 
 på, har Esclarmonda och den andra hade Castellosa lyckats lägga beslag på (se stycket om Castellosas
 hemligheter).
 
-**Ovanvåningen**\
+Ovanvåningen
+--------
 En enorm stjärnkikare i brons upptar det mesta av rummet. När rollpersonerna kommer upp till kikaren
 stirrar den rakt in i observatoriets metalltak och går inte att använda. Observatoriets tak är dock
 en snillrik konstruktion som kan fällas tillbaka likt två ögonlock och ger därmed fri utsikt åt alla
@@ -41,7 +44,8 @@ håll. Om rollpersonerna trixar en stund kan de genom att lyckas med en normal U
 taket och aktivera kikaren. Detta har dock ringa effekt på scenariots handling. Betydligt
 intressantare på ovanvåningen är
 
-**Källaren**\
+Källaren
+--------
 Observatoriets "källare" är ett primitivt och grovt uthugget rum med få bekvämligheter och inga
 ljuskällor. Där inne försmäktar den sorglige Zälgu, som fängslats i ett kraftpentagram av
 Esclarmonda. Kommer man in i källaren är det enkelt att befria Zälgu (sudda ut delar av

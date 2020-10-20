@@ -15,7 +15,8 @@ links:
 title: Ordstammar
 ---
 
-**Arkipelago-Forianska språk**
+Arkipelago-Forianska språk
+--------
 
 -   *[Lohemiska]*
 -   *[Oriton-Forianska]*
@@ -31,7 +32,8 @@ title: Ordstammar
 
 'nor', fri, frihet
 
-**Mataliska språk**
+Mataliska språk
+--------
 
 -   *[Ok'oaru (språk)]*
 -   [Qwandaloiska]
@@ -46,11 +48,13 @@ title: Ordstammar
 
 'tema', minne
 
-**Tainoiska språk**
+Tainoiska språk
+--------
 
 -   *[Amoyo]*
 
-**Isolatspråk**
+Isolatspråk
+--------
 
 -   *[Gerasiska]*
 

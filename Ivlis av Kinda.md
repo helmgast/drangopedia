@@ -33,13 +33,13 @@ kan mer vara fråga om att Ivlis inte riktigt har ett realistiskt perspektiv på
 giftermål. Lämpliga grevesöner som kastar sig för hennes fötter har dock låtit vänta på sig, så
 Ivlis bidar otåligt sin tid medan hon försöker förbättra sin position vid hovet genom att sprida
 rykten och baktala folk. Om det inte vore för att lady Ygea lägger vissa band på hennes
-dumdristighet hade Ivlis nog varit mäkta impopulär vid det här laget.\
+dumdristighet hade Ivlis nog varit mäkta impopulär vid det här laget.
+
 Ivlis är kurvig, finlemmad och linblond, klär sig gärna i gräddvitt, gult eller rentav gyllene, även
 om hon för det mesta har förstånd nog att inte överglänsa drottningen. Hon har flera systrar som är
 bortgifta på olika håll, men hennes far föll offer för Vita Döden. Förmyndare är istället brodern
 [Hugvald av Kinda], en ambitiös men kungatrogen riddare. Ivlis mor, [Miranda av St Kira], härstammar
-från den ökända ashariska ätten Filbunke, och är en ganska beryktad figur i Drunok.\
- 
+från den ökända ashariska ätten Filbunke, och är en ganska beryktad figur i Drunok.
 
   [Lady Ivlis personliga vapen]: Ivlis_av_Kinda_.jpg "Lady Ivlis personliga vapen"
   [Bortaïs av Drunok]: Bortaï_den_Fagra

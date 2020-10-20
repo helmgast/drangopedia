@@ -39,7 +39,7 @@ och sänka ett antal fartyg från [Garandor-riket], vilket föranledde en lång 
 flotta tillslut kunde hämnas genom att sänka de jargiska skeppen. En överlevande Herm Nove-riddare
 spolades emellertid iland på Abea, och såg detta som ett tecken från Gud - hade inte självaste
 [Sankt Zergavas] också spolats iland efter ett skeppsbrott? Zemian av Ralborion, som han hette,
-<s>våldgästade</s> togs om hand av några infödingar för vilka han predikade den sanna tron, och med
+~~våldgästade~~ togs om hand av några infödingar för vilka han predikade den sanna tron, och med
 dessas hjälp kunde han också sända meddelande till andra kolonisatörer att Aeba var ett bra ställe
 att etablera en bas på.
 

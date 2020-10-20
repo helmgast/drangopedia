@@ -60,7 +60,8 @@ med guldtråd. När han tar hand om sin drake Amereta blir han som förbytt, på
 tystlåten och eftertänksam, men å andra sidan har han också från Ameretas rygg utfört oräkneliga
 dumdristiga, storvulna och direkt fåfänga manövrer, även i stridens hetta.
 
-**Resurser: 14 (Status, pengar, hänförda älskarinnor)**\
+**Resurser: 14 (Status, pengar, hänförda älskarinnor)**
+
 **Rykte: 18  (Odräglig ärkehjälte/charlatan/casanova, Flygdragonernas befälhavare)**
 
   [Sir Heryns personliga vapen, karbunkel inkluderad]: Heryn_Fevelien.jpg

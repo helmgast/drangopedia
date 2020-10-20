@@ -182,7 +182,7 @@ relationen mellan Mundana och dess närliggande existensplan genom [Dazhûrs rit
 Ayedwara-Osi fick kontakt med de andra tornens väktare är okänt och tämligen mystiskt, för att inte
 tala om hur de någonsin kunde fås att göra gemensam sak med sina ärkefiender i [Österns torn].
 
-Dazhûrs rit föranledde Luberos återinträde i den skrivna historien. [Huhuemates][Huhuemate],
+Dazhûrs rit föranledde Luberos återinträde i den skrivna historien. [Huhuemates],
 [Æthelindans], [Djahiriwâteas] och [Menehezeths] drakväktare angrep tillsammans med Zûtha av
 Raukorrs tiraker Luberos för att förhindra ritens genomförande, och tillfogade Söderns torn
 allvarliga skador. [Nordens torn] och [Österns torn] kunde dock genomföra riten helt och fullt, och
@@ -217,7 +217,7 @@ Medlemmar
 ---------
 
 -   [Alasaïs Vilamur]
--   [Katharketor][Katharketors]
+-   [Katharketor]
 -   [Qaitu Haraka]
 -   [Ikeya Szeto]
 -   [Thelesso]
@@ -234,7 +234,7 @@ Medlemmar
   [Vågentiteten]: Vågentiteten
   [Antichton]: Antichton
   [Sashirna]: Sashirna
-  [Huhuemate]: Huhuemate
+  [Huhuemates]: Huhuemate
   [Nycklarna]: Sashirnas_nycklar
   [Kiva]: Kiva
   [Lubandiska]: Gerasiska
@@ -251,7 +251,7 @@ Medlemmar
   [Menehezeths]: Menehezeth
   [Nordens torn]: Nordens_torn
   [okänd kraft]: Mittens_torn
-  [Katharketors]: Katharketor
+  [Katharketor]: Katharketor
   [Bashagon Sor]: Bashagon_Sor
   [Tir na Yssan]: Tir_na_Yssan
   [Kam-mar Zafir]: Kam-mar_Zafir

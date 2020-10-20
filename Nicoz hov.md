@@ -49,13 +49,15 @@ links:
 title: Nicoz hov
 ---
 
-**Nicoz familj:**
+Nicoz familj:
+--------
 
 -   [Lady Frostmåne]
 -   [Lady Maeve]
 -   [Cuïridin]
 
-**Riddare:**
+Riddare:
+--------
 
 -   [Sir Arog]
 -   [Sir Corben]
@@ -66,7 +68,8 @@ title: Nicoz hov
 -   [Sir Techar]
 -   [Sir Marius]
 
-**Väpnare:**
+Väpnare:
+--------
 
 -   [Mianni]
 -   [Quentin]
@@ -76,12 +79,14 @@ title: Nicoz hov
 -   [Tahmin]
 -   [Varashte]
 
-**Rådgivare:**
+Rådgivare:
+--------
 
 -   [Celdan]
 -   [Kiara]
 
-**Tjänare:**
+Tjänare:
+--------
 
 -   [Disa]
 -   [Kayanis]
@@ -90,13 +95,15 @@ title: Nicoz hov
 -   [Dariko], sjuksköterska
 -   [Abelard], biblioteksassistent
 
-**Skumma:**
+Skumma:
+--------
 
 -   [Ilak]
 -   [Kharoum]
 -   [Qatay]
 
-**Övrigt löst folk:**
+Övrigt löst folk:
+--------
 
 -   [Alisa]
 -   [Radik]
@@ -106,7 +113,8 @@ title: Nicoz hov
 -   [Kira]
 -   [Ittma], Varashtes nyfödde son
 
-**Soldater och milismän:**
+Soldater och milismän:
+--------
 
 -   [Halla]
 -   [Hazzak]

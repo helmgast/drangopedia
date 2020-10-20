@@ -35,26 +35,26 @@ Allmäna (och specifika för mindre framträdande karaktärer)
 -   [But Not Too Black] - Ayeme, den här är så jävla spot on :D
 -   [Character Magnetic Team] - Mörkrets hjärta possen tenderar att vara värst, men alla lyckas i
     nån mån...
--   [The Chessmaster] - Abraxes, Valdemar Trevena\
--   [Chickification]  - Alldeles för ofta\
+-   [The Chessmaster] - Abraxes, Valdemar Trevena
+-   [Chickification]  - Alldeles för ofta
 -   [Christmas Cake] - Tyra av Vedrin, Dann Casen
--   [Complete Monster] - Alariel, Amir Ezra, Seneshmet, och den där kefalen i Västlandenkampanjen\
--   [Crowning Moment of Awesome]  - Såå många (Lägg gärna in era favoriter)\
+-   [Complete Monster] - Alariel, Amir Ezra, Seneshmet, och den där kefalen i Västlandenkampanjen
+-   [Crowning Moment of Awesome]  - Såå många (Lägg gärna in era favoriter)
 -   [Daddy's Little Villain] - Meleka
 -   [Deader Than Dead] - Alariel
 -   [Deadly Decadent Court] - Thalamur, Mûhad i synnerhet, hela Mundana i allmänhet
 -   [Deadpan Snarker] - Nigel, Thizara, Valis, Denelian, Nicoz, Mido, [Dahaun]. Se också [Little
-    Miss Snarker]\
+    Miss Snarker]
 -   [Deal With The Devil] - Mido, Frostmåne
--   [Death by Childbirth] - 'Akidja, Nicoz mamma\
+-   [Death by Childbirth] - 'Akidja, Nicoz mamma
 -   [Death Glare] - Orlik, drakarna
 -   [Destructo Nookie] - Serizor & Inalea, Thizara & Demjan
--   [The Dragon] - Aveura, K'tenwe, Herr Garmus och möjligtvis Herr Ulrich\
+-   [The Dragon] - Aveura, K'tenwe, Herr Garmus och möjligtvis Herr Ulrich
 -   [Dysfunction Junction] - Nästan alla av de mer framträdande karaktärerna, i synnerhet
     rollisarna.
--   [Elite Mooks] - Siklar med *runor*\
--   [Emotionless Girl] - Zhanima\
--   [The End of the World As We Know It] - Mörkret\
+-   [Elite Mooks] - Siklar med *runor*
+-   [Emotionless Girl] - Zhanima
+-   [The End of the World As We Know It] - Mörkret
 -   [Evil Chancellor] - var faen börjar man?
 -   [Evil Is Cool] - well, yeah.
 -   [Evil Overlord] - Kubbe (fordom), Abraxes, Syantecaran, Xinu
@@ -68,7 +68,7 @@ Allmäna (och specifika för mindre framträdande karaktärer)
 2.  [The Lancer] - Valis
 3.  [The Big Guy] - Mido
 4.  [The Smart Guy] - Thizara
-5.  [The Chick] - Ishana (platsen för tillfället ledig :( )\
+5.  [The Chick] - Ishana (platsen för tillfället ledig :( )
 
 eller...
 
@@ -96,15 +96,14 @@ eller...
 
 eller varför inte...
 
--   [Six Student Archipelago Clique]\
+-   [Six Student Archipelago Clique]
 
-The Head — Arienne\
-The Muscle — Etien\
-The Quirk — Zemos\
-\
-The Pretty one — Indarie\
-The Smart one — Ilona\
-The Wild one — Lucien\
+1. The Head — Arienne
+2. The Muscle — Etien
+3. The Quirk — Zemos
+4. The Pretty one — Indarie
+5. The Smart one — Ilona
+6. The Wild one — Lucien
 
 -   [Foe Yay] - Inalea & Eithene (åtminstone Inalea verkar något fixerad...)
 -   [Glowing Eyelights of Undeath] - Kubbe, Orlik, Gebashan, Vrann, etc.
@@ -115,7 +114,7 @@ The Wild one — Lucien\
 -   [Heterosexual Life Partners] - Nicoz & Valis, Eithene & Första Snön (inte längre), Nigel &
     Atargatis (i den mån Atargatis inte är *a*sexual. Kan gå på ett ut eftersom Nigel närmar sig
     pansexualitet)\
--   [High Heel Face Turn] - 'Akidja, Kayanis\
+-   [High Heel Face Turn] - 'Akidja, Kayanis
 -   [Hoist By His Own Petard] - Moróga, uppäten av Gohlbrandh
 -   [Hot Chick With A Sword] - Szza, Po, Inalea, Eithene (använder i regel hellre sin Ishani, men
     ändå), 'Akidja, Amara, Aranni, Frostmåne, Yanan, Tienne, Wyn, Bortaï, Jehana, Yzanna, Mianni,
@@ -127,7 +126,7 @@ The Wild one — Lucien\
 -   [Indy Ploy] - Nicoz, Denelian och Nigel i synnerhet.
 -   [The Ladette] - Amara, Eire
 -   [Lady Of War] - Bortaï, Rhiannon, Dann Casen, Arienne
--   [The Lancer] - Ishan åt Kumbanigash, Valis åt Nicos, Gebashan åt Nanórgona, Etien åt Lucien\
+-   [The Lancer] - Ishan åt Kumbanigash, Valis åt Nicos, Gebashan åt Nanórgona, Etien åt Lucien
 -   [Large Ham] - Rhazcom Manziir
 -   [Les Yay][Ho Yay] - Thizara & Certani
 -   [Litte Miss Badass] Maeve har potential. Hon har fått vapenträning sen innan nio års ålder och
@@ -139,21 +138,21 @@ The Wild one — Lucien\
     Nicoz och Eithene och Denelian, Nicoz och Eithene och Denelian ''och ''Oron***och*** Verduhrakh,
     för att bara nämna några extra kletiga. Närmar sig [Love Dodecahedron].\
 -   [Mangst] - nästan alla män med samvete, och några kvinnor.
--   [Mind Rape] - både Orlik och Abraxes gillar det här; Inalea tycks särskilt känslig mot det.\
+-   [Mind Rape] - både Orlik och Abraxes gillar det här; Inalea tycks särskilt känslig mot det.
 -   [Named Weapons] - [Massor]
 -   [Nubile Savage] - Wahi, Första Snön
 -   [Ominous Fog] - Abraxes
--   [Omniscient Council of Vagueness] - De trettons råd, Drakalliansen\
+-   [Omniscient Council of Vagueness] - De trettons råd, Drakalliansen
 -   [One Steve Limit] - subvertad vad det gäller bikaraktärer
--   [Our Dragons Are Different]  - Jääjj!\
--   [Posthumous Character ] - Brendel, Esanni\
+-   [Our Dragons Are Different]  - Jääjj!
+-   [Posthumous Character ] - Brendel, Esanni
 -   [Pregnant Hostage] - textbook-exempel med Gyllenöga, tragiskt subvertad med Inalea, och sort of
     kind of; Frostmåne
 -   [Proud Warrior Race Guy/Girl] - Första Snön, Wahi, Bortaï, Arzûl, Téres, Rhiannon, samtliga
     Kragg & Eyren, Kuru'gan!
 -   [Put On A Bus] - alltså seriöst, man kan bara ha med så många karaktärer...
 -   [Rape As Drama] - jepp...
--   [Really Seven Hundred Years Old] - Maaaaassor\
+-   [Really Seven Hundred Years Old] - Maaaaassor
 -   [Rebellious Princess] - Yanan
 -   [Reforged Blade] - [Brödrasvärden]
 -   [Reliable Traitor] - Vrann
@@ -180,20 +179,20 @@ The Wild one — Lucien\
 -   [The Strategist] - Kymnenos, Tyra av Vedrin. 
 -   [Thirty Xanatos Pile Up] - numera kampanjens fucking***grundläggande*** struktur...
 -   [Trauma Conga Line] - I synnerhet Mido och Eithene. Nicoz och Thizara kanske också kvalar in.
--   [Tsundere] - Mianni, Första Snön har också tendenser\
+-   [Tsundere] - Mianni, Första Snön har också tendenser
 -   [Ultimate Blacksmith] - Yag
 -   [UST] - Valis & Thizara, Arienne & Lucien
 -   [The Vamp] - Meleka, L'meas
--   [Waif Fu] - Inalea, Ishana, Yanan, Edarion, Tienne\
+-   [Waif Fu] - Inalea, Ishana, Yanan, Edarion, Tienne
 -   [Waif Prophet] - Zhanima, Ilona och kanske Maeve
 -   [We Do The Impossible] - Rollpersoner och påhäng i allmänhet. Nicoz, Thizara & co i synnerhet.
 -   [We Can Rule Together] - Thizara har blivit erbjuden detta av både Abraxes, Lutharion och
     Teveletion
 -   [What Happened To The Mouse] - Eram & Kiya, Sällskapets luftskepp
--   [Who Wants To Live Forever] - Stenkonungen, Gammal-som-Tiden, Svarta Vargen, med flera\
+-   [Who Wants To Live Forever] - Stenkonungen, Gammal-som-Tiden, Svarta Vargen, med flera
 -   [Women in Refrigerators]  - Eli, Chimge, och, diskutabelt, Yzanna och Ishana, Erianni och
     Eithene
--   [Xanatos Gambit] - Abraxes primära modus operandi\
+-   [Xanatos Gambit] - Abraxes primära modus operandi
     \
 
 Karaktärsspecifika
@@ -250,7 +249,7 @@ Karaktärsspecifika
 ### Eithene
 
 -   [Lady of War] - passar henne som handen i vanten
--   [Action Girl ]\
+-   [Action Girl ]
 -   [Boobs Of Steel]
 -   [Broken Bird]
 -   [Good Thing You Can Heal]
@@ -279,7 +278,7 @@ Karaktärsspecifika
 
 ### Kumbanigash
 
--   [The Aragorn]\
+-   [The Aragorn]
 -   [Authority Equals Asskicking]
 -   [Black Magic]
 -   [Dark But Not Evil]
@@ -288,7 +287,7 @@ Karaktärsspecifika
 -   [Fan Nickname]- jag menar, Inalea är också ett fan...
 -   [Gentle Giant]
 -   [Large And In Charge]
--   [Magic Knight\
+-   [Magic Knight
     ][Magic Knight]
 -   [Morality Pet] - Inalea
 -   [Power Incontinence]
@@ -323,15 +322,15 @@ Karaktärsspecifika
 ### Första Snön
 
 -   [Back From The Dead]
--   <span style="text-decoration: underline;"></span>[Despair Event Horizon]
--   [Fragile Speedster]\
+-   [Despair Event Horizon]
+-   [Fragile Speedster]
 -   [Nature Hero]
 -   [Nubile Savage]
 -   [Proud Warrior Race Girl][Proud Warrior Race Guy/Girl]
 -   [Revenge Before Reason] - fast hon har blivit klokare på sistone...
 -   [Scars Are Forever]
 -   [Trigger Happy]
--   [The Woobie]\
+-   [The Woobie]
 
 ### Saevan
 

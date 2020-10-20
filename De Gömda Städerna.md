@@ -28,7 +28,8 @@ gynnar kamorianernas sak.
 
 Djupt i Kamors inland
 
-**Dur'kagra**\
+Dur'kagra
+---------------
 Dold i hjärtat av den fruktade Ra-ginr, [Ryllingveden], vilar resterna av en urgammal tempelstad, av
 kamorianerna kallad Dur'kagra, Hatets Boning. Staden verkar ha varit skådeplats för fruktansvärda
 händelser någon gång i forntiden och en ond resonans utstrålar alltjämt från de gamla
@@ -51,7 +52,8 @@ Förutom att medla i konflikter som uppstår mellan stammarna har Wur'bethil ock
 över Dur'kagra och ansvarar därmed även för [Kynlif], en religiös festival som hålls en gång om året
 i Dur'kagra.
 
-**Tal-dhuleim**\
+Tal-dhuleim
+---------------
 De delar av Tal-dhuleim som är synliga ovan jord är tämligen oansenliga, ett större antal nästan
 helt förfallna stenhus och de förbrända resterna av ett större fort är allt som syns, även om
 noggrannare undersökningar visar att staden en gång antagligen varit vitt utbredd och mäktig.
@@ -79,7 +81,8 @@ Tal-dhuleim styrs av den fruktade klanen [Ruz'kara], nominellt tillhörande Gift
 har dock, sedan flytten till Tal-dhuleim efter [Skymningskrigen], kommit att fästa allt mindre vikt
 vid [Uryg], för att istället lyfta fram [Bopop, olmarnas moder] som sin klantotem.
 
-**Arathûm Irsu**\
+Arathûm Irsu
+---------------
 Belägen i något berg.
 
   [Ryllingveden]: Ryllingveden

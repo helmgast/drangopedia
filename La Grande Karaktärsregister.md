@@ -8,7 +8,6 @@ links:
   mention:
   - '"Pyret"'
   - '(Blek, namnlös kvinna)'
-  - '<br>Mysmunk. En frikostig, eller girig, zoriánmunk i Nimto fäste. Kurfurst [[Gezem av Davazagans hus'
   - Abraxes
   - Aderen
   - Adon
@@ -60,6 +59,7 @@ links:
   - Branna Morgonstjärna
   - Brendel av Danarth
   - Brigid Morgonstjärna
+  - Broder Gervan
   - Bubbla
   - Caias Arcadius Ducas av Merun
   - Cailean Uanni fín Valaina
@@ -87,7 +87,8 @@ links:
   - Daggblänkets furste
   - Dahlak
   - Dana
-  - 'Dann Casen<br>Berömd drunokisk krigarkvinna, kapten för legoknektskompaniet ’Korparna’. Numera även en av Drunoks mer namnkunniga ridderdamer. [[Dardan'
+  - Dann Casen
+  - Dardan
   - Deadicvheat
   - Dedrik
   - Degann
@@ -134,7 +135,8 @@ links:
   - Gaspar
   - Gebashan mür Salafaion
   - Gemezior
-  - 'Georg Nero[[<br>En osympatisk och mycket rik handelsman i Chadarian. Thizara botade dock hans son, Hansel, som Serizor spräckt skallen på. Broder'
+  - Georg Nero
+  - Gezem av Davazagans hus
   - 'Gim''Naud'
   - Glimme
   - Gork av Namkos stam
@@ -803,8 +805,10 @@ En rundnätt caserisk soldat, en av kapten Galans mannar.
 [Dana]\
 En äldre piga åt fru Cozetin i Jhamalo Gedonia.
 
-Lady [Dann Casen\<br\>Berömd drunokisk krigarkvinna, kapten för legoknektskompaniet ’Korparna’.
-Numera även en av Drunoks mer namnkunniga ridderdamer. \[\[Dardan]\
+Lady [Dann Casen]\
+Berömd drunokisk krigarkvinna, kapten för legoknektskompaniet ’Korparna’. Numera även en av Drunoks mer namnkunniga ridderdamer.
+
+[Dardan]\
 En raunländsk häxmästare; en av De Tysta. Besatte en héavedrake sedan Yeshrem dräpt dennes ryttare.
 Var det sedan blev av Dardan är än så länge lite osäkert. Lustigt – är alla schamaner förtjusta i
 héavedrakar?
@@ -1028,9 +1032,14 @@ som Thizara och co besökte på sin väg till den slutliga uppgörelsen med Alar
 [Gemezior]\
 Vrimzikiels underhuggare, värvade folk i Rametzior Turak. Dödad av Nicoz.
 
-[Georg Nero\[\[\<br\>En osympatisk och mycket rik handelsman i Chadarian. Thizara botade dock hans
-son, Hansel, som Serizor spräckt skallen på. BroderGervan][][\<br\>Mysmunk. En frikostig, eller
-girig, zoriánmunk i Nimto fäste. Kurfurst \[\[Gezem av Davazagans hus] från Rametzior Turak\
+[Georg Nero]\
+En osympatisk och mycket rik handelsman i Chadarian. Thizara botade dock hans
+son, Hansel, som Serizor spräckt skallen på.
+
+[Broder Gervan]\
+Mysmunk. En frikostig, eller girig, zoriánmunk i Nimto fäste.
+
+Kurfurst [Gezem av Davazagans hus] från Rametzior Turak\
 Rametzior Turaks paranoide kurfurste, svag för svärd och kjoltyg.
 
 [Gim'Naud]\
@@ -2463,8 +2472,7 @@ till sist.
 -
 
 [Ölvdal]\
-En rödskäggig dvärg, en av Verduhrakhs avatarer.\
-\
+En rödskäggig dvärg, en av Verduhrakhs avatarer.
 
   [Abraxes]: Abraxes
   [Aderen]: Aderen
@@ -2518,6 +2526,7 @@ En rödskäggig dvärg, en av Verduhrakhs avatarer.\
   [Branna Morgonstjärna]: Branna_Morgonstjärna
   [Brendel av Danarth]: Brendel_av_Danarth
   [Brigid Morgonstjärna]: Brigid_Morgonstjärna
+  [Broder Gervan]: Broder_Gervan
   [Bubbla]: Bubbla
   [Caias Arcadius Ducas av Merun]: Caias_Arcadius_Ducas_av_Merun
   [Cailean Uanni fín Valaina]: Cailean_Uanni_fín_Valaina
@@ -2545,8 +2554,8 @@ En rödskäggig dvärg, en av Verduhrakhs avatarer.\
   [Daggblänkets furste]: Daggblänkets_furste
   [Dahlak]: Dahlak
   [Dana]: Dana
-  [Dann Casen\<br\>Berömd drunokisk krigarkvinna, kapten för legoknektskompaniet ’Korparna’. Numera även en av Drunoks mer namnkunniga ridderdamer. \[\[Dardan]:
-    Dann_CasenbrBerömd_drunokisk_krigarkvinna_kapten_för_legoknektskompaniet_Korparna_Numera_även_en_av_Drunoks_mer_namnkunniga_ridderdamer_Dardan
+  [Dann Casen]: Dann_Casen
+  [Dardan]: Dardan
   [Deadicvheat]: Deadicvheat
   [Dedrik]: Dedrik
   [Degann]: Degann
@@ -2594,10 +2603,8 @@ En rödskäggig dvärg, en av Verduhrakhs avatarer.\
   [Gaspar]: Gaspar
   [Gebashan mür Salafaion]: Gebashan_mür_Salafaion
   [Gemezior]: Gemezior
-  [Georg Nero\[\[\<br\>En osympatisk och mycket rik handelsman i Chadarian. Thizara botade dock hans son, Hansel, som Serizor spräckt skallen på. BroderGervan]:
-    Georg_NerobrEn_osympatisk_och_mycket_rik_handelsman_i_Chadarian_Thizara_botade_dock_hans_son_Hansel_som_Serizor_spräckt_skallen_på_Broder
-  [\<br\>Mysmunk. En frikostig, eller girig, zoriánmunk i Nimto fäste. Kurfurst \[\[Gezem av Davazagans hus]:
-    brMysmunk_En_frikostig_eller_girig_zoriánmunk_i_Nimto_fäste_Kurfurst_Gezem_av_Davazagans_hus
+  [Georg Nero]: Georg_Nero
+  [Gezem av Davazagans hus]: Gezem_av_Davazagans_hus
   [Gim'Naud]: GimNaud
   [Glimme]: Glimme
   [Góhlbrandh]: Góhlbrandh

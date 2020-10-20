@@ -57,34 +57,22 @@ lögn, sammanfattas såhär:
     [Urkraft], och skiljs bara åt genom en kvantitativ skillnad på en glidande skala, således finns
     det en oändlig mängd aspekter.
 
-<!-- -->
-
 -   Beroende på en definierad mängd av magisk energi är sammansatt har den en särskild "flytkraft",
     "lätta" aspekter flyter ovanpå "tunga" aspekter.
-
-<!-- -->
 
 -   De "tyngsta" kraftfälten ligger alltid i "botten" av verkligheten, dessa är de som traditionellt
     definierats som de fyra spirituella krafterna. Den tyngsta lagret likställs med teotropi,
     därefter kommer daimotropin, sedan psykotropin och sist oneirotropin.
 
-<!-- -->
-
 -   De materiella krafterna är inte av stabil vikt, utan fluktuerar i sina beröringar med de tunga
     krafterna.
-
-<!-- -->
 
 -   Eftersom det finns ett kraftskikt som är tungt och ett som är lätt, finns det ett observerbart
     gap mellan dessa, detta ligger mellan oneirotropin och de materiella krafterna. Detta gap kallas
     cathexion.
 
-<!-- -->
-
 -   Cathexion är ett gränsland mellan två uppsättningar rörelser, och utsätts som så ideligen för
     kollisioner och interaktioner, kallade för apokatastatiska vågrörelser.
-
-<!-- -->
 
 -   Dessa vågrörelser frisätter stora mängder kraft, och är, strängt räknat, det "vanliga" varelser
     uppfattar som verkligheten.
@@ -109,7 +97,7 @@ verkar ha något att göra med den enda energiform som inte finns svarad för i 
 fria viljans observerande egenskap.
 
 Enligt ytterligare derivering av Ferox' teorier antyds det att all materiell energi (energi lagrad
-som materia) är sammanvävd med spirituell energi (psykotropi) men först när den**observerar sig
+som materia) är sammanvävd med spirituell energi (psykotropi) men först när den **observerar sig
 själv** avgränsas den från andeplanets större metafält och framträder som observerbar för
 betraktare. En intressant konsekvens av detta är att det blir lättare att förklara den mängd olika
 former som psykotropiskt laddade entiteter förekommer i ([Andevarelser], , [Spöken], [Simulacra]

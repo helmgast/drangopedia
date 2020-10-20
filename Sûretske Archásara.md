@@ -30,7 +30,7 @@ så småningom, tillsammans med [Core'secoys] kamorfer och [Diunivel Bitterbloms
 [Dramîr renk Mharos], och började tränga ner till [Världens Hjärta].
 
 Det sägs att Sûretske och hans underhuggare, i [Ucar'asteth], långt under [Dramîr renk Mharos],
-drabbade samman med [Törnekvisten] och en [grupp][] [tappra][] [äventyrare], händelser som ledde
+drabbade samman med [Törnekvisten] och en [grupp] [tappra] [äventyrare], händelser som ledde
 till den galne magikerns undergång.
 
   [det Sovande Sharna]: det_Sovande_Sharna

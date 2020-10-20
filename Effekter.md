@@ -634,8 +634,8 @@ förbättringsslag för att höja attribut och färdigheter baserade på fysiska
 TÅL) slås som om de vore lättlärda ("lätta att höja" i attributens fall). Vidare kan alla attribut
 utom VIL och PER höjas med målmedveten träning under varaktigheten, även sådana som blivit noll.
 Alla slag mot kirurgi riktade mot målet för effekten blir Ob1T6 lättare under varaktigheten, och ett
-antal "omöjliga" kirurgiska procedurer blir möjliga så länge effekten är aktiva. Dessa är**Sy på
-amputerad lem** (Ob6T6 för händer och fötter, Ob7T6 för armar och ben) och**Transplantera organ**
+antal "omöjliga" kirurgiska procedurer blir möjliga så länge effekten är aktiva. Dessa är **Sy på
+amputerad lem** (Ob6T6 för händer och fötter, Ob7T6 för armar och ben) och **Transplantera organ**
 (Ob6T6 för Mjälte, Lever och Njure, Ob7T6 för hjärta, Ob8T6 för hjärna).
 
 **Prana**\
@@ -3693,7 +3693,7 @@ medvetandet blir medelvärdet av PSY, VIL, AND, MAG och relevanta färdigheter h
 smälts samman, multiplicerat med 1 för varje 100 miljoner själar som påverkats. Rangen beräknas på
 vanligt sätt, men tiodubblas. Specifika individer kan stå emot instrumentaliteten genom att lyckas
 med ett slag mot VIL med Ob6T6, om de för tillfället befinner sig i ett sammanhang som hade skyddat
-dem, till exempel i en <s>mecha</s> fickdimension såsom en erebotropisk Oubliette.
+dem, till exempel i en ~~mecha~~ fickdimension såsom en erebotropisk Oubliette.
 
 **Räckvidd: Aura**
 
@@ -3961,7 +3961,7 @@ vävs med. Under tiden innan utbrottet sker, som kännetecknas av kraftigt ökad
 att på olika vis stilla elementarkrafterna i vulkanens innanmäte.
 
 | Magnitud | [Utkastat material] | Rökmolnets radie | Beskrivning   | Naturlig intervall      | Exempel                            |
-|----------|---------------------|------------------|---------------|-------------------------|------------------------------------|
+| -------- | ------------------- | ---------------- | ------------- | ----------------------- | ---------------------------------- |
 | 6        | 1 000–10 000 m³     | under 100 m      | icke-explosiv | dagligen                |                                    |
 | 7        | 10 000–100 000 m³   | 100–1 000 m      | mild          | dagligen                | [Jahallons rökhål], [Jargien]      |
 | 8        | 100 000–1000 000 m³ | 1–5 km           | explosiv      | varje vecka             | [Kzakgor], [Takalorr]              |

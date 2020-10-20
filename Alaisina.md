@@ -15,7 +15,8 @@ links:
 title: Alaisina
 ---
 
-**Bakgrund**
+Bakgrund
+--------
 
 Du har alltid haft en förbannad otur. Dina lärare har klagat på din bristande disciplin, dina
 föräldrar på din svaga karaktär, din släkt på din frånvaro av lojalitet, men själv vet du att det
@@ -54,7 +55,8 @@ Under förförra natten hörde du märkliga, svaga, hårda strupskrin. Du har ä
 det för någon och du vågar inte berätta det för någon annan än dina vänner eftersom du hörde ljuden
 när du smög omkring i klostrets alla okända tunnlar om natten. En högst förbjuden aktivitet.
 
-**Personlighet**
+Personlighet
+--------
 
 Du är en orolig själ. Du har ofta svårt att koncentrera dig på saker som sysslor och bön och dina
 tankar rusar ofta iväg till mer spännande saker. De allra flesta situationer är du missnöjd med och
@@ -66,7 +68,8 @@ kritisera dig för. Du brukar dock anstränga dig för att inte dra in någon ov
 aktiviteter. Generellt anstränger du dig för att vara en respektfull och trogen vän, även om din
 äventyrslysta ibland tar överhanden och du glömmer bort dig.
 
-**Relationer**
+Relationer
+--------
 
 Din bästa vän är syster [Mirella], hon är alltid vänlig mot dig och är den enda som kan tänka sig
 att bryta mot klostrets regler för att utforska hemliga rum och närbelägna ruiner. Ibland upplever

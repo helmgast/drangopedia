@@ -39,13 +39,15 @@ förvisso mitt förstånd, så jag har märkt ut dem med en liten stjärna. Årt
 otrogen praxis, dvs före och efter före och efter [Daak]."
 
 Regentlängd
------------
+===========
 
-**Forntiden:**
+Forntiden:
+--------
 
 -   -4870 - -4340: Udanar Ärkemagikern härskar i Maulio med Ramdor som huvudstad.
 
-**Republiktiden (257-301 e.D.)**
+Republiktiden (257-301 e.D.)
+--------
 
 -   257-273: Proxenos Attanos Drunocsi (stenad av pöbel, flyr hem till Colonan)
 -   273-279: Kinbyses
@@ -53,7 +55,8 @@ Regentlängd
 -   285-297: Kinbyses (återvald)
 -   297-301: Gerbonidas Raunfrände (ihjälslagen av raunfursten Yeludashi)
 
-**Raunväldet (301-397)**
+Raunväldet (301-397)
+--------
 
 -   301-322: Yeludashi khan Kurgol
 -   322-349: Tulugud khan Kurgol (stupar i strid mot Tobod Vittfarnes krigare)
@@ -61,7 +64,8 @@ Regentlängd
 -   372-390: Göryul khan Andor
 -   390-397: Entor av Illtariet
 
-**Nomadkungarna (397-476)**
+Nomadkungarna (397-476)
+--------
 
 -   397-424: Entor II av Illtariet
 -   424-457: Arik
@@ -69,14 +73,16 @@ Regentlängd
 -   459-476: Tölui av De yttre stäpperna (abdikerar för att i lugn och ro få ”spänna sin båge mot
     örnen i skyn”)
 
-**Virgilerna (476-548)**
+Virgilerna (476-548)
+--------
 
 -   476-505: Virgil Vidstige
 -   505-522: Virgil II ’Vittomsjungne’
 -   522-529: Virgil III
 -   529-548: Virgil IV
 
-**Ryttardynastin (548-873)**
+Ryttardynastin (548-873)
+--------
 
 -   548-595: Eirik Jarl
 -   595-619: Haukon I
@@ -92,11 +98,13 @@ Regentlängd
 -   825-854: Halvdan (stupar i krig mot västraunerna under Jarlikh khan Drahall)
 -   854-873: Villeni I\* (avrättas 878)
 
-**Dynastin Ramdori (873-1500?)**
+Dynastin Ramdori (873-1500?)
+--------
 
 -   873-900: Narnak Kjolskrämma, hertig av Ramdor
 
-**’Ramdorsönerna’**
+’Ramdorsönerna’
+--------
 
 -   900-903: Ivan och Aros (samregerar, dräpta vid gästabud av sin bror Gor)
 -   903-905: Gor I (avsatt av sin bror)
@@ -120,7 +128,8 @@ Regentlängd
 -   1360-1500: Hengel den Odödlige (förgiftad av sitt livgarde, knuffad nedför stup, knivhuggen och
     styckad)
 
-**Kintikla-dynastin (Okänt årtal - 1764)**
+Kintikla-dynastin (Okänt årtal - 1764)
+--------
 
 -   14??-15??: Mardal Järnnäve, furste av Kintikla (regeringsår okända)
 -   15??-1558: Mikal Vindögde, furste av Kintikla (regeringsår mycket osäkra)
@@ -138,14 +147,16 @@ Regentlängd
 -   1719-1743: Rodrik
 -   1743-1764: Jordal III
 
-**Borsiderna (1764-1812)**
+Borsiderna (1764-1812)
+--------
 
 -   1764-1768: Bors, hertig av Thara
 -   1768-1790: Bors II
 -   1790-1810: Jorund den Vite
 -   1810-1812: Bors III (dödad i bondeuppror)
 
-**Bondedynastin (1812-2009)**
+Bondedynastin (1812-2009)
+--------
 
 -   1812-1837: Torfil Bonde
 -   1837-1840: Thorben (dör i jaktolycka)
@@ -156,7 +167,8 @@ Regentlängd
 -   1957-1981: Torfil II
 -   1981-2009: Torkel
 
-**Dynastin Agn och vete (2009-2242)**
+Dynastin Agn och vete (2009-2242)
+--------
 
 -   2009-2024: Torkel II Agn och vete
 -   2024-2057: Chelem I
@@ -169,19 +181,22 @@ Regentlängd
 -   2190-2222: Torkel V ’Nybyggaren’
 -   2222-2242: Choldin den Klentrogne (Uppäten av hyggelmonster)
 
-**Dynastin Lugdum (2242-2292)**
+Dynastin Lugdum (2242-2292)
+--------
 
 -   2242-2266: Volfram Enöga, hertig av Lugdum
 -   2266-2292: Volfram II
 
-**Dynastin Hannervald (2242-2292)**
+Dynastin Hannervald (2242-2292)
+--------
 
 -   2292-2301: Egon Hannervald, furste av Valo
 -   2301-2331: Njal Hannervald
 -   2331-2358: Hannervald III
 -   2358-2370: Hannervald IV (dödad av Uruvid Utbölingen)
 
-**Dynastin Durum (2370-2543, 2570-2601)**
+Dynastin Durum (2370-2543, 2570-2601)
+--------
 
 -   2370-2404: Uruvid Utbölingen
 -   2404-2433: Vigrid I av Durum
@@ -197,9 +212,11 @@ järnhand)**
 
 -   2570-2601: Selima\* (abdikerar)
 
-**De förändrades härjningar (interregnum) (2601-2604)**
+De förändrades härjningar (interregnum) (2601-2604)
+--------
 
-**Pavara-dynastin (2604\>)**
+Pavara-dynastin (2604\>)
+--------
 
 -   2604-2637: Gahallan Väderhatt av Pavara (drunknar under dryckeslag)
 -   2637-2661: Tolrune Tveskägg

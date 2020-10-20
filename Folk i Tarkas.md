@@ -27,7 +27,8 @@ links:
 title: Folk i Tarkas
 ---
 
-**Demjan Eldsfurstens hov i Yonggurla:**
+Demjan Eldsfurstens hov i Yonggurla:
+--------
 
 -   [Amalus]
 -   [Bendar]
@@ -41,17 +42,20 @@ title: Folk i Tarkas
 -   [Sharzad]
 -   [Valeria]
 
-**Folk i Tagh-Ozelik:**
+Folk i Tagh-Ozelik:
+--------
 
 -   [Nasser]
 -   [Shariyar]
 
-**Savakunner:**
+Savakunner:
+--------
 
 -   [Machmo]
 -   [Tarbar]
 
-**Övriga:**
+Övriga:
+--------
 
 -   [Isharra]
 -   [Tabir]

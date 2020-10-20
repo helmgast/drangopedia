@@ -25,12 +25,12 @@ Liv, Majvor, Oddrun, Ragni, Rana, Randvi, Roda, Runa, Saima, Sestrid, Sigvi, Sn�
 Svava, Svenda, Tilda, Tjodhils, Torvi, Tova, Trondur, Tyra, Uddny, Ulva, Urda, Vala, Valdis, Viv,
 Värun, Yngva, Yrsa, Ådis, Åsgärd, Åsvi, Öd, Ödgun, Öllegård.
 
-**Mitheras Kullar-varianter:**
+Mitheras Kullar-varianter:
+--------
 
 Mansnamn: Alaric, Aroni, Arn, Beringar, Burkhard, Dierk, Dietmar, Ebner, Eburhard, Eldric,
 Friedemann, Fulke, Gairovald, Gebbert, Hanke, Heiner, Horst, Ignats, Jorg, Koloman, Korbl, Liafvin,
 Ludger, Meinhard, Melchior, Merten, Ortvin, Raban, Radulf, Seppel, Sigisvald, Tankred, Tjark,
 Uddvald, Urs, Velten, Valdhar, Vieland,
 
-Kvinnonamn: Adala, Agnheid, Alke, Ansel, Bathild, Berana, Briktven,\
-\
+Kvinnonamn: Adala, Agnheid, Alke, Ansel, Bathild, Berana, Briktven,

@@ -120,7 +120,8 @@ att nå och öppna denna port måste man ha passerat Makur, och offra en fullvux
 dimhöljda slagfält, fånghålor, sängkammare och tronsalar i en odyssé genom världens motsättningar
 och fejder. Tsuhahamanda kan ibland angripa ens själ, vilket är mycket farligt. Man kan dock här
 vinna stor insikt i processerna som drivit på världen och dess riken, i blodtörst och vrede och
-stolthet och sorg, men aldrig i uppgivenhet - det är Edijos domän.\
+stolthet och sorg, men aldrig i uppgivenhet - det är Edijos domän.
+
 **Nimbru** är Maktens port och vaktas av [Chilam], Xinus löjtnant bortom världen. Den kan anas i
 riktigt djupa drömmar, och genom speciella metoder för självspäkning och meditation, men är svår att
 nå eftersom man först måste passera genom både Edijo och Gegug, vilket kräver att man går två gånger
@@ -143,19 +144,15 @@ men det finns många olika, och ofta motsägelsefulla, påståenden om det i Xin
 verk. Ett vanligt påstående är att man får insikt i vilka gudens inkarnater är, och hur människans
 köttsliga skal kan transcenderas.
 
-**Terbeol**är den förstörda Dimmornas port, som inte kan nås med några kända medel. Om den
+**Terbeol** är den förstörda Dimmornas port, som inte kan nås med några kända medel. Om den
 överhuvudtaget fortfarande existerar i något av världens riken vaktas den förmodligen fortfarande av
 Zebul, som inte tvunget kommer låta Xinudyrkare passera. Denna sjätte port är i mångt och mycket en
 helig graal för de Xinutroende dock, för bortom Terbeol väntar insikt i hur även själen kan bryta
-sig fri från gudarnas grepp, och hur man når**Hazeh**, Upplösandets port, där världens barriärer tar
+sig fri från gudarnas grepp, och hur man når **Hazeh**, Upplösandets port, där världens barriärer tar
 slut och de yttersta insikterna väntar. Det sägs att Xinus kraftfullaste ande residerar bortom Hazeh
 utanför världsalltet, och därför är avskuren från sina tillbedjare sedan Terbeols förstörelse. När
 de sista dagarna kommer ska Xinukulten under inkarnaternas vägledning öppna upp en väg till Hazeh,
 och guden skall åter bli en.
-
-\
-\
-\
 
   [Xinu]: Xinu
   [Beel]: Beel

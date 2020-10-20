@@ -37,7 +37,8 @@ riddarslaget för sina dåd under striden, en ära som varit långt ifrån alla 
 förunnad - det kan ha haft något att göra med att hennes far trots allt var riddare, förstås. Man
 har inte ångrat beslutet att dubba henne, emellertid - lady Enry har visat sig vara en begåvad
 stridskvinna, en formidabel drakryttare, och en på det hela taget respektabel, om än oortodox,
-riddersdam.\
+riddersdam.
+
 Lady Enry och hennes drake Smaointé kom till Stora Arkipelagen med drakfartyget [Caer Negaidh], och
 har sedan dess, hitintills, haft en relativt händelselös tjänstgöring. Blotta närvaron av
 flygdragoner som henne i Arkipelagen är ett tydligt tecken på att sabrierna har kommit för att
@@ -49,15 +50,16 @@ far, riddar Taryk av Tír Chellaigh, som enligt utsago inte hörts av på några
 Bland folk med mindre fördomar mot kvinnliga krigare drunknar dylika rykten ofta i förväntningarna
 på henne - hon är bara 23 år, och påstått mycket skicklig  - trots att hon i torneringssammanhang är
 en oprövad förmåga är hon en favorit inom vadslagningen inför [torneringen på Saar], där hon enligt
-uppgift ska ställa upp bland hertiginnan [Amadeas] försvarare.\
+uppgift ska ställa upp bland hertiginnan [Amadeas] försvarare.
+
 Lady Enry är strax över medellängd, relativt klent byggd, i synnerhet jämfört med de flesta manliga
 riddare, men bredaxlad och uppenbart vältränad. Hon har bleka, fräkniga drag, nötbrunt hår och gröna
 ögon, men trubadurerna lär aldrig besjunga hennes skönhet, då gamla skador efterlämnat ett långt ärr
 som klyver vänstersidan av hennes överläpp. Hon bär nästan alltid manskläder, men har långt hår så
 som det förväntas av henne, om än uppsatt i en hästsvans.
 
-**Resurser: 8 (Militära kontakter)\
-Rykte: 17 (Lovande riddersdam och flygdragon)**
+- **Resurser**: 8 (Militära kontakter)
+- **Rykte**: 17 (Lovande riddersdam och flygdragon)
 
   [Lady Enrys personliga vapen; hon har tagit Arkipelagens paradisfågel som sin symbol, ihop med två stjärnor - en för Övärlden och en för Consaber]:
     Enry_av_Tír_Chellaigh.jpg

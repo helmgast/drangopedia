@@ -21,7 +21,7 @@ title: Samordnaren
 
 Samordnaren är, tror de flesta, [Rakhoris] ledare, ansvarig direkt inför [Magikraterna]. Fram tills
 [Den blodiga sagonatten i Kasmodiah] innehades denna post av den fruktade [Ximor], men lär sedan ha
-tagits över av det tidigare [Språkröret][] [Lastrisagira]. Innan Ximor lär en mystisk kvinna vid
+tagits över av det tidigare [Språkröret] [Lastrisagira]. Innan Ximor lär en mystisk kvinna vid
 namn [Sarlia] ha varit Rakhoris Samordnare. Samordnare återföljs traditionellt av [De tolv], en
 grupp av kraftfulla vandöda.
 

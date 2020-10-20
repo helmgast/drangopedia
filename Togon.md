@@ -22,7 +22,7 @@ vrakskrot. Landskapet är sandigt, stenigt och endast bevuxet av gräs och buska
 på berömmelse är att ön en gång för tusentals år sedan var bördigare än den är nu, och bebodd av en
 hårdför barbarstam vars befästa byar efterlämnat en del vittrade, ointressanta ruiner. Till dessa
 barbarer hörde [Koku av Togon], en mäktig och osympatisk krigare som bar ansvaret för [Ödeläggelsen
-av][] [Talamdu], en ödesepisod i [Stora Arkipelagens] historia. Vad som hände med Togons barbarer är
+av] [Talamdu], en ödesepisod i [Stora Arkipelagens] historia. Vad som hände med Togons barbarer är
 okänt, de tycks ha övergivit ön under relativt ordnade former och sällat sig till Tirakkonungen på
 Sinadera.
 

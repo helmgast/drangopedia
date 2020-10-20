@@ -28,15 +28,15 @@ från Forion med ansenliga, mystiska, resurser till sitt förfogande och den tys
 släptåg, tillsammans skulle deras bedrifter göra dem till några av Övärldens mest legendomsusade
 hjältar. Båda två anses vara nyckelpersoner inom [Fraktionen] idag, även om Clotaire allt som oftast
 tycks agera på Mandagors initiativ snarare än sina
-egna. <span style="text-decoration: underline;"></span>
+egna.
 
 Clotaire betyder ungefär tordönsstämmans krigare. Han fick sitt namn efter att ha drivit bort ett
 gigantiskt djungeltroll som anfallit en foriansk by. Clotaire sägs ha brutit av trollets båda armar
 med sina bara händer och sedan gett upp ett sådant fruktansvärt avgrundsvrål att trollet vände och
 flydde.
 
-**Resurser: 16 (Hjältelik krigare)**\
-**Rykte: 23 (Legendomsusad)**
+- **Resurser: 16 (Hjältelik krigare)**
+- **Rykte: 23 (Legendomsusad)**
 
   [Mandagors]: Mandagor_av_Tiro
   [Fraktionen]: Nammadi

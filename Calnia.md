@@ -214,8 +214,7 @@ Persongalleri
 -   Sir [Sakarian av Rim], diplomat, alkemist och nekromantiker med goda kontakter med vissa
     kriminella element i Calnia
 
-=====**Den Undre Världen**\
-=====
+### Den Undre Världen
 
 -   [Lugal Dormoz], foriansk gangsterboss, ledare för \[\[
 -   [Järven], lönnmördare och fixare. Ökänd för sin brutalitet och brist på skrupler. Nås via ombud
@@ -249,8 +248,6 @@ Persongalleri
 -   [Inaly], ung handelsmannadotter, verksam inom Priori Cun-sabreann
 -   [Olfgar], örthandlare, verksam inom Priori Cun-sabreann
 -   [Malda], hans syster
-
-\
 
 ### Folk Annorstädes 
 

@@ -63,7 +63,7 @@ maktsfärer anses då ligga bortom världen, bland kosmiska eldar och fixstjärn
 Det finns totalt sett 269 vedertagna namn på Mhîm, vilket ytterligare bidrar till förvirringen kring
 gudomens natur. Av dessa namn erkänner [Mûhadinsekten] 101, i stigande grad av helighet. Vanliga
 symboler för Mhîm är brinnande ögon, ett öga i en handflata, moln, stjärnor och månar, samt de
-[mystiska orden][] [Ek akasham vande mahâkam].
+[mystiska orden] [Ek akasham vande mahâkam].
 
   [Lokapāla]: Lokapāla
   [Tellurium]: Tellurium

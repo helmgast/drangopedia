@@ -62,7 +62,7 @@ volym sammanställd för nästan tusen år sedan av [Ylcorcronlth]. Den är så 
 att den parallellt återger alla kända versioner av narrativet, vilket inte direkt borgar för god
 läsupplevelse. Mer stimulerande, sammanhängande och koncisa versioner kan höras av sagoberättare i
 Colonan, eller för den delen upplevas framförda som både sånger, danser och skådespel i Thalamur, av
-vilka [Hedom Rugarmir Augus][] [dödssagor] förmodligen är de mest berömda. Legenden om Islanulth och
+vilka [Hedom Rugarmir Augus] [dödssagor] förmodligen är de mest berömda. Legenden om Islanulth och
 Thelxinoë har i sin tur inspirerat en flora av relaterade berättelser om [Thyaderna], deras
 ättlingar (via Isirnoë) bland människornas släkter, men dessa har fallit i glömska genom historien
 och är inte alls så populära nuförtiden som de en gång var i [Västcolonan].

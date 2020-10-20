@@ -8,10 +8,10 @@ links:
 title: Grundskada
 ---
 
-Moddad grundskadetabell för Hugg och Stick är som följer:\
+Moddad grundskadetabell för Hugg och Stick är som följer:
 
 | STY+RÖR/2 | Grundskada (Hugg och Stick) |
-|-----------|-----------------------------|
+| --------- | --------------------------- |
 | 0         | 0                           |
 | 1-2       | Ob1T6-4                     |
 | 3-4       | Ob1T6-3                     |

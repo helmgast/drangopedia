@@ -11,12 +11,12 @@ links:
 title: Islanulth och Thelxinoë Omnibus
 ---
 
--   Författare: [Ylcorcronlth]\
--   Språk: Coloniska (Colonisk skrift), två exemplar på coloniska med thalaskisk skrift existerar.\
--   Läsbarhet: Svår (Ob4T6)\
--   Förkunskaper: Inga\
--   Kunskapsinnehåll: Inga\
--   Tillgänglighet: Bortglömd (Ob5T6)\
+-   Författare: [Ylcorcronlth]
+-   Språk: Coloniska (Colonisk skrift), två exemplar på coloniska med thalaskisk skrift existerar.
+-   Läsbarhet: Svår (Ob4T6)
+-   Förkunskaper: Inga
+-   Kunskapsinnehåll: Inga
+-   Tillgänglighet: Bortglömd (Ob5T6)
 
 Detta är den längsta kända versionen av det forncoloniska eposet [Islanulth och Thelxinoë], vilket
 är ganska talande för alla som vet hur långa vissa versioner av detta är; Ylcorcronlths "Omnibus"

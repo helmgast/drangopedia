@@ -28,7 +28,7 @@ links:
 title: Arienne Senlis Devin de Ryon
 ---
 
-![][1]Arienne Senlis Devin av Ryon är en sabrisk adelsdam och f.d. riddersdam i stora arkipelagen,
+![Arienne porträtt] Arienne Senlis Devin av Ryon är en sabrisk adelsdam och f.d. riddersdam i stora arkipelagen,
 hustru till baronen och handelsmannen [Marcel Devin av Ryon].
 
 Levnadshistoria
@@ -56,8 +56,9 @@ bunden och kontrollerad, som om den sista delen av barnslig spontanitet helt lä
 Men hur mycket Arienne än hatade sin mor för vad hon gjort mot papa, så kunde hon inte få sig till
 att hata [barnet] som var frukten av moderns svek. Hon brukade smyga in i [Maires] rum och titta på
 den guldlockige lille varelsen i vaggan tills hennes gamla amma bryskt körde ut henne. Han var bara
-så... fin, med mjuk spädbarnshud och alldeles perfekta små fingrar och tår. Några gånger nöp hon i
-dem, hårt, för att se vad som hände men slutade när han började gråta.\
+så ... fin, med mjuk spädbarnshud och alldeles perfekta små fingrar och tår. Några gånger nöp hon i
+dem, hårt, för att se vad som hände men slutade när han började gråta.
+
 Arienne var ett viljestarkt barn, men hon var inte dum, och snart lärde hon sig att få sin vilja
 fram utan att dra på sig varesig faderns eller den gamla ammans vrede. Det var ett ensamt liv i den
 halvtomma borgen, men närhelst papa kom hem så levde den upp och Matti, hennes lärare, gav henne
@@ -130,7 +131,7 @@ pappas flicka, så hade hon inga planer på att se sin dotter växa upp till en 
 inlåst på en slott till nöje för en äldre mans lätt pedofiliska lustar. Marcels bild av vad en
 adeldam måste kunna för att uppfylla sina plikter väl var långt från Ariennes. Förolämpningen även
 mot hennes egen roll i deras äktenskap var för stor för att svälja. Samma dag avslöjade hon sina
-planer för [Etien Durmand][barnet] och [Luċien Armares] som lovade henne sitt stöd.
+planer för [barnet] och [Luċien Armares] som lovade henne sitt stöd.
 
 Utseende och framtoning
 -----------------------
@@ -143,7 +144,8 @@ trots allt den vackraste av de tre änglarna från Belleme.
 
 Hon är (nästan) alltid mycket välklädd, i klänningar som framhäver hennes väl balanserade
 kroppbyggnad som bär mycket få spår av de tre barn hon fött. Det enda som verkar ha hänt med
-Ariennes kropp sedan hon fyllde tjugo är att bysten fått sig en lätt utfyllnad.\
+Ariennes kropp sedan hon fyllde tjugo är att bysten fått sig en lätt utfyllnad.
+
 Ariennes beteende är alltid värdigt och genomtänkt, och hon för sig med en sval behaglighet som lätt
 upphöjer henne till Damen med stort D. Den som är slipad eller misstänksam nog märker dock hur
 hennes tankar alltid tickar på bakom de grönblå ögonen. De som känner henne väl märker också raskt
@@ -153,7 +155,7 @@ upphöjda och behagfulla prinsessan i tornet.
 Den enda som får se Ariennes svaghet i öppet ljus är Lucien, och även han bara i korta glimtar som
 en ouppmärksam man lätt kunnat missa.
 
-  [1]: Wikiarienne.JPG "Wikiarienne.JPG"
+  [Arienne porträtt]: Wikiarienne.JPG "Wikiarienne.JPG"
   [Marcel Devin av Ryon]: Marcel_Devin_de_Ryon
   [greven av Arsacke]: Gavon_Senlis_de_Belleme
   [barnet]: Etien_Durmand

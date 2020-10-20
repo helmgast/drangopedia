@@ -17,7 +17,8 @@ vissa eftergifter till klimatet. Vissa sabriska moden har också utvecklats insp
 dräktkulturerna, men profilen och grunden är fortfarande sabrisk, men en särk/kjortel närmast huden
 och sedan lager av klänningar eller tunikor ovanpå.
 
-**Material**
+Material
+--------
 
 Endast de finaste yllena används, och även om de rikastes särkar fortfarande är i finvävt linne så
 är ofta damernas överklänningar i diamantvävt[1] linne eller satinvävd[2] bomull, till skillnad från
@@ -38,9 +39,10 @@ Bildexempel på tyger:
 
 Sidensatin [4]
 
-Sidenbrokad [5][][6][][7]
+Sidenbrokad [5][6][7]
 
-**Underkläder**
+Underkläder
+--------
 
 Alla kvinnor som följer det kolonialsabriska dräktskicket har en ärmlös särk närmast kroppen, oftast
 med fyrkantig ringning (men även rundade skärningar förekommer), som följer kroppen ner till mellan
@@ -56,7 +58,8 @@ tendens att ärmen är pösigare ju tajtare bärarens överplagg sedan är. Unde
 Fattigare kvinnor som inte har råd med siden eller ylle i sina överklänningar har ibland bysten
 lindad med ett band för att hålla den på plats.
 
-**Damer**
+Damer
+--------
 
 Adeln och det rika borgerskapets kvinnor drar full nytta av arkipelagens utvecklade handel, och
 formligen frossar i tunna, lätta sidentyger, flortunna elosiska linnen, guldtrådar och
@@ -126,7 +129,8 @@ klänningar. Vidden på tunikorna varierar lika mycket som bärarna. [Hertigen a
 exempelvis alltid sina vadlånga tunikor snäva med djupt isatta ärmar, medan [Bertrand Marcomb] låter
 sin knälånga tunika falla i djupt draperade veck runt kroppen.
 
-**Arbetande män**
+Arbetande män
+--------
 
   [1]: http://www.medievaltextiles.org/gallery/bing03.gif
   [2]: http://2.imimg.com/data2/FB/UX/MY-1189308/satin-weave-fabric-250x250.jpg

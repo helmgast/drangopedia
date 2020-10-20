@@ -53,10 +53,10 @@ Senaste tidens händelser
 organisationens räkning. Som ett led i planen landsteg sabrierna och deras legoknektar på [Mal
 Kamat]. Efter hårda strider mot regionens tiraker tröttnade emellertid Garibaldus på sabriernas
 storslagna planer och bestämde sig istället för att lägga svärdet på hyllan (bildligt talat). Han
-stannade kvar med de av kompaniet som så önskade och utropade staten [Garibaldien].\
-\
-**Resurser: 20 (Oritons fria legion)**\
-**Rykte: 17 (Ökänd legokapten)**
+stannade kvar med de av kompaniet som så önskade och utropade staten [Garibaldien].
+
+- **Resurser: 20 (Oritons fria legion)**
+- **Rykte: 17 (Ökänd legokapten)**
 
   [1]: Klaus_Kinski.jpg "Klaus_Kinski.jpg"
   [Oritons fria legion]: Oritons_fria_legion

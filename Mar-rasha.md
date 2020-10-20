@@ -24,7 +24,8 @@ dock Zarets skutan mot vinden och återvände till arkipelagen. Ummekel blev det
 fartyg som Zarets och hans raskt växande mannar "rekvirerade". Det som från början varit Zarets
 personliga underhuggare växte, och även om Zarets fortfarande var gruppens ledare fick hans grupp
 ett eget liv och mycket av verksamheten sträckte sig snart bortom Zarets kontroll. De kallade sig
-för Mar-rasha, Havsmånen, efter en tirakisk legend, och var snart en viktig aktör i arkipelagen.\
+för Mar-rasha, Havsmånen, efter en tirakisk legend, och var snart en viktig aktör i arkipelagen.
+
 Idag är Mar-rasha på ytan ett respekterat handelshus. Zarets har blivit gammal och mångt om mycket
 dragit sig tillbaka från dess verksamhet, och nöjer sig med att övervaka Mar-rashas viktigaste
 operationer från sin överdåda villa i Garandor. Det mesta av Mar-rashas intäkter kommer från

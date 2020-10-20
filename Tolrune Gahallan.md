@@ -44,7 +44,7 @@ om sig. Sin sons änka hade han gärna gift bort, dock - helst med någon kontro
 långt bort. Till skillnad från de flesta män ur ätten Gahallan är han mörkhårig, men hans brunsvarta
 skägg och hår har börjat gråna så smått.
 
-Hans viktigaste vasaller är:\
+Hans viktigaste vasaller är:
 
 -   [Rehelm Agn och Vete], hertig av Val Ordos.
 -   [Esmeralda Drakenhjälm], ärkehertiginna av Valdus och Navar.

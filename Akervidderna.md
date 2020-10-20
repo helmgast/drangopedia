@@ -19,7 +19,7 @@ vid. Eventuellt existerar den längre fram på en tidslinje där världsalltets 
 nära.
 
 Det är svårt (och borde inte vara eftersträvansvärt för någon) att färdas till Akervidderna, enligt
-vissa mycket osäkra källor, där ibland [Yaggahars][] [profetior], finns det minst en permanent
+vissa mycket osäkra källor, där ibland [Yaggahars] [profetior], finns det minst en permanent
 portal dit på Mundana, men generellt räknas Akervidderna till existensens allra mest otillgängliga
 platser.
 

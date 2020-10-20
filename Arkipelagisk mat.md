@@ -49,16 +49,16 @@ traditioner av denna verksamhet. 
 
 Några särskilt viktiga råvaror över stora delar av Arkipelagen är:
 
--   **Rotfrukter**är en bas i många grytor. Sötpotatis, kassava, obango- och lisu-rot med mera odlas
+-   **Rotfrukter** är en bas i många grytor. Sötpotatis, kassava, obango- och lisu-rot med mera odlas
     över hela övärlden.
--   **Tomater**sägs ha kommit från [Kiva]. De är en mycket vanlig ingrediens i soppor, grytor,
+-   **Tomater** sägs ha kommit från [Kiva]. De är en mycket vanlig ingrediens i soppor, grytor,
     garneringar, eller bara som tilltugg.
 -   **Fisk** finns i alla färger, former och storlekar och serveras på alla upptänkliga sätt. En
     viktig matfisk är den gigantiska och fridsamma Solfisken, medan till exempel hajfenor ses som
     lite av en delikatess.
 -   **Skaldjur** finns också i många varianter, varav krabba är vanligast och populärast.
     Flodkräftor är en lokal specialitet på Oriton.
--   **Kokosnötter** och**sockerrör** växer sedan gammalt i övärlden. Socker har blivit vanligare
+-   **Kokosnötter** och **sockerrör** växer sedan gammalt i övärlden. Socker har blivit vanligare
     sedan sabrierna började odla det i stor skala, medan kokos alltid använts för att piffa upp
     grytor och godsaker.
 -   **Spannmål** odlas i ett bälte från norr till söder, men är ovanligt i de allra östligaste och
@@ -69,7 +69,7 @@ Några särskilt viktiga råvaror över stora delar av Arkipelagen är:
     bröd, och djurfoder, men en hel del hirs exporteras till [Lalasta]. Majs kom med den forianska
     invasionen för fyratusen år sedan och odlas på De yttre öarna, men ris hade på den tiden ännu
     inte spritt sig till Forion och är än idag relativt okänt i övärlden.
--   **Marulafrukt**kom från Forion och är en mycket viktig kulturväxt i största allmänhet, i
+-   **Marulafrukt** kom från Forion och är en mycket viktig kulturväxt i största allmänhet, i
     synnerhet på Moran, Amilo och Tientu. Den kan ätas som den är eller pressas till juice, men det
     mest eftertraktade är oljan från dess kärna, som är en delikat ingrediens i alla former av
     matlagning. Delar av Marulaträdet har också andra egenskaper, såsom färgämne och malariamedicin.
@@ -82,17 +82,17 @@ Några särskilt viktiga råvaror över stora delar av Arkipelagen är:
 
 Några andra populära frukter:
 
--   **Persimon**kommer ursprungligen från Forion och kom till arkipelagen med [Phunguwe], det är en
+-   **Persimon** kommer ursprungligen från Forion och kom till arkipelagen med [Phunguwe], det är en
     tomatliknande men mycket söt frukt med brandgult skal som ofta används i sallader och till
     efterrätter
 -   **Opuntia**är namnet på en inhemsk kaktus som primärt åtfinns på de stenigare småöarna i östra
     och sydöstra arkipelagen, kaktusen odlas för sina bjärta röda frukter (som också kallas opuntia)
     vilka används i olika grytor och soppor
--   **Abiu**en gulaktig frukt med ett mjukt, vitt fruktkött och mild smak som plockas från
+-   **Abiu** en gulaktig frukt med ett mjukt, vitt fruktkött och mild smak som plockas från
     sapoteträden, äts ofta frusen med karamellsås och citronsaft av överklassen på Oriton och Lohemo
--   **Babaco**på något högre höjd på de södra öarna åtfinns en buske som bär den knallgula
+-   **Babaco** på något högre höjd på de södra öarna åtfinns en buske som bär den knallgula
     babacofrukten, under det tjocka skalet består den mestadels av vätska, och
-    [Ok'oaru][ok'oarufolket] har i alla tider skördat frukten för att framställa en jäst, sötaktig
+    [ok'oarufolket] har i alla tider skördat frukten för att framställa en jäst, sötaktig
     dryck med hög alkoholhalt
 -   **Longan**är namnet på flera sorter små, runda eller ovala frukter med taggigt skal i röda och
     oranga nyanser, longan växer på träd som ofta odlas för sina vackra blommor av rika familjer i
@@ -148,10 +148,10 @@ Ett urval av specifika rätter:
     serveras vanligen med majsbröd och rökt fisk.
 -   **Maikiri** är en tomatgryta med haj- eller valkött som är basföda på Tientu. I mer kryddiga och
     spännande varianter är den populär på [Fristädernas] värdshus.
--   **Raratamakea** är stekt fågelkött, ofta från [Abobo-][Abobofågelns] eller Akaze-fåglarna, och
+-   **Raratamakea** är stekt fågelkött, ofta från [Abobofågelns] eller Akaze-fåglarna, och
     en festrätt på De yttre öarna. Det är mycket starkt kryddat och serveras med majsbröd och svalt
     vin.
--   **Ukundajaya** eller**Udamiko** är en tomatsoppa med peppar och rotfrukter. Den är basföda över
+-   **Ukundajaya** eller **Udamiko** är en tomatsoppa med peppar och rotfrukter. Den är basföda över
     hela Arkipelagen, och spetsas ibland med lite citron.
 -   **Lisujaya** är en tunn soppa baserad på koriander och Lisurot, en lite pepprig sak som vilar i
     en knaprig klump i soppan. Lisujaya är oftast en lätt förrätt till matigare och kryddigare
@@ -172,7 +172,7 @@ Ett urval av specifika rätter:
 -   **Gorogoro** är människohjärna med banan och kwafrukter, som stekts med skalle och allt över
     sakta eld. Rätten ätes med fingrarna direkt ur det urgröpta kraniet, framförallt i rituella
     sammanhang på Gorzarzynernas öar. Varianter förekommer även på gudsförgätna öar i öster, och på
-    det smått ökända värdshuset [Honspindeln] i [Garandor][Garandors].
+    det smått ökända värdshuset [Honspindeln] i [Garandor].
 -   **Sabrisk fasan**, ursprungligen, sägs det, ett försök av sabriska expatriater att återskapa den
     så populära fyllda fasanen utan fasan. En lammfiol benas ur, stoppas med en brödsmule- och
     lökbaserad fyllning och marineras i rödvin. Den resulterande rätten serveras grillad, har

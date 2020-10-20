@@ -65,7 +65,7 @@ utradera de flesta av Mal Kamats förekomster i krönikor och på sjökort.
 
 I samband med händelserna som ledde upp till Sashirnas återinträde till Mundanas [tellurium]
 lyckades [Tir na Yssan] finna sjövägen till Mal Kamat. Tiraker under [Zûtha av Raukorrs] ledarskap,
-assisterade av [drakväktarna][] [Yuni] och [Yémaya Chango], försökte förgäves att stoppa sabrierna
+assisterade av [drakväktarna] [Yuni] och [Yémaya Chango], försökte förgäves att stoppa sabrierna
 från att nå citadellet i [Kam-mar Zafir]. Sabrierna och tirakerna nödgades dock att samarbeta när
 [sällskapets] förkämpe, den fruktansvärde [Masharóv], dök upp. Masharóv avrättade Goron Telas och
 lade beslag på hans nyckel, men blev kort därefter besegrad av en grupp drakväktare och

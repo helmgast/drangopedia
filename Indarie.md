@@ -33,8 +33,8 @@ manifesterar sig mest i en viss tendens till fräknar. Hon ser egentligen ganska
 vara kiriyaalv, men detta är helt förlorat på merparten av människorna i Arkipelagen, som i allra
 bästa fall har sett enstaka pyaralver i förbigående på Garandors gator. Hon talar inte felya
 flytande, och kan inte läsa, men amir Miran tycks åtminstone ha lärt henne lohemiska, som hon
-behärskar ganska väl, om än med en påtaglig mûhadinsk brytning.\
-\
+behärskar ganska väl, om än med en påtaglig mûhadinsk brytning.
+
 **Resurser: 7 (Skicklig tjuv, uppmärksamhet, deduktion)** 
 
   [Amir Miran]: Amir_Miran

@@ -30,7 +30,7 @@ sätta det på pränt i [Cermiras krönikor], volym XXXVII, fjortonde kapitlet, 
 Den mest berömda passagen är otvivelaktigt den där Themzan beskrev situationen vid hovet som
 "komplett vansinne, likt ett drogbemängt västerländskt harem under en drägglande, sinnesrubbad
 despot". Så stort var Valomiors anseende, emellertid, att han antagligen hade kunnat förlåtas även
-detta, om det inte vore för att han också skrev, om kungens ögonsten, prinsessan [Merlinda][]: "En
+detta, om det inte vore för att han också skrev, om kungens ögonsten, prinsessan [Merlinda]: "En
 skenhelig, intrigant liten hora sprungen ur pur illvilja".
 
 Themzan Valomior slutade sina dagar på det hädanefter kallade [Rådbråkartorget] i Cermiras stad. Han

@@ -10,7 +10,7 @@ links:
 title: Zhanerna
 ---
 
--   [Dräktkultur]\
+-   [Dräktkultur]
 -   [Zhanisk bildning]
 -   [Zhaniskt namnskick]
 

@@ -19,50 +19,30 @@ I stolpar
 
 -   [Cëanne] anländer till [Lanrulios] tillsammans med sin mästare, [Fieron].
 
-<!-- -->
-
 -   Lanrulios har ett välfyllt bibliotek med många ovanliga texter från coloniska imperiets
     glansdagar.
 
-<!-- -->
-
 -   Fieron är där enligt överenskommelse med [Lirmana].
-
-<!-- -->
 
 -   Lirmana vill komma i kontakt med en mystisk andevarelse som fjättrats i Lanrulios källare för
     att finna vägen till [Yanginor]
-
-<!-- -->
 
 -   För att obemärkt smuggla in sina hantlangare i Lanrulios har Lirmana och Fieron tillsammans
     arrangerat ett koncilium för magiker från Coluimn och Cuvri'an och lokala talanger. Konciliet
     handlar om gammal colonisk magitradition och har därför förlagts till Lanrulios (pga dess
     bibliotek).
 
-<!-- -->
-
 -   Cëanne träffar Certani. Certani är vid Lanrulios i egenskaper av Tenavrons lärljunge. Tenavron
     är Lirmanas man på platsen.
 
-<!-- -->
-
 -   Cuvri'an snokar i källaren.
-
-<!-- -->
 
 -   Cëanne noterar att alverna verkar ha något fuffens i kikaren, spionerar på deras förehavanden
     och utforskar Lanrulios källare själv.
 
-<!-- -->
-
 -   I Lanrulios källare hittar Cëanne månbarnet och absorberar dess själ.
 
-<!-- -->
-
 -   Deharan börjar ana ugglor i mossen.
-
-<!-- -->
 
 -   Lian dödar fursten.
 

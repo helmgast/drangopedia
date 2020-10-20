@@ -16,14 +16,16 @@ links:
 title: Urskuggvarelser
 ---
 
-**[Mörkrets trenne furstar]**
+[Mörkrets trenne furstar]
+--------
 
 -   Härolden: [Orlik]
 -   Arkonten: [Khazdurnis]
 -   Tempelherren: [Varashtes] ofödda barn, [Ezos] ofödda barn, ett okänt tredje barn i [Sällskapets]
     våld.
 
-**"Skuggyngel"**
+"Skuggyngel"
+--------
 
 -   [Gaoste]
 -   [Kira]

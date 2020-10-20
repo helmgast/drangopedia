@@ -56,36 +56,36 @@ konung.
 
 Ett urval av specifika rätter som kan återfinnas i Sung:
 
-**Ning** är som tidigare nämnt ett flatbröd som utgör en bas för nästan alla måltider.\
-**Wapa** är ett rostat korn- eller teff-mjöl som serveras i en skål där man blandar det med vatten
+- **Ning** är som tidigare nämnt ett flatbröd som utgör en bas för nästan alla måltider.
+- **Wapa** är ett rostat korn- eller teff-mjöl som serveras i en skål där man blandar det med vatten
 eller te och, om man ska lyxa till det, smör eller honung, varpå det rullas till en torr klump och
 ätes direkt ur handen. Det är en vanlig frukosträtt över hela Eumo, som generellt anses mäkta tråkig
-och ospännande och den givna basfödan för alla asketer.\
-**Acha jin** är en högtidsrätt som påstås ha njutits av Sungs fornkonungar. Den består av tre
-förnämliga sorters svampar från Himmelsbergens högland som stekts hela i smör och ingefära.\
-**Anji** är hackad äggplanta som stekts med ingefära och rörts till en smet med sojabönor, vitlök
-och sesamolja. Den serveras, som det mesta annat, typiskt på ett ningbröd.\
-**Ayibe** är en lokal specialitet, mild ost gjord på Woykmjölk. Den serveras ofta skivad på ett
-ningbröd, garnerad med tomat, och kryddas med daberi eller mitma.\
-**Bashu** eller**Baoshu** är kokt, strimlat oxkött i en sås på pepparfrukter, koriander, ingefära,
-daberi och sesam- eller marulaolja.\
-**Feifu** är en anrik rätt som omnämns i skrifter från mycket gammal tid. I det ursprungliga
+och ospännande och den givna basfödan för alla asketer.
+- **Acha jin** är en högtidsrätt som påstås ha njutits av Sungs fornkonungar. Den består av tre
+förnämliga sorters svampar från Himmelsbergens högland som stekts hela i smör och ingefära.
+- **Anji** är hackad äggplanta som stekts med ingefära och rörts till en smet med sojabönor, vitlök
+och sesamolja. Den serveras, som det mesta annat, typiskt på ett ningbröd.
+- **Ayibe** är en lokal specialitet, mild ost gjord på Woykmjölk. Den serveras ofta skivad på ett
+ningbröd, garnerad med tomat, och kryddas med daberi eller mitma.
+- **Bashu** eller **Baoshu** är kokt, strimlat oxkött i en sås på pepparfrukter, koriander, ingefära,
+daberi och sesam- eller marulaolja.
+- **Feifu** är en anrik rätt som omnämns i skrifter från mycket gammal tid. I det ursprungliga
 receptet hackas honungsmarinerad kyckling i bitar och friteras i olivolja, men denna olja finns inte
 längre i Eumos land, och ersätts nuförtiden oftast med marulaolja, som fortfarande är ganska dyrt då
-det måste importeras från Sydlanden.\
-**Gongao** är en efterätt på dadlar kokade i honung, marulaolja och ingefära, garnerade med
-sesamfrön.\
-**Jinfao** är ett modernt påfund som först serverades av den nyligen bortgångne [Pa Bo Um],
+det måste importeras från Sydlanden.
+- **Gongao** är en efterätt på dadlar kokade i honung, marulaolja och ingefära, garnerade med
+sesamfrön.
+- **Jinfao** är ett modernt påfund som först serverades av den nyligen bortgångne [Pa Bo Um],
 köksmästare i [De blå apsarornas tempel] i Sung. Ris och ägg blandas och steks med lök, bönor och
-ibland strimlat kött, och kryddas med daberi och en lokal ört som kallas jimali.\
-**Ningfu** är en variant på ningbrödet som är populär bland zhaniska familjer i Sung; brödet
-friteras i olja och serveras med skivad lök och kamelmjölk.\
-**Mitma gammo** är olika typer av kött som grillas på spett, kryddat med mitma. Rätten
+ibland strimlat kött, och kryddas med daberi och en lokal ört som kallas jimali.
+- **Ningfu** är en variant på ningbrödet som är populär bland zhaniska familjer i Sung; brödet
+friteras i olja och serveras med skivad lök och kamelmjölk.
+- **Mitma gammo** är olika typer av kött som grillas på spett, kryddat med mitma. Rätten
 introducerades ursprungligen av zhanerna, men är numera populär på Sungs alla gatugrillar, och
-doften av mitma gammo ligger inte sällan över hela kvarter.\
-**Shangfao** är Eumos mest berömda specialitet, med rötter i det forntida Sung-riket. Hundkött steks
+doften av mitma gammo ligger inte sällan över hela kvarter.
+- **Shangfao** är Eumos mest berömda specialitet, med rötter i det forntida Sung-riket. Hundkött steks
 tills det går att dra isär med fingrarna, får sjuda i en sås tillagad av citron, ingefära, vitlök,
-honung, daberi och sesamolja, och serveras med bönor eller ris, ibland på ett ningbröd.\
+honung, daberi och sesamolja, och serveras med bönor eller ris, ibland på ett ningbröd.
 
   [Sung]: Sung
   [Hazmar Mûran]: Hazmar_Mûran

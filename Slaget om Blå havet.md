@@ -47,8 +47,8 @@ title: Slaget om Blå havet
 +----------------------------------------------------------------+
 |                                         Befälhavare            |
 +----------------------------------------------------------------+
-| [Kraden Nanórgona den Grymme][]\                               |
-| [Kraden Shârmanassar][]\                                       |
+| [Kraden Nanórgona den Grymme]\                               |
+| [Kraden Shârmanassar]\                                       |
 | [Ataemnes]†\                                                   |
 +----------------------------------------------------------------+
 |                                             Styrkor            |

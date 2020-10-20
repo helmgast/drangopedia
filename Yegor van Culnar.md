@@ -49,7 +49,7 @@ Yegors fem fruar var Zanna van Duncarck (d. 2936), Ivanna van Sola (d. 2940), Iv
 2956), Ykalla av Hammarnäs (d. 2964) och Ileana Guldskeppa (d. 2971). Han har många, många barn,
 däribland [Yorak], [Lot] och [Mircalla], och är morfar till [Virgil Gahallan], hertig av Namira.
 Värd att omnämnas är också furst Yegors kusin, [Ilarion], som orkestrerade den ökända
-[Brasivaslakten].\
+[Brasivaslakten].
 
   [Furst Yegors personliga vapen]: Ätten_Van_Culnar.jpg "Furst Yegors personliga vapen"
   [tredje hustru]: Ivlis_av_Altona

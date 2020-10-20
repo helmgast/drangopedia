@@ -29,7 +29,8 @@ han enligt envisa rykten stod öga mot öga med [Gebashan Häxkonungen] och käm
 en av Daaks utvalda profeter mot en hiskelig demonisk kraft som hotade att söndra världen.
 Överdrivet eller ej så tycks åtminstone en del av detta vara sant - Aricandor är Arkipelagens
 främsta kännare av Västlanden och expert på Mûhads språk, skrift och kultur, och tycks onekligen
-besitta märkligt djupa kunskaper inom områden sunt folk helst undviker.\
-**Resurser: 12 (Enorma kunskaper)**
+besitta märkligt djupa kunskaper inom områden sunt folk helst undviker.
+
+- **Resurser: 12 (Enorma kunskaper)**
 
   [Gebashan Häxkonungen]: Gebashan_Häxkonungen

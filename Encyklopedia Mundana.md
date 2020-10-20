@@ -9,7 +9,8 @@ title: Encyklopedia Mundana
 Den här artikeln är till bara för att påminna Ola om viktiga saker som ligger gömda i Encyklopedia
 Mundana.
 
-**Kon Karon: Melûckas starkaste familj.**
+Kon Karon: Melûckas starkaste familj.
+--------
 
 Alfai Memod: Mûhadinsk köpman.
 

@@ -20,7 +20,9 @@ upptagen kvinna och är svår att nå. Den vanligaste situationen som resulterar
 rollpersonerna och Esclarmonda är om rollpersonerna snokar omkring i observatoriet och spelledaren
 tycker att en konfrontation varit på sin plats.
 
-**Esclamondas kammare**\
+Esclamondas kammare
+--------
+
 Om rollpersonerna skulle få tag på nycklarna till Esclarmondas kammare eller på annat sätt ta sig in
 dit kommer de att kunna få tag på viktiga ledtrådar. I kammaren finns en mängd böcker, esoteriska
 astronomiska beräkningar, stjärnkartor och märkliga metallinstrument. Ingenting i Esclarmondas
@@ -29,7 +31,9 @@ stor tydlighet att Esclarmonda spenderat mycket tid i observatoriet. Ett normalt
 Bibliotekskunskap kommer, om det lyckas, göra det uppenbart för rollpersonerna att Esclarmonda tagit
 astronomiska anteckningar varje dag den senaste månadens tid, oftast kring midnatt.
 
-**Till Mirella**\
+Till Mirella
+--------
+
 Kopierade passager ur *Dev kurbağa sırları*, en av bibliotekets halvhemliga mûhadinska skrifter,
 finns bland Esclarmondas papper. Detta är något Mirella noterar. Ett normalt slag mot Mûhadinsk
 skrift kommer att ge Mirella följande information:

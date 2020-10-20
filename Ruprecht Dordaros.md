@@ -44,7 +44,8 @@ Ruprecht är ganska hårfager, med svallande, mörkbrunt hår och skägg. Han kl
 brokadtunikor, rockar och lustiga hattar, men hela hans uppenbarelse i övrigt lyser av släktens
 typiskt sydröna framtoning; stel, högdragen, och ganska tråkig.
 
-**Släktrelationer:**
+Släktrelationer:
+--------
 
 -   [Ivan Dordaros], äldre bror
 -   [Kamand Dordaros], yngre bror

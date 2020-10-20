@@ -33,7 +33,8 @@ pannan för varje barn hon fött, och att både kvinnor och män får ett rött 
 varje fiende han eller hon dödat. Detta har börjat falla ur bruk då öborna inte längre är i närheten
 av så krigiska som de var under Isets dagar, men traditionen har fått sig en nytändning i och med
 Vita korsarerna, som många av öns ynglingar drömmer om att ansluta sig till; det har åter börjat bli
-status att ha dödat.\
+status att ha dödat.
+
 Ikine dyrkar Iset Azarmisherah som en förfadersande, han sägs vaka över Moran, och isetdyrkarna
 menar att han håller en skyddande hand över ikine i väntan på deras nästa storhetstid.
 

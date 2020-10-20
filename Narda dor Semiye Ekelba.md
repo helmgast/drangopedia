@@ -29,7 +29,7 @@ och hon är nära allierad till [Fraktionen], även om hennes maktfullkomlighet 
 till diverse diplomatiska problem. Av folket på Oriton och Lohemo beskrivas hon motsägelsefullt som
 nyckfull och illvillig, men samtidigt magnifik och klok, men hennes eget folk älskar henne enligt
 uppgift i stort oreserverat. Hon rår över Rana i egenskap av vald monark, såsom sedvänjan är på ön,
-medan Elo och Akamador tillfallit henne som arvfurstinna, ättling till [tarashar][] [Neos
+medan Elo och Akamador tillfallit henne som arvfurstinna, ättling till [tarashar] [Neos
 Ratosthene] och [Phunguwe]-prinsessan [Imara], och därtill, enligt legenderna, med blod från [Kiva]
 i sina ådror.
 

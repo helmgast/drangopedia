@@ -38,18 +38,20 @@ links:
 title: Drunoks herrar
 ---
 
--   [Akala Gahallan III], kung av Drunok, furste av Pavara.\
--   [Bortaï den Fagra], drottning av Drunok, furstinna av Val Palane.\
--   [Arik], arvprinsen.\
--   [Chimge], prinsessa.\
+-   [Akala Gahallan III], kung av Drunok, furste av Pavara.
+-   [Bortaï den Fagra], drottning av Drunok, furstinna av Val Palane.
+-   [Arik], arvprinsen.
+-   [Chimge], prinsessa.
 -   [Rion], arvlös och landsförvisad prins.
 
-**Rikets övriga furstar:**
+Rikets övriga furstar:
+--------
 
--   [Tolrune Gahallan], furste av Valo.\
--   [Ruben Palinaro], furste av Kintikla.\
+-   [Tolrune Gahallan], furste av Valo.
+-   [Ruben Palinaro], furste av Kintikla.
 
-**Rikets hertigar:**
+Rikets hertigar:
+--------
 
 Pavara:
 
@@ -57,33 +59,33 @@ Pavara:
 
 Val Palane:
 
--   [Karliman av Dunaätten], hertig av Angird.\
--   [Njal Dunkeld], hertig av Illtariet.\
--   [Zenos Inakim], hertig av Durum.\
--   [Bernard den Okuvlige], hertig av Talarra.\
+-   [Karliman av Dunaätten], hertig av Angird.
+-   [Njal Dunkeld], hertig av Illtariet.
+-   [Zenos Inakim], hertig av Durum.
+-   [Bernard den Okuvlige], hertig av Talarra.
 
 Valo:
 
 -   [Rehelm Agn och Vete], hertig av Val Ordos.
--   [Esmeralda Drakenhjälm], ärkehertiginna av Valdus och Navar.\
+-   [Esmeralda Drakenhjälm], ärkehertiginna av Valdus och Navar.
 -   [Virgil Gahallan], hertig av Namira.
 
 Kintikla:
 
 -   [Stagus Björnram], hertig av Dimveden.
--   [Ivan Dordaros], hertig av Altona.\
+-   [Ivan Dordaros], hertig av Altona.
 -   [Dorin Palinaro], hertig av Lugdum.
 -   [Siward Valdam], hertig av Rhonum.
 
-**Rikets jarlar:**\
+Rikets jarlar:
+--------
 
 -   [Efraim Udon], jarl av Udon.
 -   [Borsid Palinaro av Grimssalar], jarl av Grimssalar.
 -   [Gesar Tornfalk], jarl av Varád.
 -   [Arngrim Dunkeld], jarl av Vedrin.
 -   [Ruprecht Dordaros], jarl av Nirva.
--   [Vidkun Dordaros], jarl av Tar[.\
-    ]
+-   [Vidkun Dordaros], jarl av Tar.
 -   [Igor av Brek Ildun], jarl av Brek Ildun.
 -   [Hengil Tveskägg], jarl av Narnaks brunnar.
 -   [Halsten van Sola], jarl av Brek Khazim.
@@ -115,8 +117,6 @@ Kintikla:
   [Arngrim Dunkeld]: Arngrim_Dunkeld
   [Ruprecht Dordaros]: Ruprecht_Dordaros
   [Vidkun Dordaros]: Vidkun_Dordaros
-  [.\
-  ]: Kamand_Dordaros
   [Igor av Brek Ildun]: Igor_av_Brek_Ildun
   [Hengil Tveskägg]: Hengil_Tveskägg
   [Halsten van Sola]: Halsten_van_Sola

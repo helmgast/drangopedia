@@ -33,7 +33,6 @@ links:
   - Evighetens spira
   - Forion
   - Gebashan Häxkonungen
-  - 'Gim''Naud'
   - 'Gim''naud'
   - Gränslandet
   - Havsdjupens moder
@@ -86,17 +85,17 @@ title: Brännandet av Edron
 | **Tidpunkt:** Vintern [2166 e.M.]\                             |
 | **Plats:** [Edron], [Darasgata]\                               |
 | **Utgång:** Seger för [Drakalliansen]\                         |
-| **Konsekvenser:** Det [edronitiska imperiet][Edron] går under\ |
+| **Konsekvenser:** Det [edronitiska imperiet] går under\ |
 +----------------------------------------------------------------+
 |                    Stridande parter                            |
 +----------------------------------------------------------------+
-| [Edronitiska imperiet][]\                                      |
-| [Ansale-Idon][]\                                               |
+| [Edronitiska imperiet]\                                      |
+| [Ansale-Idon]\                                               |
 | [Nadaria]                                                      |
 +----------------------------------------------------------------+
 |                     Befälhavare                                |
 +----------------------------------------------------------------+
-| [Kraden Nanórgona][]\                                          |
+| [Kraden Nanórgona]\                                          |
 | [Azar Kyeshon]†\                                               |
 | [Pueshardokt]†\                                                |
 | [Izìlzû]†                                                      |
@@ -125,7 +124,7 @@ title: Brännandet av Edron
 Inledning
 ---------
 
-Under [Kraden Nanórgonas][Kraden Nanórgona] välde stod Edron på sin höjdpunkt, men hade också börjat
+Under [Kraden Nanórgonas] välde stod Edron på sin höjdpunkt, men hade också börjat
 stagnera; kejsarens vänskapliga relationer med [Häxmästarna] i Mûhad hade gjort slut på de stora
 krigen i västerled, och hans allt mer introverta politik frustrerade rikets generaler. Nanórgona
 hade nått en punkt där han ansamlat tillräckligt med kunskap och allierade för att kunna realisera
@@ -140,7 +139,7 @@ hade nu slutligen kommit att förstå, med hjälp av draken [Syalon], att det va
 bakom. Det är oklart om detta kom Nanórgona att tvivla, men Syalon och Nanórgonas övriga allierade
 ärkemagiker i [Xiannu] och [Domara Tashar] stöttade enhälligt den ursprungliga planen, om än av helt
 olika skäl. Så kom det sig att Nanórgona när stjärnorna stod rätt, i en influx av ataxatropi vintern
-2166 e.M, sammankallade [Eldsfurstarna][Eldsfurstar] från rikets alla hörn för genomförandet av
+2166 e.M, sammankallade [Eldsfurstarna] från rikets alla hörn för genomförandet av
 ritualen.
 
 Men det hela kom till drakarnas kännedom; kanske via någon i Domara Tashar som förrådde Syalon för
@@ -163,7 +162,7 @@ plågoande, och [Lukhra] från havsdjupen, ivriga att härja som i forntiden. De
 ödesdigert, för Morhaxvith hade mycket riktigt inte tänkt nöja sig med att stoppa Nanórgona, utan
 betraktade hela det edronitiska riket som korrupt och moget att förgöras, och spann osubtila ränker
 för att se till att så skulle se. [Accendrim], mycket ung vid denna tid, deltog inte direkt i
-angreppet, utan ålades att bevaka [Sekhmets cirkel][Häxmästarna] i Mûhad utifall att de skulle få
+angreppet, utan ålades att bevaka [Häxmästarna] i Mûhad utifall att de skulle få
 för sig att ingripa.
 
 Nanórgona utgick från att hans plan hade kommit till drakarnas kännedom, väntade sig någon form av
@@ -231,7 +230,7 @@ hundratal från Skugglandet.
 order, och Hehrenchauge och Omeyocantli angrep i frenesi zigguraten på eget bevåg, dömda att drivas
 tillbaka. Först när Verduhrakh och de andra anlände från hamnen kunde man göra en gemensam
 ansträngning, och slog sig sakta in mot stadskärnan. Men Pueshardokts drakryttare hade skakat av sig
-[Gim'Naud] och [Rekhem], och förstärkte Nanórgonas livgarde från luften; det lyckades dem att dräpa
+[Gim'naud] och [Rekhem], och förstärkte Nanórgonas livgarde från luften; det lyckades dem att dräpa
 Terenat och svårt såra Verduhrakh innan de alla nedgjordes. Syantecaran och [Crayates] hade krälat
 genom stadens katakomber för att försöka finna en väg in i zigguraten, men förgäves, så man började
 bearbeta dess väggar med muskelkraft och magi alltmedan striderna rasade mot Edrons försvarare.
@@ -313,7 +312,7 @@ sedan kunna skaffa sig kontroll över de sönderfallande västliga lydstaterna o
 [Menon-Aun], men detta är omtvistat givet hur rosenrasande Syantecaran tycks ha varit över
 ödeläggelsen (vilket såklart mycket väl kan ha varit ett spel för gallerierna, dock).
 
-Hur det nu än var så blev Drakalliansen aldrig lika stor igen; Gim'Naud, Rathoxith, Katha och Lukhra
+Hur det nu än var så blev Drakalliansen aldrig lika stor igen; Gim'naud, Rathoxith, Katha och Lukhra
 var aldrig särdeles intresserade av att gå med, men Abraxes och Syantecaran, två av de mest
 prominenta medlemmarna, lämnade alliansen för alltid som en direkt konsekvens av Brännandet av
 Edron, om än av skäl aldrig klarlagda för vanliga dödliga. Händelserna slog också en kil mellan
@@ -333,7 +332,7 @@ bara för att omsider uppslukas av Syantecarans Ansale-Idon, och det allt aggres
 expansion.
 
 Nanórgona lyckades på något vis kräla genom Avgrunden till Nadaria, och styrde där en tid medan han
-desperat försökte plocka upp spillrorna av sitt välde. Grottrollen, kanske uppeggade av Gim'Naud
+desperat försökte plocka upp spillrorna av sitt välde. Grottrollen, kanske uppeggade av Gim'naud
 eller Abraxes, gjorde slut på detta, men den forne kejsaren av Edron höll ut, gick i dvala i en
 hemlig grav, och sov igenom årtusendena i väntan på [Nanórgonas influx], medveten om att [Gebashan
 Häxkonungen] en dag skulle återkalla honom till hans vandöda, medvetna existens i Mundana. Han var
@@ -366,7 +365,7 @@ fått dras med detta arv sedan dess:
 -   [Katha]
 -   [Lukhra]
 -   *[Rekhem]*
--   *[Gim'naud][1]*
+-   *[Gim'naud]*
 -   [Crayates]
 -   [Hehrenchauge]
 -   *[Nhim-Karak]*
@@ -377,15 +376,17 @@ fått dras med detta arv sedan dess:
   [Edron]: Edron
   [Darasgata]: Darasgata
   [Drakalliansen]: Drakalliansen
+  [edronitiska imperiet]: Edronitiska_imperiet
   [Edronitiska imperiet]: Edronitiska_imperiet
   [Ansale-Idon]: Ansale-Idon
   [Nadaria]: Nadaria
-  [Kraden Nanórgona]: Kraden_Nanórgona
+  [Kraden Nanórgonas]: Kraden_Nanórgona
   [Azar Kyeshon]: Azar_Kyeshon
   [Pueshardokt]: Pueshardokt
   [Izìlzû]: Izìlzû
   [Odödliga]: Atârhaxamanerna
   [Eldsfurstar]: Eldsfurstarna
+  [Eldsfurstarna]: Eldsfurstarna
   [Kamorfer]: Kamorfer
   [Mortuach]: Mortuach
   [Häxmästarna]: Sekhmets_cirkel
@@ -427,7 +428,6 @@ fått dras med detta arv sedan dess:
   [Norra citadellet]: Kala_Kyeshar
   [Khakra]: Khakra
   [Nhim-Karak]: Nhim-Karak
-  [Gim'Naud]: GimNaud
   [Crayates]: Crayates
   [Ike'havan]: Ikehavan
   [Tshuhalameth]: Tshuhalameth
@@ -441,4 +441,4 @@ fått dras med detta arv sedan dess:
   [Ödlefolkets]: Ödlefolket
   [Nanórgonas influx]: Nanórgonas_influx
   [Gebashan Häxkonungen]: Gebashan_Häxkonungen
-  [1]: Gimnaud
+  [Gim'naud]: Gim'naud

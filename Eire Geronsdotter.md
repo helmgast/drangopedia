@@ -18,7 +18,8 @@ links:
 title: Eire Geronsdotter
 ---
 
-**Korta versionen**
+Korta versionen
+--------
 
 Eire är en nordsabrisk värdshusägardotter som sadlat om till ruffian och numera mest är känd som
 Järven, ett namn hon fått på grund av sin oräddhet, seghet och förmåga att rensa bort i andras
@@ -53,7 +54,8 @@ kopparbruna håret hängande i en slarvig fläta bakpå ryggen. När man träffa
 en ganska behaglig figur, pratglad och med ett tankfullt ansiktsuttryck som ibland spricker upp i
 ett snett litet leende.
 
-**Långa versionen**
+Långa versionen
+--------
 
 Det var en gång, i den lilla byn Brunåker i norra Consaber, ett litet, slitet värdshus som hette
 Gnyende Galten. De som bodde där var rejala människor, en man och hans hustru och deras fyra barn,
