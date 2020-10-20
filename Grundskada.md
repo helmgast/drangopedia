@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2010-09-26T13:38:15Z'
 id: Grundskada
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-08-21T18:19:22Z'
 id: Skiss över de mänskliga folkgruppernas släktskap
 links:

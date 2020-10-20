@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-09-03T14:12:27Z'
 id: Rang
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-01-03T13:56:46Z'
 id: Zhanisk dräktkultur
 links:

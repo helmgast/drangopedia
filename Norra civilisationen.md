@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-02T21:11:38Z'
 id: Norra civilisationen
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-11-03T08:04:10Z'
 id: Sungs lära
 links:

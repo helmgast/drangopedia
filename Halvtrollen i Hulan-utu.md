@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-11-08T08:06:10Z'
 id: 'Halvtrollen i Hulan-utu'
 links:

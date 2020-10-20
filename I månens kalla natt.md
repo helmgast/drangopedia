@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-12-11T20:31:39Z'
 id: I månens kalla natt
 links:

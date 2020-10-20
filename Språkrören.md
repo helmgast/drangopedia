@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-01-15T05:20:59Z'
 id: Språkrören
 links:

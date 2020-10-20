@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-18T05:05:07Z'
 id: Kogan
 links:

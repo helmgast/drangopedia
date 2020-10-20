@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2011-02-27T04:09:23Z'
 id: Ljusets Riddare
 links:

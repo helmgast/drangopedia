@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-18T02:10:20Z'
 id: Thizaras posse
 links:

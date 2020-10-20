@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-03-03T04:10:29Z'
 id: Sungs matkultur
 links:

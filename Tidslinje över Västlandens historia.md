@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-11T04:40:44Z'
 id: Tidslinje över Västlandens historia
 links:

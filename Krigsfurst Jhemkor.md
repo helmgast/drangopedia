@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-20T00:42:46Z'
 id: Krigsfurst Jhemkor
 links:

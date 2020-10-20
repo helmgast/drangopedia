@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-24T16:02:32Z'
 id: Huhay Sanren
 links:

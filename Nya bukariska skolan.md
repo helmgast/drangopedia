@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2013-08-09T21:42:16Z'
 id: Nya bukariska skolan
 links:

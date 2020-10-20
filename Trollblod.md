@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2011-03-01T02:14:24Z'
 id: Trollblod
 links:

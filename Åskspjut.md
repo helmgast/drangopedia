@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-06-11T22:40:43Z'
 id: Åskspjut
 links:

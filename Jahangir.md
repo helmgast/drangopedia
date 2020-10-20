@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-16T15:16:07Z'
 id: Jahangir
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-03T06:34:24Z'
 id: Tidslinje över Arkipelagen
 links:

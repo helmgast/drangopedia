@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-21T06:01:52Z'
 id: Räckvidd och Varaktighet
 links:

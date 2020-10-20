@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-01-16T01:22:01Z'
 id: Zhias krönikor
 links:

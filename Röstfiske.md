@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-11-26T18:59:49Z'
 id: Röstfiske
 links:

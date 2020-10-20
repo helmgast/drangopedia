@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2011-02-04T21:36:30Z'
 id: Grim Dunkelsköld
 links:

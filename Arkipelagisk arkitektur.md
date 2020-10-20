@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-07T13:30:57Z'
 id: Arkipelagisk arkitektur
 links:

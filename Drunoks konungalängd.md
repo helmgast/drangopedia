@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-10T16:22:11Z'
 id: Drunoks konungalängd
 links:

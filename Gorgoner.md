@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-18T02:39:42Z'
 id: Gorgoner
 links:

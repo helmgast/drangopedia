@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-11-29T10:41:19Z'
 id: Nya stridskonster
 links:

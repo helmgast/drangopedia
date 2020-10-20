@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-29T14:31:39Z'
 id: Dada Bandas Hyenor
 links:

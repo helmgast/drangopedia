@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-28T10:14:36Z'
 id: De upphöjda
 links:

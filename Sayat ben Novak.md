@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-01T07:03:04Z'
 id: Sayat ben Novak
 links:

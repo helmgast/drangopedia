@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-08-30T05:52:35Z'
 id: Parhakuls lagar
 links:

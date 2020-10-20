@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2013-10-01T15:51:53Z'
 id: I månens kalla sken kapitel 1
 links:

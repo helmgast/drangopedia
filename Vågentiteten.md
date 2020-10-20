@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-17T11:36:26Z'
 id: Vågentiteten
 links:

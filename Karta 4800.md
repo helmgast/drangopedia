@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-08-25T20:28:52Z'
 id: Karta 4800
 links:

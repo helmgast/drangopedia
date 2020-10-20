@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-07T01:11:45Z'
 id: Izílzû
 links:

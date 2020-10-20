@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-27T20:18:03Z'
 id: Köket
 links:

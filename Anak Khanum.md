@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-11T04:14:19Z'
 id: Anak Khanum
 links:

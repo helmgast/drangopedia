@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-08-28T01:15:34Z'
 id: Barandus bärsärkar
 links:

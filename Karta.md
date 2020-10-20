@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-05-19T22:36:19Z'
 id: Karta
 links:

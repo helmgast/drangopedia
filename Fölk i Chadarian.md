@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-18T02:14:37Z'
 id: Fölk i Chadarian
 links:

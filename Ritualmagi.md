@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2010-09-10T09:15:31Z'
 id: Ritualmagi
 links: {}

@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2013-10-07T12:30:44Z'
 id: Reviderade stridskonsttekniker
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2013-12-27T23:02:09Z'
 id: Alkemiska processer
 links:

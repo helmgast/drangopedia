@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-08-25T11:48:58Z'
 id: Karmosinlogen
 links:

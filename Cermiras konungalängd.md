@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-22T02:37:23Z'
 id: Cermiras konungalängd
 links:

@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2012-12-03T10:13:58Z'
 id: Vita Ljusets fästen
 links:

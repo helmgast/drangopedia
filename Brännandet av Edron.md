@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2015-01-29T05:11:09Z'
 id: Brännandet av Edron
 links:

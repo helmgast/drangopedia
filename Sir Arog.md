@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-21T22:00:25Z'
 id: Sir Arog
 links:

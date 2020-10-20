@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-26T18:10:17Z'
 id: Ayeme dor Izindwa
 links:

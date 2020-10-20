@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-02T21:13:14Z'
 id: Sabrisk dräkt i Stora Arkipelagen
 links:

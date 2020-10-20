@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-08-31T17:33:15Z'
 id: 'Sham-Ukins välde'
 links:

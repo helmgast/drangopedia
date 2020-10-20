@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2012-11-28T13:11:48Z'
 id: Svärdsspelen i Hadarlon
 links:

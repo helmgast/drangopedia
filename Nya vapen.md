@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-10-08T20:18:30Z'
 id: Nya vapen
 links:

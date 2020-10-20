@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-08-22T15:05:58Z'
 id: Basur den Måttfulle
 links:

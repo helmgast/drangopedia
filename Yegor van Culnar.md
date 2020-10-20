@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-22T00:27:54Z'
 id: Yegor van Culnar
 links:

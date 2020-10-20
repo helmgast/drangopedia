@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2011-03-07T17:41:43Z'
 id: Rustningskonstruktion
 links:

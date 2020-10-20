@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-21T22:05:39Z'
 id: Sir Techar
 links:

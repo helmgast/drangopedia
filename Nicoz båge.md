@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2011-02-26T02:49:11Z'
 id: Nicoz båge
 links:

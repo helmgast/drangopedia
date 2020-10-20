@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2011-02-07T15:00:12Z'
 id: Amalus
 links:

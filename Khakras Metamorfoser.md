@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-01-16T01:21:26Z'
 id: Khakras metamorfoser
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-02-25T21:30:05Z'
 id: Folk i Chadarian
 links:

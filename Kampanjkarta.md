@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-02T21:09:00Z'
 id: Kampanjkarta
 links:

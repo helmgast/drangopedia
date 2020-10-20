@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-11T17:47:37Z'
 id: Arkipelagisk skrift
 links:

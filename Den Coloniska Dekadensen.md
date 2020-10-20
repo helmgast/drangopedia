@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-30T08:03:30Z'
 id: Den coloniska dekadensen
 links:

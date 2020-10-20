@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-09-26T12:07:23Z'
 id: Ianari shóli Casani
 links:

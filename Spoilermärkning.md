@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2011-09-19T14:29:47Z'
 id: Spoilermärkning
 links:

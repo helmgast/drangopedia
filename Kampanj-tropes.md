@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2015-02-05T13:43:21Z'
 id: 'Kampanj-tropes'
 links:

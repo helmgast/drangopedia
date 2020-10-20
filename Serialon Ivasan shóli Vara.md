@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-09-24T15:53:34Z'
 id: Serialon Ivasan shóli Vara
 links:

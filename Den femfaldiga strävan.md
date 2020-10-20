@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2011-09-20T12:45:29Z'
 id: Den femfaldiga strävan
 links:

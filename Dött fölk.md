@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-18T02:19:05Z'
 id: Dött fölk
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-09-26T13:39:08Z'
 id: Coresecoy
 links:

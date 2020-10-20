@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-09-25T00:24:53Z'
 id: Hamzar dor Damisj
 links:

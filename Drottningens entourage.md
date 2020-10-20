@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-18T02:12:09Z'
 id: Drottningens entourage
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-11-18T02:51:27Z'
 id: Ezêm Kordadbeh
 links:

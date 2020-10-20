@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-08-28T00:49:39Z'
 id: Kronologi
 links:

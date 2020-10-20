@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-10-28T22:29:07Z'
 id: 'Mörkrets Hjärta-Tropes'
 links:

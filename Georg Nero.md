@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-20T00:40:10Z'
 id: Georg Nero
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-29T14:07:57Z'
 id: Narda dor Semiye Ekelba
 links:

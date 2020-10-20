@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2010-09-26T14:37:41Z'
 id: Reviderade rustningsdata
 links:

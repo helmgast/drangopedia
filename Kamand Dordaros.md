@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-21T04:36:53Z'
 id: Kamand Dordaros
 links:

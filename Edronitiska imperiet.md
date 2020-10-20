@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-05-24T14:07:59Z'
 id: Edronitiska imperiet
 links:

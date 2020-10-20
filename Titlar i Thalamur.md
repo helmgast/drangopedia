@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-25T16:25:40Z'
 id: Titlar i Thalamur
 links: {}

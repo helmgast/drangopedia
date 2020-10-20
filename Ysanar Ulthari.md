@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-09-18T03:12:02Z'
 id: Ysanar Ulthari
 links:

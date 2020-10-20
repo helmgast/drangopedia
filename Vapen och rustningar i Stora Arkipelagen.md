@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-11-10T23:56:00Z'
 id: Vapen och rustningar i Stora Arkipelagen
 links:

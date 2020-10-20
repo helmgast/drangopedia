@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-11-25T20:16:50Z'
 id: Det gamla karaktärsregistret
 links:

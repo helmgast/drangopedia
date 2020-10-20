@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2012-11-28T12:48:51Z'
 id: Reviderade vapendata
 links:

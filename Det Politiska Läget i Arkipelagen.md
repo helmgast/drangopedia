@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-07-30T19:26:27Z'
 id: Det Politiska Läget i Arkipelagen
 links:

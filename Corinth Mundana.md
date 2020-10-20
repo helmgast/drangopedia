@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-19T07:43:26Z'
 id: Corinth Mundana
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-21T05:59:42Z'
 id: Kongelat
 links:

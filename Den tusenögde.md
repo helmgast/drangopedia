@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-18T17:28:47Z'
 id: Den tusenögde
 links:

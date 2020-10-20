@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-23T09:38:49Z'
 id: Kurugan
 links:

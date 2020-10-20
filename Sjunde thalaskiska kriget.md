@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-01-15T20:01:30Z'
 id: Sjunde thalaskiska kriget
 links:

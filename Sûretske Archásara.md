@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-18T06:25:17Z'
 id: Sûretske Archásara
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-23T00:32:54Z'
 id: Arbiträra bonusar vid höga värden i alstringsfärdigheter
 links:

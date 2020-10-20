@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-25T15:33:16Z'
 id: Ivlis av Kinda
 links:

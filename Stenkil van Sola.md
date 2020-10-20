@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-17T06:30:30Z'
 id: Stenkil van Sola
 links:

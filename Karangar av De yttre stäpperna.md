@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-06-12T04:30:42Z'
 id: Karangar av De yttre stäpperna
 links:

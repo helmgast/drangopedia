@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-12-04T12:28:55Z'
 id: Nya stridskonsttekniker
 links:

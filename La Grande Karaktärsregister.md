@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2012-11-28T13:25:53Z'
 id: La Grande Karaktärsregister
 links:

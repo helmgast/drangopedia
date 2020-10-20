@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-20T14:12:16Z'
 id: Den Stora Arkipelagens Historia
 links:

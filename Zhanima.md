@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-25T16:11:38Z'
 id: Zhanima
 links:

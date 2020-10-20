@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-20T16:34:00Z'
 id: Kumbanigash den Svarte
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-08-30T01:40:04Z'
 id: Kartor
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-20T04:17:59Z'
 id: Röda Triskelen
 links:

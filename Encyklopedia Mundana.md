@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-10-25T17:11:47Z'
 id: Encyklopedia Mundana
 links: {}

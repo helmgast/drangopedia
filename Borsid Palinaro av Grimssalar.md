@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-17T07:17:20Z'
 id: Borsid Palinaro av Grimssalar
 links:

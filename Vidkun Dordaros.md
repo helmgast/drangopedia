@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-19T23:44:38Z'
 id: Vidkun Dordaros
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-09-21T17:39:19Z'
 id: Religion  Mystik
 links: {}

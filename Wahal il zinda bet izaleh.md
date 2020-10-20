@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-11T04:36:40Z'
 id: Wahal il zinda bet izaleh
 links:

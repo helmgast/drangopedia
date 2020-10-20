@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-08-26T02:19:33Z'
 id: Vita korsarerna
 links:

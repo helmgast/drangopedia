@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-13T03:02:02Z'
 id: Folk i Drunok
 links:

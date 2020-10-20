@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-08-30T21:27:08Z'
 id: Maharathaïm
 links:

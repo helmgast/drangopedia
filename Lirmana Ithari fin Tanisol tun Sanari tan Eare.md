@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-01-14T20:41:12Z'
 id: Lirmana Ithari fin Tanisol tun Sanari tan Eare
 links:

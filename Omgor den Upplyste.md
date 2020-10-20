@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-01-17T16:18:57Z'
 id: Omgor den Upplyste
 links:

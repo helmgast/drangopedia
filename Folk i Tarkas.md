@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-27T20:17:25Z'
 id: Folk i Tarkas
 links:

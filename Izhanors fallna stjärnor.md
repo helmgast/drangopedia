@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-09-02T22:45:20Z'
 id: Izhanors fallna stjärnor
 links:

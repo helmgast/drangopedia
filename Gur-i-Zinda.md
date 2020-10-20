@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-01-17T16:23:55Z'
 id: 'Gur-i-Zinda'
 links:

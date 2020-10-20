@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-05-19T21:36:57Z'
 id: Amoyo
 links:

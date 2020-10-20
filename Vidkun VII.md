@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-22T03:20:37Z'
 id: Vidkun VII
 links:

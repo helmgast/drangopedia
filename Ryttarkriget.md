@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-22T05:17:14Z'
 id: Ryttarkriget
 links:

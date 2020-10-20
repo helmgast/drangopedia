@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-23T07:04:41Z'
 id: Besvärjelser
 links:

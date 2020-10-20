@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-27T20:14:10Z'
 id: Gudar och andra überväsen
 links:

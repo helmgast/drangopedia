@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-08-23T03:58:33Z'
 id: Atëos trådar
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2011-09-06T11:45:06Z'
 id: Åskbarnen
 links:

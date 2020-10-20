@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-02-26T09:36:57Z'
 id: 'Yelû-skrifterna'
 links:

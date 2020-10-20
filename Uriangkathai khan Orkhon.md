@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-18T20:11:48Z'
 id: Uriangkathai khan Orkhon
 links:

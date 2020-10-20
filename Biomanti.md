@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-30T06:05:36Z'
 id: Biomanti
 links:

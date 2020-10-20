@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-12-10T00:49:28Z'
 id: Kamo
 links:

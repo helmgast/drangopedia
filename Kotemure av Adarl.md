@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-05-30T13:14:45Z'
 id: Kotemure av Adarl
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-30T19:12:00Z'
 id: 'Gur-i-Amir'
 links:

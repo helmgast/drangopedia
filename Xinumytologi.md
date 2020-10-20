@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-27T08:17:49Z'
 id: Xinumytologi
 links:

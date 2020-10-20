@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-03-05T19:12:28Z'
 id: Dada Banda
 links:

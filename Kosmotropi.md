@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-22T20:57:31Z'
 id: Kosmotropi
 links:

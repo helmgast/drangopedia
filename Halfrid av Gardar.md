@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-17T03:09:42Z'
 id: Halfrid av Gardar
 links:

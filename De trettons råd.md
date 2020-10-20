@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-11-25T18:51:13Z'
 id: De trettons råd
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2013-07-15T18:26:09Z'
 id: Röda Triskelens första expedition till Tientu
 links:

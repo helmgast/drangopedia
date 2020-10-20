@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-09-03T04:46:49Z'
 id: Skototropiska effekter
 links:

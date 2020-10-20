@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-04-09T21:19:59Z'
 id: Garandorartikel från Codex
 links: {}

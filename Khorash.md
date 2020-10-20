@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2011-02-18T13:20:43Z'
 id: Khorash
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-28T15:03:56Z'
 id: Sagan om Mbeke och Huaru
 links:

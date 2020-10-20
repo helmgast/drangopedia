@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-24T19:51:25Z'
 id: Nierika Trevena av Durum
 links:

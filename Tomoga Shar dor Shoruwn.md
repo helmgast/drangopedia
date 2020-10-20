@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-08-29T13:25:17Z'
 id: Tomoga Shar dor Shoruwn
 links:

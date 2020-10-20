@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2011-02-16T17:16:16Z'
 id: Denetus av Amra
 links:

@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2011-03-08T14:06:43Z'
 id: Svärd och svärd
 links:

@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-26T22:09:43Z'
 id: Lamarer
 links:

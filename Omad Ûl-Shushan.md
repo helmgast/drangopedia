@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-08-23T17:54:01Z'
 id: 'Omad Ûl-Shushan'
 links:

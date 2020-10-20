@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-10-28T02:57:02Z'
 id: 'Dembale-universitetet'
 links:

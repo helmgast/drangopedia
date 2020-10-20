@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-11-01T10:59:46Z'
 id: Diemedéernas välde
 links:

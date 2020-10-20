@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-01-18T16:24:06Z'
 id: St Dunkleosteus katedral
 links:

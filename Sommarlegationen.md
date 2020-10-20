@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-22T19:19:35Z'
 id: Sommarlegationen
 links:

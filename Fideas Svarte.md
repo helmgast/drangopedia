@@ -1,4 +1,5 @@
 ---
+author: Vavva
 created_at: '2011-02-16T02:46:11Z'
 id: Fideas Svarte
 links:

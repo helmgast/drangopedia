@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-08-26T05:16:20Z'
 id: Karta 5000
 links:

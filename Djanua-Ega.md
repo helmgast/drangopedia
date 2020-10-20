@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-01-24T21:09:40Z'
 id: 'Djanua-Ega'
 links:

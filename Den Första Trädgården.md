@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-09-06T19:03:01Z'
 id: Den första trädgården
 links:

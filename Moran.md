@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-09-21T19:32:12Z'
 id: Moran
 links:

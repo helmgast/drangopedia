@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2014-08-28T00:51:30Z'
 id: Tidslinje för Mörkrets hjärta
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-28T20:17:52Z'
 id: Edronitisk magitradition
 links:

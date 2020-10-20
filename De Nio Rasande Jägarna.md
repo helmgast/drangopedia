@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-18T14:47:43Z'
 id: De Nio Rasande Jägarna
 links:

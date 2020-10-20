@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-24T16:21:32Z'
 id: Det coloniska imperiets uppgång och fall
 links:

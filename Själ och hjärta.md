@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2011-09-13T10:15:53Z'
 id: Själ och hjärta
 links:

@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-11-21T03:46:08Z'
 id: Tribundrus
 links:

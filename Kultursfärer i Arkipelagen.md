@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-05-19T21:54:32Z'
 id: Kultursfärer i Arkipelagen
 links: {}

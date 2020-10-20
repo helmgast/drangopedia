@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-28T22:26:26Z'
 id: Vingars Skugga
 links:

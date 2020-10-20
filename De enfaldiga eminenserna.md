@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-08-19T05:39:46Z'
 id: De enfaldiga eminenserna
 links:

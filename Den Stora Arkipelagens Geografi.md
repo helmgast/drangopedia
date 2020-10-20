@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-08-25T11:44:03Z'
 id: Den Stora Arkipelagens Geografi
 links:

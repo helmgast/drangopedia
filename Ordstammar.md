@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-16T23:53:31Z'
 id: Ordstammar
 links:

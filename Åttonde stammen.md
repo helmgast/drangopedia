@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2013-10-03T00:24:24Z'
 id: Åttonde stammen
 links:

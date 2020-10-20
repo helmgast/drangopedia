@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-07-18T02:18:42Z'
 id: Vandöda
 links:

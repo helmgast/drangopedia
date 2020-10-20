@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-09-29T23:21:49Z'
 id: Nedkallning av kosmiska varelser
 links:

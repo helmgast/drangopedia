@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2010-09-06T17:39:36Z'
 id: Igba och Amanju
 links:

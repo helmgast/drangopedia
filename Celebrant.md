@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-02-28T22:24:57Z'
 id: Celebrant
 links:

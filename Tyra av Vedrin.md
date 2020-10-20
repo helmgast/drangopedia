@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-05-30T18:43:24Z'
 id: Tyra av Vedrin
 links:

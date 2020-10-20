@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-09-27T20:01:00Z'
 id: Vargæld av Isvidderna
 links:

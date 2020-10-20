@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-09-25T00:18:23Z'
 id: Amadea Helmason av Negaidh
 links:

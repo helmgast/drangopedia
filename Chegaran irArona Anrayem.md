@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-10-12T06:36:36Z'
 id: Chegaran irArona Anrayem
 links:

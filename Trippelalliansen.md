@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2012-09-20T10:54:21Z'
 id: Trippelalliansen
 links:

@@ -1,4 +1,5 @@
 ---
+author: Joel
 created_at: '2012-11-28T12:05:36Z'
 id: Reviderade stridskonster
 links:

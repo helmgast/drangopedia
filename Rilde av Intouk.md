@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2010-09-29T14:50:15Z'
 id: Rilde av Intouk
 links:

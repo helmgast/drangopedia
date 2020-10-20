@@ -1,4 +1,5 @@
 ---
+author: Ymir
 created_at: '2011-06-24T01:30:10Z'
 id: Bernard den Okuvlige
 links:

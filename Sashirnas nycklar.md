@@ -1,4 +1,5 @@
 ---
+author: Lycan
 created_at: '2012-10-18T15:13:56Z'
 id: Sashirnas nycklar
 links:
