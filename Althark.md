@@ -1,0 +1,12 @@
+---
+author: Lycan
+category:
+- Misslor
+- Schamaner
+created_at: '2010-09-25T14:45:47Z'
+id: althark
+title: Althark
+---
+Missleschaman och spirituell ledare för [Yakathars] följe.
+
+  [Yakathars]: Yakathar

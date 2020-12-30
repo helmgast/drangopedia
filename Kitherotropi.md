@@ -1,0 +1,9 @@
+---
+author: Lycan
+category:
+- Planesisk astrotropi
+- Work in progress
+created_at: '2012-09-25T15:54:54Z'
+id: kitherotropi
+title: Kitherotropi
+---
