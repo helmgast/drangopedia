@@ -27,7 +27,7 @@ Tämligen osofistikerat tidsfördriv i kraggbergen. Tekniken är enkel, och går
 
 En modell för vanlig träning med stav, ett av Mundanas vanligaste vapen.
 
-**Moment:** <stav>
+**Moment:** \<stav\>
 **Tekniker:** Dubbelstöt, Momentspecialisering, Tränat anfall: kross, Utspel.
 
 ### Lansiärträning
@@ -88,8 +88,8 @@ Vildfäktarna kombinerar ofta låga och höga hugg och använder sig av en drös
 
 En modell för träningen av beridna bågskyttar av typen som är vanlig i Mûhad, Drunok och Caserion. I Mûhad används ryttarbågen Zanmûhal, i Drunok vanligtvis hornbågar och i Caserion den lokala varianten Chineramoz, eller i vissa fall olika typer av lätta armborst. I de fall den här tekniken lärs ut på andra platser är det så gott som alltid med lätta eller dubbla armborst eller i vissa fall kortbågar.
 
-**Moment:** &lt; Båge &gt; eller <armborst>
-**Tekniker:** Avståndsvapen till häst (kameler och dromedarer förekommer i Mûhad), Momentspecialisering:<vapen>, Ridteknik, Snabbskytte. \[*Precisionsanfall: avstånd.*\]
+**Moment:** \<Båge\> eller \<armborst\>
+**Tekniker:** Avståndsvapen till häst (kameler och dromedarer förekommer i Mûhad), Momentspecialisering: \<vapen\>, Ridteknik, Snabbskytte. \[*Precisionsanfall: avstånd.*\]
 
 ### Cirefalisk tvåsvärdsfäktning
 
@@ -105,7 +105,7 @@ Den lansföring som praktiseras på rännarbanorna och på slagfälten av framf�
 
 **Traditionella vapen:** Riddarlans, Tornerlans.
 **Moment:** Lansar.
-**Tekniker:** Momentspecialisering: <vapen>, Precisionsanfall: närstrid, Ridteknik. \[Stålsättning, Krigslist.\]
+**Tekniker:** Momentspecialisering: \<vapen\>, Precisionsanfall: närstrid, Ridteknik. \[Stålsättning, Krigslist.\]
 
 ### Raunländskt bågskytte
 
@@ -127,7 +127,7 @@ Till de som allmänt anses uppnått mästarstatus inom tekniken räknas den erem
 
 Lärda män söker alltjämt en förklaring på den nästan ovedersägliga kopplingen mellan mästarskap inom denna konst och avskärmning från omvärlden.
 
-**Moment:** <Tvåhandssvärd>
+**Moment:** \<Tvåhandssvärd\>
 **Tekniker:** Dödande anfall, Fokus, Kraftfokus, Momentspecialisering, Mystisk kroppskontroll, Mästaranfall: Hugg, Precisionsanfall: närstrid, Rappt utfall, Snabbdragning, Stridsvråla, Tungt anfall \[*Hoppteknik, Mästarutfall, Perfektionism, Vapenaffinitet*\]
 
 ### Szezianskt klingmästeri
@@ -169,7 +169,7 @@ Hos den store hövding Siegbers folk är Thyr den Gamle den äldste och mest erf
 
 I grunden är "Björnens vrede" ett typexemel på kraggiska kämpartekniker. Stridkonsten vilar tungt på att kraggbarbarens ansenliga storlek och styrka ger honom ett psykologiskt övertag över motståndaren, och utnyttjar sedan detta till sin fördel för att fullständigt överrösa fienden med hederlig gammal brutalitet. I träningen ingår också en survivalistisk härdningsprocess som hos andra lärare än Thyr den Gamle hade varit fullständigt livsfarlig.
 
-**Moment:** <stort tvåhandsvapen>
+**Moment:** \<stort tvåhandsvapen\>
 **Tekniker:** Djärvhet, Skrämma/hota, Stridsvråla, Stålsättning, Tränat anfall: hugg, Tränat anfall: kross, Tungt anfall, \[*Kraggisk spetsning, Uppföljning*\]
 
 ### Dwyrydd Coleys fäktteknik
@@ -197,5 +197,5 @@ Dwyrryd själv sägs ha utvecklat 'Den druckne mästaren', en bisarr teknik för
 Den osannolikt utbredda järnbristen i Alarinn har tvingat vissa lokala vapenmästare att experimentera med träalternativ till svärd. I takt med att järnbristen förvärrats har dessa experiment tagit sig allt mer bisarra uttryck. Fordd y bwced bren får antagligen ses som det bisarraste (och sämsta). Fordd y bwced brens utövare ligger i en djup fejd med Eimerhoffers Hinkbuch.
 
 **Traditionella vapen:** Två trähinkar.
-**Moment:** <trähink>
+**Moment:** \<trähink\>
 **Tekniker:** Avancerat anfall: kross, Kontring, Krigslist, Skrämma/hota, Stridsvråla, Stålsättning, Två vapen, Tungt anfall, Utmanövrering, Vapenaffinitet \[*Mästaranfall: kross, Snabbdragning, Uppföljning*\]

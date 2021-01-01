@@ -10,39 +10,21 @@ title: Jaccumta
 ---
 -   **Härskare:** Ingen (Ekhbet Sona’a styr från Locarda)
 
-<!-- -->
-
 -   **Invånarantal:** Ca 50 000
-
-<!-- -->
 
 -   **Befolkning:** Zhaner 61%, Marnakhtiraker 11%, Darkener 11%, Bazirktiraker 5%, Cirefalier 4%, Jargier 2%, Pyaralver 1%, Övriga 4%.'
 
-<!-- -->
-
 -   **Religion:** Mamolanismen 43%, Ökendemoner 20%, Mahktah 16%, Moras-eunuckerna 10%, Mhîmrätten 4%, Cirza-tron 4%, Daakkyrkan 2%, Övriga 5%.
-
-<!-- -->
 
 -   **Huvudnäring:** Handel
 
-<!-- -->
-
 -   **Handelsvägar:** Karavanvägar till Locarda, Colostro och Lopnor, sjövägen till Jargien, Melorion, Mûhad, Takalorr och bortom.
-
-<!-- -->
 
 -   **Import (i stort):** Trä, spannmål, vapen, lyxartiklar, skriftverk
 
-<!-- -->
-
 -   '''Export (i stort): '''Salt, siden, guld, kryddor, frukter, textilier, slavar, ädelträ
 
-<!-- -->
-
 -   **Militära resurser:** 1089 Jaccakrigare, 750 stadsvakter, två lejda piratband, handelshusens egna styrkor
-
-<!-- -->
 
 -   **Känd för:** Hamnen, utländska handelsmän, saltbassängerna, Ulug Stjärnskådarens observatorium.
 

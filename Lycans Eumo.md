@@ -7,11 +7,8 @@ created_at: '2012-10-17T10:39:05Z'
 id: lycans eumo
 title: Lycans Eumo
 ---
-<div style="background-color: #ddf5eb; border-style: dotted;">
 
-Något jag har funderat på är termen Eumo såsom en större geografisk enhet (Eumo, Belu, Dhuk, Summag och Vildlanden), och termen Eumo som stat. Bör man kalla Eumo (geografiskt område) för något annat än Eumo (stat)?
-
-</div>
+> Något jag har funderat på är termen Eumo såsom en större geografisk enhet (Eumo, Belu, Dhuk, Summag och Vildlanden), och termen Eumo som stat. Bör man kalla Eumo (geografiskt område) för något annat än Eumo (stat)?
 
 Stora Eumo är ett enormt område bestående av mer eller mindre laglösa områden kring Caibukten. ~~Nästan hela Eumo består av öken eller torra stäpper vilka är bebodda av krigiska stammar~~. Det är en till stor del gudsförgäten och ogästvänlig avkrok med vidsträckta ökenområden och hemsökta jungler.
 

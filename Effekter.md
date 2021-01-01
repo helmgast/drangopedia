@@ -2178,7 +2178,7 @@ Selenotropi: 1+, Räckvidd: Personlig, Varaktighet: Temporär\*
 
 *\* Effekten kan inte göras permanent.*
 
-Ökar selenosfärens reflektiva egenskaper lokalt. Den synliga effekten blir att månen blir en allt bättre ljuskälla. Månen generar därmed fler filament. <SKRIV MER HÄR>
+Ökar selenosfärens reflektiva egenskaper lokalt. Den synliga effekten blir att månen blir en allt bättre ljuskälla. Månen generar därmed fler filament. `SKRIV MER HÄR`
 
 ## Delirium
 
@@ -2230,7 +2230,7 @@ Effekten fyller en punkt inom räckvidden med långsamt flackande, blå eld frå
 
 Selenotropi: 7, Räckvidd: Avstånd, Varaktighet: Provisorisk
 
-Effekten kopplar ett offer till månens faser, vilket påverkar denna på mer eller mindre osubtila sätt under varaktigheten. <fyll i mer sedan>
+Effekten kopplar ett offer till månens faser, vilket påverkar denna på mer eller mindre osubtila sätt under varaktigheten. `fyll i mer sedan`
 
 ## Mångubbens nedstigande
 

@@ -9,14 +9,14 @@ title: Reviderade stridskonster
 ---
 ## Bärsärkagång
 
-**Moment:** <Närstridsvapen>
+**Moment:** \<Närstridsvapen\>
 **Tekniker:** Bärsärk, Tungt anfall, Uppföljning
 
 ## Cirefalisk fäktteknik
 
 **Traditionella vapen:** Melorsvärd, cirecald, radard.
 **Moment:** Stridssvärd, storsvärd, raka dolkar.
-**Tekniker:** Avancerat anfall: hugg och stick, Momentspecialisering: <svärd>, Rappt utfall, Utspel, Snabbdragning. \[*Uppföljning, Viktutnyttjande, Ripost, Två vapen.*\]
+**Tekniker:** Avancerat anfall: hugg och stick, Momentspecialisering: \<svärd\>, Rappt utfall, Utspel, Snabbdragning. \[*Uppföljning, Viktutnyttjande, Ripost, Två vapen.*\]
 
 ## Cirzatemplets beskydd: Närstridsträning
 
@@ -28,7 +28,7 @@ title: Reviderade stridskonster
 
 **Traditionella vapen:** Chineramoz, lätt armborst.
 **Moment:** Kortbåge, lätt armborst.
-**Tekniker:** Avståndsvapen till häst, Momentspecialisering: <vapen>, Precisionsanfall: avstånd, Ridteknik, Vaksamhet. \[*Snabbdragning, Snabbskytte.*\]
+**Tekniker:** Avståndsvapen till häst, Momentspecialisering: \<vapen\>, Precisionsanfall: avstånd, Ridteknik, Vaksamhet. \[*Snabbdragning, Snabbskytte.*\]
 
 ## Dehji al Ged
 
@@ -38,14 +38,14 @@ title: Reviderade stridskonster
 
 ## Drakbane
 
-**Moment:** <Enhandsvapen>, <Sköld>, <Spjut>.
-**Tekniker:** Avancerat anfall: hugg och stick, Drakdödare, Momentspecialisering: <Spjut>, Precisionsanfall: närstrid, Krigslist, Rappt utfall, Utspel.
+**Moment:** \<Enhandsvapen\>, \<Sköld\>, \<Spjut\>.
+**Tekniker:** Avancerat anfall: hugg och stick, Drakdödare, Momentspecialisering: \<Spjut\>, Precisionsanfall: närstrid, Krigslist, Rappt utfall, Utspel.
 
 ## Fionas värn
 
 **Traditionella vapen:** Stridssvärd, riddarsköld.
 **Moment:** Stridssvärd, sköldar.
-**Tekniker:** Avancerat anfall: hugg, Djärvhet, Mental koncentration, Momentspecialisering: <vapen>, Ridteknik, Vaksamhet, Utspel. \[*Två vapen.*\]
+**Tekniker:** Avancerat anfall: hugg, Djärvhet, Mental koncentration, Momentspecialisering: \<vapen\>, Ridteknik, Vaksamhet, Utspel. \[*Två vapen.*\]
 
 ## Ghor Hatzi
 
@@ -55,7 +55,7 @@ title: Reviderade stridskonster
 
 ## Gûrderuppfostran
 
-**Moment:** <Närstridsvapen>.
+**Moment:** \<Närstridsvapen\>.
 **Tekniker:** Bärsärk, Rappt utfall, Stridsvråla.
 
 ## Kafer-granasch
@@ -73,23 +73,23 @@ title: Reviderade stridskonster
 
 **Traditionella vapen:** Phar-Lukh, Krell-Lukh, Phar-Zhon.
 **Moment:** Stridssvärd, kortsvärd, bucklare.
-**Tekniker:** Momentspecialisering: <vapen>, Rappt utfall, Tränat anfall: hugg, Två vapen, Utspel. \[*Avancerat anfall: hugg.*\]
+**Tekniker:** Momentspecialisering: \<vapen\>, Rappt utfall, Tränat anfall: hugg, Två vapen, Utspel. \[*Avancerat anfall: hugg.*\]
 
 ## Manziiriskt klingmästeri
 
 **Traditionella vapen:** Melorsvärd, radard, razemon.
 **Moment:** Stridssvärd, raka dolkar, sköldar.
-**Tekniker:** Avancerat anfall: hugg och stick, Momentspecialisering: <vapen>, Rappt utfall, Ridteknik, Snabbdragning, Två vapen, Utspel, Viktutnyttjande. \[*Målpunkter, Mästaranfall: hugg och stick, Mästarutspel, Precisionsanfall: närstrid, Utmanövrering.*\]
+**Tekniker:** Avancerat anfall: hugg och stick, Momentspecialisering: \<vapen\>, Rappt utfall, Ridteknik, Snabbdragning, Två vapen, Utspel, Viktutnyttjande. \[*Målpunkter, Mästaranfall: hugg och stick, Mästarutspel, Precisionsanfall: närstrid, Utmanövrering.*\]
 
 ## Marinkåristträning
 
-**Moment:** <Yxa>, <Sköld>.
+**Moment:** \<Yxa\>, \<Sköld\>.
 **Tekniker:** Avancerat anfall: hugg, Utspel, Uppföljning.
 
 ## Martaris dräpande svärd
 
-**Moment:** <Svärd>
-**Tekniker:** Avancerat anfall: hugg, Fokus, Momentspecialisering: <svärd>, Krigslist, Vapenaffinitet, Utmanövrering, Utspel. \[*Dödande anfall, Målpunkter, Precisionsanfall: närstid, Mästaranfall: hugg, Mästarutspel.*\]
+**Moment:** \<Svärd\>
+**Tekniker:** Avancerat anfall: hugg, Fokus, Momentspecialisering: \<svärd\>, Krigslist, Vapenaffinitet, Utmanövrering, Utspel. \[*Dödande anfall, Målpunkter, Precisionsanfall: närstid, Mästaranfall: hugg, Mästarutspel.*\]
 
 ## Mason an Turina
 
@@ -113,7 +113,7 @@ title: Reviderade stridskonster
 
 **Traditionella vapen:** Stridssvärd, slagsvärd, storsvärd, riddarsköld.
 **Moment:** Stridssvärd, storsvärd, sköldar.
-**Tekniker:** Avancerat anfall: hugg, Momentspecialisering: <vapen>, Ridteknik, Snabb återhämtning, Tungt anfall, Utspel. \[*Krigslist, Två vapen.*\]
+**Tekniker:** Avancerat anfall: hugg, Momentspecialisering: \<vapen\>, Ridteknik, Snabb återhämtning, Tungt anfall, Utspel. \[*Krigslist, Två vapen.*\]
 
 ## St Eoboths teknik
 
@@ -123,8 +123,8 @@ title: Reviderade stridskonster
 
 ## Stridsakademiutbildning
 
-**Moment:** <Enhandsvapen>, <sköld>, <dolk>.
-**Tekniker:** Avancerat anfall, Krigslist, Momentspecialisering: <vapen>, Utspel. \[*Rappt utfall, Snabbdragning, Två vapen.*\]
+**Moment:** \<Enhandsvapen\>, \<sköld\>, \<dolk\>.
+**Tekniker:** Avancerat anfall, Krigslist, Momentspecialisering: \<vapen\>, Utspel. \[*Rappt utfall, Snabbdragning, Två vapen.*\]
 
 ## Su'nai conornin
 
@@ -155,11 +155,11 @@ title: Reviderade stridskonster
 
 **Traditionella vapen:** Lyfali, vicoshira.
 **Moment:** Lyfali, sköldar.
-**Tekniker:** Avancerat anfall: hugg, Momentspecialisering: <vapen>, Precisionsanfall: närstrid, Rappt utfall, Två vapen, Utspel, Vaksamhet, Viktutnyttjande. \[*Avvärja projektil, Dödande anfall, Mental koncentration, Mästaranfall: hugg, Mästarutfall, Uppföljning.*\]
+**Tekniker:** Avancerat anfall: hugg, Momentspecialisering: \<vapen\>, Precisionsanfall: närstrid, Rappt utfall, Två vapen, Utspel, Vaksamhet, Viktutnyttjande. \[*Avvärja projektil, Dödande anfall, Mental koncentration, Mästaranfall: hugg, Mästarutfall, Uppföljning.*\]
 
 ## Tirak-/Trukhuppfostran
 
-**Moment:** <Närstridsvapen>
+**Moment:** \<Närstridsvapen\>
 **Tekniker:** Bärsärk, Skrämma/Hota, Stridsvråla.
 
 ## Vägvaktsträning

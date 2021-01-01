@@ -52,7 +52,7 @@ En lagman är inte som vem som helst. Lagmannen har skolats och drillats sedan b
 
 Framgångsslag: STY, RÖR, PSY
 
-Yrkesfärdigheter: (70/100/130) enheter: Akrobatik, Låsdyrkning, Simma, Smyga, Undvika, Filosofi, Historia, Krigföring, Lagkunskap, Navigation, Diplomati, Ledarskap, Undervisning, Kastkniv, Svärd, <Vapenfärdighet>, Stridskonst.
+Yrkesfärdigheter: (70/100/130) enheter: Akrobatik, Låsdyrkning, Simma, Smyga, Undvika, Filosofi, Historia, Krigföring, Lagkunskap, Navigation, Diplomati, Ledarskap, Undervisning, Kastkniv, Svärd, \<Vapenfärdighet\>, Stridskonst.
 
 Specialfärdigheter: (2T6+4) enheter för att höja Stridsvana.
 

@@ -84,10 +84,9 @@ title: Calnia
 
 -   Sir [Sakarian av Rim], diplomat, alkemist och nekromantiker med goda kontakter med vissa kriminella element i Calnia
 
-===== **Den Undre Världen**
-=====
+### Den Undre Världen
 
--   [Lugal Dormoz], foriansk gangsterboss, ledare för \[\[
+-   [Lugal Dormoz], foriansk gangsterboss, ledare för
 -   [Järven], lönnmördare och fixare. Ökänd för sin brutalitet och brist på skrupler. Nås via ombud på värdshuset Gröna bägaren.
 -   [Regar Diadarine III], belevad förmedlare av ljusskygga tjänster, en slags länk mellan Calnias överklass och undre värld
 

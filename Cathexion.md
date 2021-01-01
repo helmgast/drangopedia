@@ -24,27 +24,15 @@ Gruppen, under ledning av principus regis [Atalman Eqêzit], presenterade nylige
 
 -   Det finns inga skarpa gränser mellan de olika aspekterna, de är olika manifestationer av samma [Urkraft], och skiljs bara åt genom en kvantitativ skillnad på en glidande skala, således finns det en oändlig mängd aspekter.
 
-<!-- -->
-
 -   Beroende på en definierad mängd av magisk energi är sammansatt har den en särskild "flytkraft", "lätta" aspekter flyter ovanpå "tunga" aspekter.
-
-<!-- -->
 
 -   De "tyngsta" kraftfälten ligger alltid i "botten" av verkligheten, dessa är de som traditionellt definierats som de fyra spirituella krafterna. Den tyngsta lagret likställs med teotropi, därefter kommer daimotropin, sedan psykotropin och sist oneirotropin.
 
-<!-- -->
-
 -   De materiella krafterna är inte av stabil vikt, utan fluktuerar i sina beröringar med de tunga krafterna.
-
-<!-- -->
 
 -   Eftersom det finns ett kraftskikt som är tungt och ett som är lätt, finns det ett observerbart gap mellan dessa, detta ligger mellan oneirotropin och de materiella krafterna. Detta gap kallas cathexion.
 
-<!-- -->
-
 -   Cathexion är ett gränsland mellan två uppsättningar rörelser, och utsätts som så ideligen för kollisioner och interaktioner, kallade för apokatastatiska vågrörelser.
-
-<!-- -->
 
 -   Dessa vågrörelser frisätter stora mängder kraft, och är, strängt räknat, det "vanliga" varelser uppfattar som verkligheten.
 

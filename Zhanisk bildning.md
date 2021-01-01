@@ -56,13 +56,13 @@ Spelledaren bör fritt modifiera privatlärarutbildningen så att den passar rol
 
 Framgångsslag: RÖR, PSY, VIL\*
 
-Färdigheter: Följande enheter på: Diplomati (3\|4\|5), Etikett (2\|4\|6), Filosofi (0\|2\|4), Geografi (0\|2\|4), Heraldik (2\|3\|4), Historia (2\|4\|6), Jakt (0\|2\|3), Kalligraf (2\|3\|5), Krigsföring (0\|4\|5), Lagkunskap: Gudahärskarens lag (3\|4\|6), Ledarskap (2\|3\|6), Mûhadinska (2\|3\|4), Mûhadinsk skrift (4\|6\|8), Ockultism: Fata’a (0\|2\|4), Rida (2\|3\|4), <Språk> (0\|2\|3), Stridsvana (0\|0\|2), <Vapenfärdighet> (2\|3\|6), Övertala (0\|2\|3)
+Färdigheter: Följande enheter på: Diplomati (3\|4\|5), Etikett (2\|4\|6), Filosofi (0\|2\|4), Geografi (0\|2\|4), Heraldik (2\|3\|4), Historia (2\|4\|6), Jakt (0\|2\|3), Kalligraf (2\|3\|5), Krigsföring (0\|4\|5), Lagkunskap: Gudahärskarens lag (3\|4\|6), Ledarskap (2\|3\|6), Mûhadinska (2\|3\|4), Mûhadinsk skrift (4\|6\|8), Ockultism: Fata’a (0\|2\|4), Rida (2\|3\|4), \<Språk\> (0\|2\|3), Stridsvana (0\|0\|2), \<Vapenfärdighet\> (2\|3\|6), Övertala (0\|2\|3)
 
 -   Högadliga kan välja ett framgångsslag som lyckas automatiskt (välj innan slagen)
 
 Framgångsslag: PER, PSY, VIL\*
 
-Färdigheter: Följande enheter på: Bokhållning (0\|2\|4), Diplomati (3\|4\|6), Etikett (3\|5\|6), Filosofi (0\|2\|4), Förföra (0\|2\|3), Heraldik (2\|3\|4), Historia (0\|2\|4), Kalligraf (0\|2\|4), Lagkunskap: Gudahärskarens lag (2\|4\|6), Ledarskap (0\|2\|3), Mûhadinska (0\|2\|4), Mûhadinsk skrift (3\|5\|7), Musik (2\|3\|5), Ockultism: Fata’a (2\|4\|5), <Språk> (0\|2\|3), Undervisning (0\|2\|3), Växtlära: Droger eller gifter (0\|2\|3), Övertala (0\|2\|3)
+Färdigheter: Följande enheter på: Bokhållning (0\|2\|4), Diplomati (3\|4\|6), Etikett (3\|5\|6), Filosofi (0\|2\|4), Förföra (0\|2\|3), Heraldik (2\|3\|4), Historia (0\|2\|4), Kalligraf (0\|2\|4), Lagkunskap: Gudahärskarens lag (2\|4\|6), Ledarskap (0\|2\|3), Mûhadinska (0\|2\|4), Mûhadinsk skrift (3\|5\|7), Musik (2\|3\|5), Ockultism: Fata’a (2\|4\|5), \<Språk\> (0\|2\|3), Undervisning (0\|2\|3), Växtlära: Droger eller gifter (0\|2\|3), Övertala (0\|2\|3)
 
 -   Om rollpersonen är eunuck kan han välja ett framgångsslag som lyckas automatiskt (välj innan slagen)
 

@@ -25,7 +25,7 @@ Smetigast död vinner. Klara, färdiga...gå!
 -   [Esmeralda], halshuggen av Nicoz.
 -   [Galathorn vhic Tani'yena], uppäten av [Mångbane]
 -   [Gammal-som-Tiden], uppgick i världsalltet
--   <span style="text-decoration: underline;"></span>[Herr Gregarin], föll i strid mot [Rekhem]
+-   [Herr Gregarin], föll i strid mot [Rekhem]
 -   [Herr Henryk], föll i strid mot Rekhems och Alariels underhuggare.
 -   [Ishana], dog av blodförlust i Duandans slott.
 -   [Ivlis Dordaros], steglad och rådbråkad av [Yegor van Culnar]

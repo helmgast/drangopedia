@@ -28,63 +28,69 @@ The ancient astronomy taught that above the seven planetary spheres was an eight
 
 The Ophites accepted the existence of these seven archons (Origen, Contra Celsum, vi. 31; a nearly identical list is given in On the Origin of the World):\[8\]
 
-`   * Yaldabaoth, called also Saklas and Samael`
-`         o Saturn.`
-`         o Feminine name: Pronoia (Forethought) Sambathas, "week".`
-`         o Prophets:[9] Moses, Joshua, Amos, Habakkuk.`
-`         o From Hebrew yalda bahut, "Child of Chaos"? The outermost who created the six others, and therefore the chief ruler and Demiurge par excellence. Called "the Lion-faced", leontoeides, similar to the Mithraic Leontocephaline.`
-`   * Iao`
-`         o Jupiter.`
-`         o Feminine name: Lordship.`
-`         o Prophets: Samuel, Nathan, Jonah, Micah.`
-`         o Perhaps from Yahu, Yahweh, but possibly also from the magic cry iao in the Mysteries.`
-`   * Sabaoth`
-`         o Mars.`
-`         o Feminine name: Deity.`
-`         o Prophets: Elijah, Joel, Zechariah.`
-`         o The Old Testament title God of Hosts was thought a proper name, hence Jupiter Sabbas (Yahweh Sabaoth).`
-`   * Astaphanos, or Astaphaios`
-`         o Venus.`
-`         o Feminine name: Sophia (Wisdom).`
-`         o Prophets: Esdras, Zephaniah.`
-`         o Astraphaios is beyond doubt the planet Venus, as there are gnostic gems with a female figure and the legend ASTAPHE, which name is also used in magic spells as the name of a goddess.`
-`   * Adonaios`
-`         o The Sun.`
-`         o Feminine name: Kingship.`
-`         o Prophets: Isaiah, Ezekiel, Jeremiah, Daniel.`
-`         o From the Hebrew term for "the Lord", used of God; Adonis of the Syrians representing the Winter sun in the cosmic tragedy of Tammuz. In the Mandaean system Adonaios represents the Sun.`
-`   * Elaios, or Ailoaios, or sometimes Ailoein`
-`         o Mercury.`
-`         o Feminine name: Jealousy.`
-`         o Prophets: Tobias, Haggai.`
-`         o From Elohim, God (El).`
-`   * Horaios`
-`         o The Moon.`
-`         o Feminine name: Wealth.`
-`         o Prophets: Michaiah, Nahum.`
-`         o From Jaroah? or "light"? or Horus?`
+```
+   * Yaldabaoth, called also Saklas and Samael
+         o Saturn.
+         o Feminine name: Pronoia (Forethought) Sambathas, "week".
+         o Prophets:[9] Moses, Joshua, Amos, Habakkuk.
+         o From Hebrew yalda bahut, "Child of Chaos"? The outermost who created the six others, and therefore the chief ruler and Demiurge par excellence. Called "the Lion-faced", leontoeides, similar to the Mithraic Leontocephaline.
+   * Iao
+         o Jupiter.
+         o Feminine name: Lordship.
+         o Prophets: Samuel, Nathan, Jonah, Micah.
+         o Perhaps from Yahu, Yahweh, but possibly also from the magic cry iao in the Mysteries.
+   * Sabaoth
+         o Mars.
+         o Feminine name: Deity.
+         o Prophets: Elijah, Joel, Zechariah.
+         o The Old Testament title God of Hosts was thought a proper name, hence Jupiter Sabbas (Yahweh Sabaoth).
+   * Astaphanos, or Astaphaios
+         o Venus.
+         o Feminine name: Sophia (Wisdom).
+         o Prophets: Esdras, Zephaniah.
+         o Astraphaios is beyond doubt the planet Venus, as there are gnostic gems with a female figure and the legend ASTAPHE, which name is also used in magic spells as the name of a goddess.
+   * Adonaios
+         o The Sun.
+         o Feminine name: Kingship.
+         o Prophets: Isaiah, Ezekiel, Jeremiah, Daniel.
+         o From the Hebrew term for "the Lord", used of God; Adonis of the Syrians representing the Winter sun in the cosmic tragedy of Tammuz. In the Mandaean system Adonaios represents the Sun.
+   * Elaios, or Ailoaios, or sometimes Ailoein
+         o Mercury.
+         o Feminine name: Jealousy.
+         o Prophets: Tobias, Haggai.
+         o From Elohim, God (El).
+   * Horaios
+         o The Moon.
+         o Feminine name: Wealth.
+         o Prophets: Michaiah, Nahum.
+         o From Jaroah? or "light"? or Horus?
+```
 
 In the hellenized form of Gnosticism either all or some of these names are replaced by personified vices. Authadia (Authades), or Audacity, is the obvious description of Yaldabaoth, the presumptuous Demiurge, who is lion-faced as the Archon Authadia. Of the Archons Kakia, Zelos, Phthonos, Errinnys, Epithymia, the last obviously represents Venus. The number seven is obtained by placing a proarchon or chief archon at the head. That these names are only a disguise for the Sancta Hebdomas is clear, for Sophia, the mother of them, retains the name of Ogdoad, Octonatio. Occasionally one meets with the Archon Esaldaios, which is evidently the El Shaddai of the Bible, and he is described as the Archon "number four" (harithmo tetartos).
 
 In the system of the Gnostics mentioned by Epiphanius we find, as the Seven Archons,
 
-`   * Iao`
-`   * Saklas (the chief demon of Manichaeism)`
-`   * Seth`
-`   * David`
-`   * Eloiein`
-`   * Elilaios (probably connected with En-lil, the Bel of Nippur, the ancient god of Babylonia)`
-`   * Yaldabaoth (or no. 6 Yaldaboath, no. 7 Sabaoth)`
+```
+   * Iao
+   * Saklas (the chief demon of Manichaeism)
+   * Seth
+   * David
+   * Eloiein
+   * Elilaios (probably connected with En-lil, the Bel of Nippur, the ancient god of Babylonia)
+   * Yaldabaoth (or no. 6 Yaldaboath, no. 7 Sabaoth)
+```
 
 The last book of the Pistis Sophia contains the myth of the capture of the rebellious archons, whose leaders here appear as five in number.\[10\]
 
-`   * Paraplex`
-`   * Hekate`
-`   * Ariouth (females)`
-`   * Typhon`
-`   * Iachtanabas (males)`
+```
+   * Paraplex
+   * Hekate
+   * Ariouth (females)
+   * Typhon
+   * Iachtanabas (males)
 
-\[edit\] Mandaean Archons
+[edit] Mandaean Archons
+```
 
 Among the Mandaeans, we find a different and perhaps more primitive conception of the Seven, according to which they, together with their mother Namrus (Ruha) and their father (Ur), belong entirely to the world of darkness. They and their family are looked upon as captives of the god of light (Manda-d'hayye, Hibil-Ziva), who pardons them, sets them on chariots of light, and appoints them as rulers of the world.\[11\] \[edit\] Manichaean Archons
 

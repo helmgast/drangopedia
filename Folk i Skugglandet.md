@@ -29,7 +29,7 @@ title: Folk i Skugglandet
 ## Annorstädes:
 
 -   [Havsdjupens moder]
--   [Månört]<span style="text-decoration: underline;"></span>
+-   [Månört]
 -   [Sabera]
 -   [Kara]
 -   [Kapten Nordanvind]
@@ -40,7 +40,7 @@ title: Folk i Skugglandet
 
 -   [L'wethme]
 -   [Xardu]
--   ["Usurpatorn"]
+-   [Usurpatorn]
 -   [Gamides]
 -   [Mokulinde]
 -   [Gwydion]
@@ -68,7 +68,7 @@ title: Folk i Skugglandet
   [Stenstodernas Furste]: Connelsgaith
   [L'wethme]: Lwethme
   [Xardu]: Xardu
-  ["Usurpatorn"]: Usurpatorn
+  [Usurpatorn]: Usurpatorn
   [Gamides]: Gamides
   [Mokulinde]: Mokulinde
   [Gwydion]: Gwydion

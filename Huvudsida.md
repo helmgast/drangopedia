@@ -4,9 +4,7 @@ created_at: '2014-08-30T01:19:10Z'
 id: huvudsida
 title: Huvudsida
 ---
-> *Jag har den lätt obehagliga föraningen att jag intuitivt har bättre koll på Consaber än på Skåne...*
-
-/~~Joel~~
+> *Jag har den lätt obehagliga föraningen att jag intuitivt har bättre koll på Consaber än på Skåne...* /Joel
 
 ## Portaler
 
@@ -42,7 +40,7 @@ title: Huvudsida
 
 ## Scenarier
 
-<b>[De vita svalorna på berget Vostram]</b>
+## [De vita svalorna på berget Vostram]
 
   [Stora Arkipelagen]: Stora_Arkipelagen
   [Calnia]: Calnia

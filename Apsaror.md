@@ -22,16 +22,18 @@ title: Apsaror
 
 ## Apsara \[Rang 4\]
 
--   **STY:** 8 \[3T6-2\] **SYN:** 16 \[4T6\]
--   **TÅL:** 10 \[3T6\] **HÖR:** 16 \[4T6\]
--   **RÖR:** 22 \[5T6+2\] **AND:** 10 \[3T6\]
--   **PER:** 16 \[4T6\] **MAG:** 10 \[3T6\]
+-   **STY:** 8 \[3T6-2\]
+-   **TÅL:** 10 \[3T6\]
+-   **RÖR:** 22 \[5T6+2\]
+-   **PER:** 16 \[4T6\]
 -   **PSY:** 12 \[3T6+2\]
 -   **VIL:** 14 \[3T6+4\]
--   **BIL:** 12 \[2T6+5\] **AGG:** 7 – Hotar (Observerar)
-
-<!-- -->
-
+-   **BIL:** 12 \[2T6+5\]
+-   **SYN:** 16 \[4T6\]
+-   **HÖR:** 16 \[4T6\]
+-   **AND:** 10 \[3T6\]
+-   **MAG:** 10 \[3T6\]
+-   **AGG:** 7 – Hotar (Observerar)
 -   **Förflyttning:** 10 m/runda\*, **BF:** 9,5 kg **UK:** 7 rutor
 
 **Chockvärde:** 11, **Skadetålighet:** 5 rutor, **VINIT:** 10, **Insikt:** 7, **Qadosh**: 5
@@ -59,7 +61,7 @@ Fyrarmade humanoider
 
 Apsarakrona \[H13, K11, S5\], skyddar 3
 
-**Färdigheter:** Alstra topotropi\*\*\* 9, Alstra pneumotropi\*\*\* 15, Alstra hydrotropi\*\*\* 12, Besvärjelse 14, Dansa 20, Djurlära 10, Etikett 12, Flyga 20, Förföra 13, Geografi 10, <Hantverk> 14, Lagkunskap 10, Musik 17, Ockultism 12, Schamanism 8, Simma 18, Sjunga 16, Smyga 16, Stridsvana 9, Speja 15, Spåra 10, Söka 10, Teoretisk magi 6, Transformering 10, Undvika 18, Växtlära 10, Överlevnad 10, Övertala 11
+**Färdigheter:** Alstra topotropi\*\*\* 9, Alstra pneumotropi\*\*\* 15, Alstra hydrotropi\*\*\* 12, Besvärjelse 14, Dansa 20, Djurlära 10, Etikett 12, Flyga 20, Förföra 13, Geografi 10, \<Hantverk\> 14, Lagkunskap 10, Musik 17, Ockultism 12, Schamanism 8, Simma 18, Sjunga 16, Smyga 16, Stridsvana 9, Speja 15, Spåra 10, Söka 10, Teoretisk magi 6, Transformering 10, Undvika 18, Växtlära 10, Överlevnad 10, Övertala 11
 
 *\*\*\*Apsaror är naturligt magiska och alstrar topotropi, pneumotropi och hydrotropi en nivå lättare (-Ob1T6). Svårigheten kan dock aldrig gå under mycket lätt (Ob1T6).*
 

@@ -38,8 +38,6 @@ Cëanne är inte utvald av ödet för att rädda världen, hon är inte heller e
 
 -   Det finns något viktigt begravt i nordcolonan. Detta är nödvändigt för att rättfärdiga varför Legio colonan lägger asmycket resurser på att kontrollera avkroken.
 
-<!-- -->
-
 -   Certani är Tenavrons lärling från början. Hon behövs för karaktärsdynamiken.
 
 Agreed. Certani &lt;3 /Ol

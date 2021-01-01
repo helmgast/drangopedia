@@ -111,7 +111,7 @@ The Wild one — Lucien
 -   [Litte Miss Badass] Maeve har potential. Hon har fått vapenträning sen innan nio års ålder och Nicoz oroar sig för att det inte är tillräckligt...
 -   [Living Shadow] - Urskuggvarelserna
 -   [Loads And Loads Of Characters] - ja herregud...
--   [Love Triangle] - lalalalalala. Vi har Nicoz och Frostmåne och Aranni, Mido och Valis och Ishana, Nicoz och Yzanna och Erianni, Dahaun och Inalea och Tirel, Sevan och Jehana och Lyvani, Nicoz och Eithene och Denelian, Nicoz och Eithene och Denelian ''och ''Oron ***och*** Verduhrakh, för att bara nämna några extra kletiga. Närmar sig [Love Dodecahedron].
+-   [Love Triangle] - lalalalalala. Vi har Nicoz och Frostmåne och Aranni, Mido och Valis och Ishana, Nicoz och Yzanna och Erianni, Dahaun och Inalea och Tirel, Sevan och Jehana och Lyvani, Nicoz och Eithene och Denelian, Nicoz och Eithene och Denelian *och* Oron ***och*** Verduhrakh, för att bara nämna några extra kletiga. Närmar sig [Love Dodecahedron].
 -   [Mangst] - nästan alla män med samvete, och några kvinnor.
 -   [Mind Rape] - både Orlik och Abraxes gillar det här; Inalea tycks särskilt känslig mot det.
 -   [Named Weapons] - [Massor]
@@ -285,7 +285,7 @@ The Wild one — Lucien
 ### Första Snön
 
 -   [Back From The Dead]
--   <span style="text-decoration: underline;"></span>[Despair Event Horizon]
+-   [Despair Event Horizon]
 -   [Fragile Speedster]
 -   [Nature Hero]
 -   [Nubile Savage]

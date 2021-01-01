@@ -10,28 +10,41 @@ created_at: '2015-01-29T05:11:09Z'
 id: brännandet av edron
 title: Brännandet av Edron
 ---
-<table><tbody><tr class="odd"><td><p><strong>Tidpunkt:</strong> Vintern <a href="Tidslinje_över_Västlandens_historia">2166 e.M.</a><br />
-<strong>Plats:</strong> <a href="Edron">Edron</a>, <a href="Darasgata">Darasgata</a><br />
-<strong>Utgång:</strong> Seger för <a href="Drakalliansen">Drakalliansen</a><br />
-<strong>Konsekvenser:</strong> Det <a href="Edron">edronitiska imperiet</a> går under<br />
-</p></td></tr><tr class="even"><td><p>                   Stridande parter</p></td></tr><tr class="odd"><td><p><a href="Edronitiska_imperiet">Edronitiska imperiet</a><br />
-<a href="Ansale-Idon">Ansale-Idon</a><br />
-<a href="Nadaria">Nadaria</a></p></td></tr><tr class="even"><td><p>                    Befälhavare</p></td></tr><tr class="odd"><td><p><a href="Kraden_Nanórgona">Kraden Nanórgona</a><br />
-<a href="Azar_Kyeshon">Azar Kyeshon</a>†<br />
-<a href="Pueshardokt">Pueshardokt</a>†<br />
-<a href="Izìlzû">Izìlzû</a>†</p></td></tr><tr class="even"><td><p>                       Styrkor</p></td></tr><tr class="odd"><td><p>6 000 <a href="Atârhaxamanerna">Odödliga</a><br />
-300 <a href="Eldsfurstarna">Eldsfurstar</a><br />
-110 000 soldater<br />
-20 000 stadsvakter<br />
-700 marinsoldater<br />
-130 <a href="Kamorfer">Kamorfer</a><br />
-140 Heavéryttare<br />
-200 fartyg<br />
-Åkallade demoner<br />
-1 vandöd <a href="Mortuach">Mortuach</a></p></td></tr><tr class="even"><td><p>                       Förluster</p></td></tr><tr class="odd"><td><p>5000 Odödliga<br />
-75 000 soldater<br />
-Hundratals fartyg<br />
-Hundratusentals civila</p></td></tr></tbody></table>
+## Fakta
+
+- **Tidpunkt**: Vintern [2166 e.M.]
+- **Plats**: [Edron], [Darasgata]
+- **Utgång**: Seger för [Drakalliansen]
+- **Konsekvenser**: Det [edronitiska imperiet][Edron] går under
+
+## Stridande parter
+- [Edronitiska imperiet][Edron]
+- [Ansale-Idon]
+- [Nadaria]
+
+## Befälhavare
+- [Kraden Nanórgona][Kraden Nanórgonas]
+- [Azar Kyeshon]
+- [Pueshardokt]
+- [Izìlzû]
+
+## Styrkor
+- 6000 [Odödliga]
+- 300 [Eldsfurstar][Eldsfurstarna]
+- 110 000 soldater
+- 20 000 stadsvakter
+- 700 marinsoldater
+- 130 [Kamorfer]
+- 140 [Heavéryttare]
+- 200 fartyg
+- Åkallade demoner
+- 1 vandöd [Mortuach]
+
+## Förluster
+- 5000 Odödliga
+- 75 000 soldater
+- Hundratals fartyg
+- Hundratusentals civila
 
 ## Inledning
 
@@ -154,3 +167,9 @@ Följande drakar var delaktiga, helt eller delvis, i Brännandet av Edron, och h
   [Nanórgonas influx]: Nanórgonas_influx
   [Gebashan Häxkonungen]: Gebashan_Häxkonungen
   [1]: Gimnaud
+  [2166 e.M.]: Tidslinje_över_Västlandens_historia
+  [Edron]: Edron
+  [Izìlzû]: Izìlzû
+  [Odödliga]: Atârhaxamanerna
+  [Kamorfer]: Kamorfer
+  [Mortuach]: Mortuachdrake

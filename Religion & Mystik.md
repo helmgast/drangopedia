@@ -108,11 +108,11 @@ Det största hindret för Mhîmrättens spridning har varit att zhanerna alltid 
 
 Den spridning som trots allt skett har i huvudsak berott på zhaniska folkvandringar. Mhîmrätten kom med zhanerna till Nadaria, Ansale-Idon, Tarhai och bortom, men i dessa avlägsna områden föll den omsider i glömska när kontakterna med Mûhad försämrades.
 
-`Få in änglar, gåvooffer, annan info från Religionsmodulen`
+> Få in änglar, gåvooffer, annan info från Religionsmodulen
 
 ## MAMOLANISMEN
 
-`/Lyft fram hur mamolanismen sklijer sig från mer konstitutionella religioner tydligare)`
+> /Lyft fram hur mamolanismen sklijer sig från mer konstitutionella religioner tydligare)
 
 Mamolanismen är egentligen inte en religion så mycket som ett hopkok av schamanistiska föreställningar rotade i zhanernas fornreligion, med influenser av darkensk andetro. Hur den utövas varierar starkt från plats till plats, och dess enda egentligt definierande drag är den överhöghet som med tiden kommit att tillskrivas Ekhna’bit, modersgudinnan.
 
@@ -282,30 +282,30 @@ En hörnsten i zhanisk mystik är sökandet efter kunskap. I detta liknar tradit
 
 Zhanisk mystik:
 
-`   * Mystiskt fokus: personlig insikt, andeväsen och demoner, världar bortom Mundana `
-`   * nekromanti, likplundring`
-`   * elementarer, Places of Power, andebesvärjande`
-`   * förbjuden kunskap, gamla urkunder`
-`   * esoterisk alkemi, artefaktbyggande`
-`   * konflikt: Mhîm vs De gamla gudarna vs Sovarna, en hierarki av kraftkällor`
+- Mystiskt fokus: personlig insikt, andeväsen och demoner, världar bortom Mundana
+- nekromanti, likplundring
+- elementarer, Places of Power, andebesvärjande
+- förbjuden kunskap, gamla urkunder
+- esoterisk alkemi, artefaktbyggande
+- konflikt: Mhîm vs De gamla gudarna vs Sovarna, en hierarki av kraftkällor
 
 Edronitisk tradition:
 
-`   * Esoteriskt fokus: andeplanet, världens uppbyggnad`
-`   * Själskrafter, transcendens`
-`   * Kunskapssökande, vetenskaplig metod, empiri, observation`
-`   * Ritualer, ceremonier, schamanism; experiment`
-`   * Symbolmagi, kraftcirklar, kongelat`
-`   * Kraftkällor, magiströmmar, monoliter, högmagiska platser`
+- Esoteriskt fokus: andeplanet, världens uppbyggnad
+- Själskrafter, transcendens
+- Kunskapssökande, vetenskaplig metod, empiri, observation
+- Ritualer, ceremonier, schamanism; experiment
+- Symbolmagi, kraftcirklar, kongelat`
+- Kraftkällor, magiströmmar, monoliter, högmagiska platser
 
 Sungs lära:
 
-`   * Världsligt fokus; filosofiska frågor runt magis konsekvenser `
-`   * Extemporering, besvärjelser, ritualer; praktisk magi`
-`   * Magnituder, flöden, flätor, transformering; magis uppbyggnad`
-`   * Filosofi, kunskapssökande genom tillämpning och erfarenhet`
-`   * Ålderdomliga, skumma språk, symbolik, regelverk`
-`   * Avsaknad av hierarki, respekt för vishet och personliga framsteg`
+- Världsligt fokus; filosofiska frågor runt magis konsekvenser
+- Extemporering, besvärjelser, ritualer; praktisk magi
+- Magnituder, flöden, flätor, transformering; magis uppbyggnad
+- Filosofi, kunskapssökande genom tillämpning och erfarenhet
+- Ålderdomliga, skumma språk, symbolik, regelverk
+- Avsaknad av hierarki, respekt för vishet och personliga framsteg
 
 Demoner och andeväsen:
 

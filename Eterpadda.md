@@ -36,15 +36,18 @@ Eterpaddor är inte överdrivet intresserade av de jordbundna varelsernas föreh
 
 ## Eterpadda
 
--   **STY:** 24 \[4T6+10\] **SYN:** 20 \[1T6+16\]
--   **TÅL:** 20 \[4T6+6\] **HÖR:** 11 \[3T6\]
+-   **STY:** 24 \[4T6+10\]
+-   **TÅL:** 20 \[4T6+6\]
 -   **RÖR:** 11 \[3T6\]
 -   **PSY:** 11 \[3T6\]
--   **VIL:** 11 \[3T6\] **AGG:** 8 hotar (flyr)
+-   **VIL:** 11 \[3T6\]
+-   **SYN:** 20 \[1T6+16\]
+-   **HÖR:** 11 \[3T6\]
+-   **AGG:** 8 hotar (flyr)
 
 **Förflyttning:** 13 m/runda\*, Bärförmåga: 17 kg **Chockvärde:** ???, **Skadetålighet:** ??? rutor, **VINIT:** ???, **Insikt:** ???.
 
-''\*När Eterpaddan simmar i etern kan den nå tio gånger denna hastighet. Eterpaddan kan även ta jättelika hopp.
+\*När Eterpaddan simmar i etern kan den nå tio gånger denna hastighet. Eterpaddan kan även ta jättelika hopp.
 
 ## Anfallsmanövrer:
 

@@ -27,11 +27,9 @@ Iwa Ogon, 'Eldandarna' Gwando Beda Dambala Beda Ukaru
 
 Iwa Nibo, 'Dödsandarna' Qo-Shu Mbede Eba Uthunin
 
-`Haha Mete, anden som ledsagar själar till de dödas rike, när han av lättja inte gör sitt jobb uppstår vandöda och osaliga andar `
+Haha Mete, anden som ledsagar själar till de dödas rike när han av lättja inte gör sitt jobb uppstår vandöda och osaliga andar
 
-Sembrou, 'Havsväktarna'
-
-`och de skrifter som finns ses ofta primärt som ett verktyg för att mystiskt närma sig gud. Heliga skrifter inom denna tradition författas nästan alltid på `[`Orongohongo`]`, Arkipelagens uråldriga, komplexa teckenskrift, då denna anses bära mycket större spirituell kraft än enklare och mer moderna skrivsystem. `
+Sembrou, 'Havsväktarna' och de skrifter som finns ses ofta primärt som ett verktyg för att mystiskt närma sig gud. Heliga skrifter inom denna tradition författas nästan alltid på [Orongohongo], Arkipelagens uråldriga, komplexa teckenskrift, då denna anses bära mycket större spirituell kraft än enklare och mer moderna skrivsystem.
 
   [Sankt Zergavas]: Sankt_Zergavas
   [Mageus Himlakrönte]: Mageus_Himlakrönte
@@ -43,4 +41,4 @@ Sembrou, 'Havsväktarna'
   [Rada atalmu]: Rada_atalmu
   [Semwou]: Semwou
   [Haha Mete]: Haha_Mete
-  [`Orongohongo`]: Orongohongo
+  [Orongohongo]: Orongohongo

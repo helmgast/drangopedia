@@ -41,9 +41,7 @@ Ironiskt nog har Sungmagikern sedan länge känt till en grupp andar kallade "Ma
 -   **VIL:** 17 \[4T6+3\]
 -   **BIL:** 13 \[2T6+6\] **AGG:** 14 – Hotar (Observerar)
 
-<!-- -->
-
--   **Förflyttning:** 10 m/runda, **BF:** 14,5 kg **UK:** 10 rutor
+**Förflyttning:** 10 m/runda, **BF:** 14,5 kg **UK:** 10 rutor
 
 **Chockvärde:** 15, **Skadetålighet:** 6 rutor, **VINIT:** 9, **Insikt:** 11. **Qadosh**: 5
 
@@ -62,7 +60,7 @@ Vandöda humanoider.
 
 -   **Rustning:** Generellt: \[H0, K0, S0\]
 
-**Färdigheter:** Alstra ataxatropi\*\*\* 15, Alstra pyrotropi\*\*\* 15, Alstra daimotropi 10, Besvärjelse 15, Etikett 11, Förföra 11, Förhöra 10, Geografi 10, <Hantverk> 14, Historia 12, Krigsföring 10, Lagkunskap 10, Musik 14, Ockultism 14, Schamanism 11, Sjunga 11, Smyga 12, Stridsvana 12, Speja 10, Spådom 17 (Pyromanti), Spåra 10, Söka 10, Teoretisk magi 7, Transformering 12, Undvika 14, Överlevnad 13, Övertala 12
+**Färdigheter:** Alstra ataxatropi\*\*\* 15, Alstra pyrotropi\*\*\* 15, Alstra daimotropi 10, Besvärjelse 15, Etikett 11, Förföra 11, Förhöra 10, Geografi 10, \<Hantverk\> 14, Historia 12, Krigsföring 10, Lagkunskap 10, Musik 14, Ockultism 14, Schamanism 11, Sjunga 11, Smyga 12, Stridsvana 12, Speja 10, Spådom 17 (Pyromanti), Spåra 10, Söka 10, Teoretisk magi 7, Transformering 12, Undvika 14, Överlevnad 13, Övertala 12
 
 *\*\*\*Vestaler är naturligt magiska och alstrar ataxatropi och pyrotropi en nivå lättare (-Ob1T6). Svårigheten kan dock aldrig gå under mycket lätt (Ob1T6). De kan alstra pyro-, foto-, och termotropi ur sina egna kroppar utan svårighetsökning eller bieffekter.*
 

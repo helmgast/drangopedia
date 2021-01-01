@@ -25,15 +25,19 @@ Genom noggrann avel, magisk påverkan och intensiv uppfostran har Ikoko-mangwa b
 
 ## Ikoko-mangwa
 
--   **STY:** 22 \[5T6+5\] **SYN:** 10 \[3T6\]
--   **TÅL:** 22 \[5T6+5\] **HÖR:** 14 \[4T6\]
--   **RÖR:** 17 \[4T6+3\] **LUK:** 10 \[3T6\]
+-   **STY:** 22 \[5T6+5\]
+-   **TÅL:** 22 \[5T6+5\]
+-   **RÖR:** 17 \[4T6+3\]
 -   **PSY:** (12) \[3T6+2\]
--   **VIL:** 14 \[4T6\] **AGG:** 10 Söker kontakt (avvaktar)
+-   **VIL:** 14 \[4T6\]
+-   **SYN:** 10 \[3T6\]
+-   **HÖR:** 14 \[4T6\]
+-   **LUK:** 10 \[3T6\]
+-   **AGG:** 10 Söker kontakt (avvaktar)
 
 **Förflyttning:** 16 m/runda\*, Bärförmåga: 42 kg\* **Chockvärde:** 22, **Skadetålighet:** 8 rutor, **VINIT:** 12, **Insikt:** 9.
 
-''\*För fyrbenta varelser gäller att bärförmågan dubblas (i förhållande till tvåbenta varelser) och att Förflyttning beräknas som (RÖR+TÅL+10)/3.
+\*För fyrbenta varelser gäller att bärförmågan dubblas (i förhållande till tvåbenta varelser) och att Förflyttning beräknas som (RÖR+TÅL+10)/3.
 
 ## Anfallsmanövrer:
 

@@ -22,7 +22,7 @@ title: Ishana
 ---
 Ishana var en halvzhanisk kiriyaälva från Mûhad, med en sällsynt talang för vapenbruk. Född som slav blev hon i relativt unga år såld till [Amir Rukh], som emellertid såg hennes talanger och kom att använda henne som livvakt och lönnmördare - av allt att döma gjorde han sig relativt förtjänt av Ishanas lojalitet, dessutom.
 
-Efter Amir Rukhs död i [Drunok] blev Ishana frigiven, och välkomnad i [Nicoz Mehzinors] hushåll, där hon fick rikliga möjligheter att bevisa sin duglighet och sin godhet. Hon blev fort älskarinna och vapendragare åt [Valis Tarazcan], i en varm, somliga skulle säga <i>dekadent</i>, relation som med tiden blev allt djupare. Valis uttryckte omsider en önskan att gifta sig med Ishana och få barn med henne, i brott mot cirefalisk lag, men för Thizara hade Ishana antytt att preventivmedel hon tagit i Västlanden gjort henne mer eller mindre steril; om Valis visste om detta är inte klarlagt.
+Efter Amir Rukhs död i [Drunok] blev Ishana frigiven, och välkomnad i [Nicoz Mehzinors] hushåll, där hon fick rikliga möjligheter att bevisa sin duglighet och sin godhet. Hon blev fort älskarinna och vapendragare åt [Valis Tarazcan], i en varm, somliga skulle säga *dekadent*, relation som med tiden blev allt djupare. Valis uttryckte omsider en önskan att gifta sig med Ishana och få barn med henne, i brott mot cirefalisk lag, men för Thizara hade Ishana antytt att preventivmedel hon tagit i Västlanden gjort henne mer eller mindre steril; om Valis visste om detta är inte klarlagt.
 
 Ishana deltog också i [Svärdsspelen i Hadarlon] år 2975 e.D, där hon gjorde bra ifrån sig, men blev besegrad av [Szlien Szezior], den unge faliske ädling som omsider vann turneringen.
 

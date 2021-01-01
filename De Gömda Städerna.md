@@ -6,13 +6,8 @@ created_at: '2011-09-17T15:46:30Z'
 id: de gömda städerna
 title: De Gömda Städerna
 ---
-kända för sitt nomadiska liv
 
 En vanlig uppfattning är att kamorianerna helt saknar fasta bosättningar, en idé som på många sätt gynnar kamorianernas sak.
-
-`Kamorianernas gömda städer, viktiga som de är `
-
-Djupt i Kamors inland
 
 ## Dur'kagra
 

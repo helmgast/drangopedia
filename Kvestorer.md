@@ -21,17 +21,21 @@ title: Kvestorer
 
 ## Kvestor \[Rang 9\]
 
--   **STY:** 18 \[4T6+2\] **SYN:** 10 \[3T6\]
--   **TÅL:** 14 \[3T6+4\] **HÖR:** 10 \[3T6\]
--   **RÖR:** 10 \[3T6\] **LUK:** 10 \[3T6\]
--   **PER:** 12 \[3T6+2\] **AND:** 14 \[3T6+4\]
--   **PSY:** 20 \[4T6+4\] **MAG:** 10 \[3T6\]
+-   **STY:** 18 \[4T6+2\]
+-   **TÅL:** 14 \[3T6+4\]
+-   **RÖR:** 10 \[3T6\]
+-   **PER:** 12 \[3T6+2\]
+-   **PSY:** 20 \[4T6+4\]
 -   **VIL:** 24 \[6T6+2\]
--   **BIL:** 19 \[4T6+3\] **AGG:** 8 – Psykar (Observerar)
+-   **BIL:** 19 \[4T6+3\]
+-   **SYN:** 10 \[3T6\]
+-   **HÖR:** 10 \[3T6\]
+-   **LUK:** 10 \[3T6\]
+-   **AND:** 14 \[3T6+4\]
+-   **MAG:** 10 \[3T6\]
+-   **AGG:** 8 – Psykar (Observerar)
 
-<!-- -->
-
--   **Förflyttning:** 9 m/runda\*, **BF:** 18 kg **UK:** 10 rutor
+**Förflyttning:** 9 m/runda\*, **BF:** 18 kg **UK:** 10 rutor
 
 **Chockvärde:** 22, **Skadetålighet:** 7 rutor, **VINIT:** 11, **Insikt:** 11. **Qadosh**: 25
 

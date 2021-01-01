@@ -8,24 +8,36 @@ created_at: '2014-05-30T02:53:05Z'
 id: slaget om blå havet
 title: Slaget om Blå havet
 ---
-<table><tbody><tr class="odd"><td><p><strong>Tidpunkt:</strong> Sommaren <a href="Tidslinje">2080 e.M.</a><br />
-<strong>Plats:</strong> <a href="Blå_havet">Blå havet</a> utanför <a href="Quaran">Quaran</a><br />
-<strong>Utgång:</strong> Taktisk seger för Edron, strategisk seger för Ziu<br />
-<strong>Konsekvenser:</strong> Ziu undgår edronitisk invasion<br />
-Mûhads sjömakt omintetgörs<br />
-Edrons allians med <a href="Häxmästarnas_välde">Häxmästarna</a> upplöses<br />
-</p></td></tr><tr class="even"><td><p>                                       Stridande parter</p></td></tr><tr class="odd"><td><p><a href="Edronitiska_imperiet">Edronitiska imperiet</a></p></td></tr><tr class="even"><td><p>                                        Befälhavare</p></td></tr><tr class="odd"><td><p><a href="Kraden_Nanórgona_den_Grymme">Kraden Nanórgona den Grymme</a><br />
-<a href="Kraden_Shârmanassar">Kraden Shârmanassar</a><br />
-<a href="Ataemnes">Ataemnes</a>†<br />
-</p></td></tr><tr class="even"><td><p>                                            Styrkor</p></td></tr><tr class="odd"><td><p>3 <a href="Tessarakonter">tessarakonter</a><br />
-7 oktaremer<br />
-27 septiremer<br />
-~55 ihmarer<br />
-~530 mindre fartyg<br />
-</p></td></tr><tr class="even"><td><p>                                            Förluster</p></td></tr><tr class="odd"><td><p>2 tessarakonter, 5 oktaremer<br />
-3 septiremer, ~20 ihmarer<br />
-~100 fartyg<br />
-</p></td></tr></tbody></table>
+## Fakta
+- **Tidpunkt**: Sommaren [2080 e.M.]
+- **Plats**: [Blå havet] utanför [Quaran]
+- **Utgång**: Taktisk seger för Edron, strategisk seger för Ziu
+- **Konsekvenser**:
+  - Ziu undgår edronitisk invasion.
+  - Mûhads sjömakt omintetgörs
+  - Edrons allians med [Häxmästarna] upplöses
+
+## Stridande parter
+- [Edronitiska imperiet][Edrons]
+
+## Befälhavare
+- [Kraden Nanórgona den Grymme]
+- [Kraden Shârmanassar]
+- [Ataemnes]
+
+## Styrkor
+- 3 [tessarakonter]
+- 7 oktaremer
+- 27 septiremer
+- ~55 ihmarer
+- ~530 mindre fartyg
+
+## Förluster
+- 2 tessarakonter
+- 5 oktaremer
+- 3 septiremer
+- ~20 ihmarer
+- ~100 fartyg
 
 Slaget om Blå havet stod på dagen och natten den 12:e dagen i den 11:e månaden år 2080 e.M, och var det största sjöslaget i Mundanas skrivna historia, där två imperier vräkte sin fulla sjömakt mot varandra och förslösade resurser till en sådan grad att de aldrig helt kunde ersättas.
 
@@ -39,10 +51,13 @@ Nanórgonas misstag, har lärda senare resonerat, var två; han spenderade för 
 
 Zius kefaler, däremot, gjorde allting rätt, hela tiden medvetna om sitt underläge. De lade ut bråte, olja och vildeldsbehållare i vattnet för att försöka skapa en brinnande ridå mot Edrons flotta,, uppbådade varenda skepp de kunde från Zius hamnstäder, och skyndade att bygga flera, om så bara småbåtar. De, i synnerhet demagogen [Shur Shamal], jagade i folket upp en desperat rojalism, patriotism och heroism, och fick många frivilliga män att sälla sig till de dödsdömda båtbesättningarna. Likt Edrons amiraler tog man också beslutet att visa marinsoldaterna och besättningarna att man var beredd att ta samma risker som dem, och en av kefalerna, [Uthman III], tog på sig att leda flottan personligen. Albor ben Jevon upphöjdes till kefal, och förmäldes i en ståtlig ceremoni med prinsessan han hade räddat, till folkets jubel. Man kan dock misstänka att detta var en lömsk strategi i första hand, snarare än ett ärligt erkännande av hans meriter - Ziu-kefalerna hade inte låtit en lågättad uppkomling gifta sig med en helig prinsessa om de inte var tvungna, och placerade följaktligen den nu upphöjde Albor i en så farlig position som möjligt i flottan, i hopp om att han skulle dödas.
 
+  [2080 e.M.]: Tidslinje
   [Edrons]: Edron
+  [Blå havet]: Blå_havet
   [Sekhmets cirkel]: Sekhmets_cirkel
   [Gebashan Häxkonungen]: Gebashan_Häxkonungen
   [Kraden Nanórgona den Grymme]: Kraden_Nanórgona_den_Grymme
+  [Häxmästarna]: Häxmästarnas_välde
   [Ilzade]: Ilzade
   [Akûr Asheddum]: Akûr_Asheddum
   [Uthmar III]: Uthmar_III
@@ -52,6 +67,7 @@ Zius kefaler, däremot, gjorde allting rätt, hela tiden medvetna om sitt underl
   [Sahanas exempel]: Sahana_i-Yandar
   [Tessarakonter]: Tessarakonter
   [Kraden Shalmanassar]: Kraden_Shalmanassar
+  [Kraden_Shârmanassar]: Kraden_Shârmanassar
   [Ataemnes]: Ataemnes
   [Quaran]: Quaran
   [Shur Shamal]: Shur_Shamal

@@ -9,7 +9,7 @@ title: Khakras metamorfoser
 -   Författare: [Khakra]
 -   Språk: Thalaskiska (Thalaskisk skrift)
 -   Läsbarhet: Obegriplig (Ob6T6)
--   Förkunskaper: Alkemi, Alstra <aspekt>, Besvärjelse, Teoretisk Magi 14, Transformering 10
+-   Förkunskaper: Alkemi, Alstra \<aspekt\>, Besvärjelse, Teoretisk Magi 14, Transformering 10
 -   Kunskapsinnehåll: Teoretisk Magi 20 (Metamorfoser), Transformering 17
 -   Tillgänglighet: Mycket svåråtkomlig (Ob5T6)
 

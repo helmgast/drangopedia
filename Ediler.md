@@ -21,17 +21,20 @@ title: Ediler
 
 ## Edil \[Rang 10\]
 
--   **STY:** 22 \[6T6\] **SYN:** 16 \[3T6+6\]
--   **TÅL:** 14 \[3T6+3\] **HÖR:** 10 \[3T6\]
--   **RÖR:** 13 \[2T6+6\] **AND:** 16 \[3T6+6\]
--   **PER:** 16 \[3T6+6\] **MAG:** 14 \[3T6+3\]
+-   **STY:** 22 \[6T6\]
+-   **TÅL:** 14 \[3T6+3\]
+-   **RÖR:** 13 \[2T6+6\]
+-   **PER:** 16 \[3T6+6\]
 -   **PSY:** 16 \[3T6+6\]
 -   **VIL:** 22 \[6T6\]
--   **BIL:** 16 \[3T6+6\] **AGG:** 12 – Hotar (Observerar)
+-   **BIL:** 16 \[3T6+6\]
+-   **SYN:** 16 \[3T6+6\]
+-   **HÖR:** 10 \[3T6\]
+-   **AND:** 16 \[3T6+6\]
+-   **MAG:** 14 \[3T6+3\]
+-   **AGG:** 12 – Hotar (Observerar)
 
-<!-- -->
-
--   **Förflyttning:** 9 m/runda\*, **BF:** 18 kg **UK:** 10 rutor
+**Förflyttning:** 9 m/runda\*, **BF:** 18 kg **UK:** 10 rutor
 
 **Chockvärde:** 22, **Skadetålighet:** 7 rutor, **VINIT:** 11, **Insikt:** 11. **Qadosh**: 25
 
