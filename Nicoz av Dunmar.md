@@ -84,29 +84,47 @@ Se även .
 -   Fyra mystiska kristallskallar
 -   En väldigt stor ädelsten
 
-<table><thead><tr class="header"><th><p>Statblock</p></th></tr></thead><tbody><tr class="odd"><td><p><strong>STY:</strong> 16<br />
-<strong>TÅL:</strong> 15<br />
-<strong>RÖR:</strong> 19<br />
-<strong>PER:</strong> 15<br />
-<strong>PSY:</strong> 18<br />
-<strong>VIL:</strong> 14<br />
-<strong>BIL:</strong> 14<br />
-<strong>SYN:</strong> 12<br />
-<strong>HÖR:</strong> 10<br />
-<strong>Lojalitet:</strong> 16<br />
-<strong>Heder:</strong> 11<br />
-<strong>Amor:</strong> 16<br />
-<strong>Aggression:</strong> 15 (Hämndlysten)<br />
-<strong>Tro:</strong> 14<br />
-<strong>Generositet:</strong> 15<br />
-<strong>Rykte:</strong> 20 (Kragg, Drunok)<br />
-<strong>Tur:</strong> 18<br />
-<strong>Längd:</strong> 195 cm <strong>Vikt:</strong> 95 kg<br />
-<strong>Kroppsbyggnad:</strong> Kraftig <strong>Huvudhand:</strong> Ambidexteriös</p><p><strong>VINIT:</strong> 15 <strong>Insikt:</strong> 14 <strong>Förflyttning:</strong> 11/22/33 <strong>STY+TÅL/2:</strong> 15<br />
-<strong>Grundskada:</strong> H:Ob2T6, K:Ob1T6+3, S:Ob2T6<br />
-<strong>Chockvärde:</strong> 18 <strong>Skadetålighet:</strong> 7, <strong>UK:</strong> 7</p><p><strong>Färdigheter:</strong> Akrobatik 14, Berättarkonst 11, Dansa 14, Djurträning 6 (Hästar), Etikett 13, Fingerfärdighet 10, Förföra 12 (Drakväktare), Förhöra 11 (Hot), Gyckla 12 (med vapen), Gömma 13, Heraldik 9, Historia 5 (Krigshistoria), Hoppa 14, Jakt 5, Kasta 11, Kirurgi 12, Klättra 13, Krigföring 15, Kulturkännedom 6 (Mûhad), Lagkunskap 6 (Drunok), Ledarskap 17, Läkekonst 12, Marsch 16, Matlagning 10 (Vildmark), Ockultism 11, Rida 19 (Långritt, Strid), Räkning 6, Simma 11, Sjömanskap 6, Skådespel 12, Smyga 16, Speja 13, Spåra 13, Supa 13, Söka 10, Undervisning 16 (Barnuppfostran), Överlevnad 11, Övertala 15</p><p><strong>Språkfärdigheter:</strong> Faliska 18, Ashariska 15, Lägre Jargiska 13, Felya Sanari 9, Mûhadinska 7, Falisk skrift 15, Jargisk skrift 14</p><p><strong>Magifärdigheter:</strong> Alstra Ataxatropi 10 (Sann Ataxatropi), Besvärjelse 10 (Sann Ataxatropi), Teoretisk Magi 5, Magiförnimmelse 7</p><p><strong>Stridsfärdigheter:</strong> Armborst 16, Båge 12 (Serinebåge), Dolk 17, Lans 11, <a href="Nicoz_Svärdskonst">Nicoz Svärdskonst</a> 24, Sköld 17, Slagsmål 19, Spjut 10, Stridsvana 20, Svärd 22 (Kraggsvärd), Undvika 19, Yxa 16</p><p><strong>Speciella egenskaper:</strong> Packåsna, Skugglandsblod, Seglivad, Häxmärke, Självlärd (svärdskonst)</p><h3 id="stridskonster">Stridskonster</h3><p><strong>Stridskonst:</strong> Nicoz Svärdsskonst<br />
-<strong>Moment:</strong> Stridssvärd, Raka dolkar, Kortsvärd, Storsvärd, Sköldar<br />
-<strong>Tekniker:</strong> Avancerat anfall: hugg och stick, Dödande Anfall, Medföljning, Momentspecialisering: Slagsvärd och Kortsvärd, Precisionsanfall: Närstrid, Rappt utfall, Ridteknik, Snabbdragning, Utspel, Utmanövrering, Två vapen: Lång-Kort och Vapen-Sköld, Kasta vapen</p></td></tr></tbody></table>
+## Statblock
+
+ - **STY:** 16
+ - **TÅL:** 15
+ - **RÖR:** 19
+ - **PER:** 15
+ - **PSY:** 18
+ - **VIL:** 14
+ - **BIL:** 14
+ - **SYN:** 12
+ - **HÖR:** 10
+ - **Lojalitet:** 16
+ - **Heder:** 11
+ - **Amor:** 16
+ - **Aggression:** 15 (Hämndlysten)
+ - **Tro:** 14
+ - **Generositet:** 15
+ - **Rykte:** 20 (Kragg, Drunok)
+ - **Tur:** 18
+ - **Längd:** 195 cm **Vikt:** 95 kg
+ - **Kroppsbyggnad:** Kraftig **Huvudhand:** Ambidexteriös
+
+ - **VINIT:** 15 **Insikt:** 14 **Förflyttning:** 11/22/33 **STY+TÅL/2:** 15
+ - **Grundskada:** H:Ob2T6, K:Ob1T6+3, S:Ob2T6
+ - **Chockvärde:** 18 **Skadetålighet:** 7, **UK:** 7
+
+ - **Färdigheter:** Akrobatik 14, Berättarkonst 11, Dansa 14, Djurträning 6 (Hästar), Etikett 13, Fingerfärdighet 10, Förföra 12 (Drakväktare), Förhöra 11 (Hot), Gyckla 12 (med vapen), Gömma 13, Heraldik 9, Historia 5 (Krigshistoria), Hoppa 14, Jakt 5, Kasta 11, Kirurgi 12, Klättra 13, Krigföring 15, Kulturkännedom 6 (Mûhad), Lagkunskap 6 (Drunok), Ledarskap 17, Läkekonst 12, Marsch 16, Matlagning 10 (Vildmark), Ockultism 11, Rida 19 (Långritt, Strid), Räkning 6, Simma 11, Sjömanskap 6, Skådespel 12, Smyga 16, Speja 13, Spåra 13, Supa 13, Söka 10, Undervisning 16 (Barnuppfostran), Överlevnad 11, Övertala 15
+
+ - **Språkfärdigheter:** Faliska 18, Ashariska 15, Lägre Jargiska 13, Felya Sanari 9, Mûhadinska 7, Falisk skrift 15, Jargisk skrift 14
+
+ - **Magifärdigheter:** Alstra Ataxatropi 10 (Sann Ataxatropi), Besvärjelse 10 (Sann Ataxatropi), Teoretisk Magi 5, Magiförnimmelse 7
+
+ - **Stridsfärdigheter:** Armborst 16, Båge 12 (Serinebåge), Dolk 17, Lans 11, [Nicoz Svärdskonst] 24, Sköld 17, Slagsmål 19, Spjut 10, Stridsvana 20, Svärd 22 (Kraggsvärd), Undvika 19, Yxa 16
+
+ - **Speciella egenskaper:** Packåsna, Skugglandsblod, Seglivad, Häxmärke, Självlärd (svärdskonst)
+
+ - ### Stridskonster
+
+ - **Stridskonst:** Nicoz Svärdsskonst
+ - **Moment:** Stridssvärd, Raka dolkar, Kortsvärd, Storsvärd, Sköldar
+ - **Tekniker:** Avancerat anfall: hugg och stick, Dödande Anfall, Medföljning, Momentspecialisering: Slagsvärd och Kortsvärd, Precisionsanfall: Närstrid, Rappt utfall, Ridteknik, Snabbdragning, Utspel, Utmanövrering, Två vapen: Lång-Kort och Vapen-Sköld, Kasta vapen
 
   [Jhamalo Gedonia]: Jhamalo_Gedonia
   [L'wethme]: Lwethme
@@ -136,3 +154,4 @@ Se även .
   [Serinebåge]: Nicoz_båge
   [Rustning]: Nicoz_Rustning
   [Herr Henryk]: Herr_Henryk
+  [Nicoz Svärdskonst]: Nicoz_Svärdskonst

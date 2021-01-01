@@ -23,31 +23,55 @@ Första Snön kunde dock inte glömma eller förlåta vad Galathorns gäng gjort
 
 Första Snön är liten och späd, med brunt, rakt hår som oftast hålls uppsatt i en hästsvans. Ett stort, groteskt brännärr på kinden och ett halvt öra skvallrar om tortyren hon en gång utsattes för, men tiden hos Vargtass har lärt henne att bära dessa märken utan skam. Hon är energisk, hängiven, stolt och envis som få, och inte längre benägen att förfalla till vemod och uppgivenhet. Smärtan brinner fortfarande i hennes inre, men hon har lärt sig att behärska den. Bland människor går hon fullt påklädd, men envisas med att fortfarande bruka krigsmålning när hon verkligen gör sig redo att döda. Hon bär bågen [Li'an'tora], byggd av mästaren [Eriol] särskilt åt henne, svärdet [Eithen ta'shari] samt ett ännu odöpt kortsvärd, men om hon absolut måste slåss i närstrid föredrar hon att dra sin stora morchan-kniv. Första Snön är en bågskytt och stigfinnare utan många likar, och för detta är hon trots sin ringa storlek högt respekterad i Drunoks armé, och kan mycket väl bli en mäktig drakväktare i framtida eror.
 
-<table><thead><tr class="header"><th><p>Statblock</p></th></tr></thead><tbody><tr class="odd"><td><p><strong>STY:</strong> 7<br />
-<strong>TÅL:</strong> 13<br />
-<strong>RÖR:</strong> 21<br />
-<strong>PER:</strong> 13<br />
-<strong>PSY:</strong> 16<br />
-<strong>VIL:</strong> 17<br />
-<strong>BIL:</strong> 10<br />
-<strong>SYN:</strong> 14<br />
-<strong>HÖR:</strong> 17<br />
-<strong>Lojalitet:</strong> 16 (Vargstammen, Vänner, Verduhrakh)<br />
-<strong>Heder:</strong> 11<br />
-<strong>Amor:</strong> 13 (Nicoz, Hökvinge)<br />
-<strong>Aggression:</strong> 14<br />
-<strong>Tro:</strong> 16 (Rani)<br />
-<strong>Generositet:</strong> 14<br />
-<strong>Rykte:</strong> 15 (Drakväktare, god skytt)<br />
-<strong>Tur:</strong> 8<br />
-<strong>Resurser:</strong> 8 (Verduhrakh)</p><p><strong>Längd:</strong> 127 cm <strong>Vikt:</strong> 26 kg<br />
-<strong>Kroppsbyggnad:</strong> Spenslig (Svag) <strong>Huvudhand:</strong> Höger</p><p><strong>VINIT:</strong> 13 <strong>Insikt:</strong> 11 <strong>Förflyttning:</strong> 9/18/27 <strong>STY+TÅL/2:</strong> 9,5<br />
-<strong>Grundskada:</strong> H:Ob1T6+2, K:Ob1T6-2, S:Ob1T6+2<br />
-<strong>Chockvärde:</strong> 15 (+3) <strong>Skadetålighet:</strong> 5 (Smärta: 6) <strong>UK:</strong> 7</p><p><strong>Qadosh:</strong> -1</p><p><strong>Färdigheter:</strong> Akrobatik 12, Djurlära 11, Djurträning 8, Fingerfärdighet 12, Fiske 8, Geografi 10 (Södra Sunari, Kamor), Gömma 13 (Skog), Jakt 13, Hoppa 11, Klättra 15, Ledarskap 8, Marsch 14, Ockultism 9 (Schamanism), Piltillverkning 11, Rida 10, Simma 12, Smyga 17 (Skog), Speja 14, Spåra 16, Söka 9, Väderkännedom 9, Växtlära 11, Överlevnad 16 (Skog), Övertala 13 (Empati)</p><p><strong>Språkfärdigheter:</strong> Felya Nari 16, Felya Sanari 11, Ashariska 10, Sabriska 10, Teckenspråk 10</p><p><strong>Stridsfärdigheter:</strong> Båge 14, Dolk 13, Ovadi'an Geal If 18, Slagsmål 14, Stridsvana 15, Su'nai Geal If 12, Svärd 11, Undvika 14 (Ducka)</p><p><strong>Speciella egenskaper:</strong> Empatisk, Liten (-1 i Förflyttning), Söt, Vaksam, Smidig, Smärttålig, Vanställt ansikte, Drakväktare</p><p><strong>Särskild utrustning:</strong> Li'an'tora, modifierad Noloinbåge. (5-25-75-150, Ob4T6-1, Ob3T6, Ob2T6+1, Ob2T6-1, STYK 7, BRYT 4, 95 cm, 0,9 kg). Pilar med obsidianspets, +2 i stickskada.</p><h2 id="stridskonster">Stridskonster</h2><p><strong>Stridskonst:</strong> Ovadi'an Geal If<br />
-<strong>Moment:</strong> Kortbågar<br />
-<strong>Tekniker:</strong> Balans, Momentspecialisering: Noloin, Målpunkter, Precisionsanfall: avstånd, Snabbdragning, Snabbskytte: båge, Uppresning, Vapenaffinitet: Li'an tora</p><p><strong>Stridskonst:</strong> Su'nai Geal If<br />
-<strong>Moment:</strong> Kortsvärd, Stridssvärd<br />
-<strong>Tekniker:</strong> Rappt Utfall, Ripost, Två vapen (lång-lång)</p></td></tr></tbody></table>
+## Statblock
+
+ - **STY:** 7
+ - **TÅL:** 13
+ - **RÖR:** 21
+ - **PER:** 13
+ - **PSY:** 16
+ - **VIL:** 17
+ - **BIL:** 10
+ - **SYN:** 14
+ - **HÖR:** 17
+ - **Lojalitet:** 16 (Vargstammen, Vänner, Verduhrakh)
+ - **Heder:** 11
+ - **Amor:** 13 (Nicoz, Hökvinge)
+ - **Aggression:** 14
+ - **Tro:** 16 (Rani)
+ - **Generositet:** 14
+ - **Rykte:** 15 (Drakväktare, god skytt)
+ - **Tur:** 8
+ - **Resurser:** 8 (Verduhrakh)
+
+ - **Längd:** 127 cm **Vikt:** 26 kg
+ - **Kroppsbyggnad:** Spenslig (Svag) **Huvudhand:** Höger
+
+ - **VINIT:** 13 **Insikt:** 11 **Förflyttning:** 9/18/27 **STY+TÅL/2:** 9,5
+ - **Grundskada:** H:Ob1T6+2, K:Ob1T6-2, S:Ob1T6+2
+ - **Chockvärde:** 15 (+3) **Skadetålighet:** 5 (Smärta: 6) **UK:** 7
+
+ - **Qadosh:** -1
+
+ - **Färdigheter:** Akrobatik 12, Djurlära 11, Djurträning 8, Fingerfärdighet 12, Fiske 8, Geografi 10 (Södra Sunari, Kamor), Gömma 13 (Skog), Jakt 13, Hoppa 11, Klättra 15, Ledarskap 8, Marsch 14, Ockultism 9 (Schamanism), Piltillverkning 11, Rida 10, Simma 12, Smyga 17 (Skog), Speja 14, Spåra 16, Söka 9, Väderkännedom 9, Växtlära 11, Överlevnad 16 (Skog), Övertala 13 (Empati)
+
+ - **Språkfärdigheter:** Felya Nari 16, Felya Sanari 11, Ashariska 10, Sabriska 10, Teckenspråk 10
+
+ - **Stridsfärdigheter:** Båge 14, Dolk 13, Ovadi'an Geal If 18, Slagsmål 14, Stridsvana 15, Su'nai Geal If 12, Svärd 11, Undvika 14 (Ducka)
+
+ - **Speciella egenskaper:** Empatisk, Liten (-1 i Förflyttning), Söt, Vaksam, Smidig, Smärttålig, Vanställt ansikte, Drakväktare
+
+ - **Särskild utrustning:** Li'an'tora, modifierad Noloinbåge. (5-25-75-150, Ob4T6-1, Ob3T6, Ob2T6+1, Ob2T6-1, STYK 7, BRYT 4, 95 cm, 0,9 kg). Pilar med obsidianspets, +2 i stickskada.
+
+### Stridskonster
+
+ - **Stridskonst:** Ovadi'an Geal If
+ - **Moment:** Kortbågar
+ - **Tekniker:** Balans, Momentspecialisering: Noloin, Målpunkter, Precisionsanfall: avstånd, Snabbdragning, Snabbskytte: båge, Uppresning, Vapenaffinitet: Li'an tora
+
+ - **Stridskonst:** Su'nai Geal If
+ - **Moment:** Kortsvärd, Stridssvärd
+ - **Tekniker:** Rappt Utfall, Ripost, Två vapen (lång-lång)
 
   [Galathorn vhic Tani'yena]: Galathorn_vhic_Taniyena
   [Tenavron Cevarin fin Vathae]: Tenavron_Cevarin_fin_Vathae

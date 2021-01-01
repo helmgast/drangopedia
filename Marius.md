@@ -17,29 +17,47 @@ Marius föddes som femte son till en fattig jargisk bonde med för många barn o
 
 Marius belönades nyligen med riddarslaget.
 
-<table><thead><tr class="header"><th><p>Statblock (Våren 5021 f.t.)</p></th></tr></thead><tbody><tr class="odd"><td><p><strong>STY:</strong> 12 (-1)<br />
-<strong>TÅL:</strong> 13 (-1)<br />
-<strong>RÖR:</strong> 13<br />
-<strong>PER:</strong> 12 (-1)<br />
-<strong>PSY:</strong> 12 (-1)<br />
-<strong>VIL:</strong> 14 (-1)<br />
-<strong>BIL:</strong> 8 (-1)<br />
-<strong>SYN:</strong> 13<br />
-<strong>HÖR:</strong> 11<br />
-<strong>Lojalitet:</strong> 12 (Nicoz)<br />
-<strong>Heder:</strong> 11<br />
-<strong>Amor:</strong> 15 (Mianni)<br />
-<strong>Aggression:</strong> 11<br />
-<strong>Tro:</strong> 13 (Daak)<br />
-<strong>Generositet:</strong> 9<br />
-<strong>Rykte:</strong> 7 (Nicoz väpnare)<br />
-<strong>Tur:</strong> 12<br />
-<strong>Resurser:</strong> -</p><p><strong>Längd:</strong> 181 cm (-5 cm) <strong>Vikt:</strong> 72 (-6 kg) kg<br />
-<strong>Kroppsbyggnad:</strong> Normal <strong>Huvudhand:</strong> Vänster</p><p><strong>VINIT:</strong> 8 <strong>Insikt:</strong> 7 <strong>Förflyttning:</strong> 9/18/27 <strong>STY+TÅL/2:</strong> 12<br />
-<strong>Grundskada:</strong> H:Ob1T6+1, K:Ob1T6+1, S:Ob1T6+1<br />
-<strong>Chockvärde:</strong> 15 (+2) <strong>Skadetålighet:</strong> 6 <strong>UK:</strong> 6</p><p><strong>Färdigheter:</strong> Berättarkonst 7, Boskapsskötsel 10, Dansa 7, Djurlära 10, Djurträning 9, Etikett 8, Fingerfärdighet 10, Förföra 6, Hoppa 9, Kasta 9, Klättra 10, Krigsföring 9, Ledarskap 9, Marsch 11, Rida 15, Räkning 9, Skådespel 7, Smyga 10, Speja 10, Spåra 11, Supa 9, Överlevnad 11, Övertala 10</p><p><strong>Språkfärdigheter:</strong> Lägre Jargiska 12, Läsa/skriva jargisk skrift 10</p><p><strong>Stridsfärdigheter:</strong> Båge 12, Dolk 12, Lans 9, Nicoz svärdskonst 14, Sköld 12, Slagsmål 13, Stridsvana 10, Svärd 13, Undvika 13</p><p><strong>Speciella egenskaper:</strong> Mentor (Krigare), Hästarnas vän, Viljestark, Seglivad, Läkekött, Vildmarksliv</p><h2 id="stridskonster">Stridskonster</h2><p><strong>Stridskonst:</strong> Nicoz svärdskonst<br />
-<strong>Moment:</strong> Stridssvärd, Sköldar<br />
-<strong>Tekniker:</strong> Momentspecialisering: Långsvärd, Rappt utfall, Avancerat anfall: hugg, Tränat anfall: stick, Två vapen: lång-kort, vapen-sköld, Utmanövrering, Utspel</p></td></tr></tbody></table>
+## Statblock (Våren 5021 f.t.)
+
+ - **STY:** 12 (-1)
+ - **TÅL:** 13 (-1)
+ - **RÖR:** 13
+ - **PER:** 12 (-1)
+ - **PSY:** 12 (-1)
+ - **VIL:** 14 (-1)
+ - **BIL:** 8 (-1)
+ - **SYN:** 13
+ - **HÖR:** 11
+ - **Lojalitet:** 12 (Nicoz)
+ - **Heder:** 11
+ - **Amor:** 15 (Mianni)
+ - **Aggression:** 11
+ - **Tro:** 13 (Daak)
+ - **Generositet:** 9
+ - **Rykte:** 7 (Nicoz väpnare)
+ - **Tur:** 12
+ - **Resurser:** -
+
+ - **Längd:** 181 cm (-5 cm) **Vikt:** 72 (-6 kg) kg
+ - **Kroppsbyggnad:** Normal **Huvudhand:** Vänster
+
+ - **VINIT:** 8 **Insikt:** 7 **Förflyttning:** 9/18/27 **STY+TÅL/2:** 12
+ - **Grundskada:** H:Ob1T6+1, K:Ob1T6+1, S:Ob1T6+1
+ - **Chockvärde:** 15 (+2) **Skadetålighet:** 6 **UK:** 6
+
+ - **Färdigheter:** Berättarkonst 7, Boskapsskötsel 10, Dansa 7, Djurlära 10, Djurträning 9, Etikett 8, Fingerfärdighet 10, Förföra 6, Hoppa 9, Kasta 9, Klättra 10, Krigsföring 9, Ledarskap 9, Marsch 11, Rida 15, Räkning 9, Skådespel 7, Smyga 10, Speja 10, Spåra 11, Supa 9, Överlevnad 11, Övertala 10
+
+ - **Språkfärdigheter:** Lägre Jargiska 12, Läsa/skriva jargisk skrift 10
+
+ - **Stridsfärdigheter:** Båge 12, Dolk 12, Lans 9, Nicoz svärdskonst 14, Sköld 12, Slagsmål 13, Stridsvana 10, Svärd 13, Undvika 13
+
+ - **Speciella egenskaper:** Mentor (Krigare), Hästarnas vän, Viljestark, Seglivad, Läkekött, Vildmarksliv
+
+### Stridskonster
+
+ - **Stridskonst:** Nicoz svärdskonst
+ - **Moment:** Stridssvärd, Sköldar
+ - **Tekniker:** Momentspecialisering: Långsvärd, Rappt utfall, Avancerat anfall: hugg, Tränat anfall: stick, Två vapen: lång-kort, vapen-sköld, Utmanövrering, Utspel
 
   [Sir Marius personliga vapen]: Sir_Marius.jpg "Sir Marius personliga vapen"
   [Nicoz]: Nicoz

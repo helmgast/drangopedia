@@ -30,32 +30,52 @@ Valis är lång, bredaxlad och storvuxen, som cirefalier ofta är, men med en ga
 
 *Född 2950 e.D/4995 F.t/1495 S.t. i Jhamalo Gedonia*
 
-<table><thead><tr class="header"><th><p>Statblock (Våren 2976 e.D.)</p></th></tr></thead><tbody><tr class="odd"><td><p><strong>STY:</strong> 12<br />
-<strong>TÅL:</strong> 14<br />
-<strong>RÖR:</strong> 17<br />
-<strong>PER:</strong> 16<br />
-<strong>PSY:</strong> 15<br />
-<strong>VIL:</strong> 15<br />
-<strong>BIL:</strong> 14<br />
-<strong>SYN:</strong> 11<br />
-<strong>HÖR:</strong> 7<br />
-<strong>Lojalitet:</strong> 14 (Nicoz, Ishana)<br />
-<strong>Heder:</strong> 8<br />
-<strong>Amor:</strong> 16 (Flirtig, Ishana)<br />
-<strong>Aggression:</strong> 11 (Lugn)<br />
-<strong>Tro:</strong> 6<br />
-<strong>Generositet:</strong> 15<br />
-<strong>Rykte:</strong> 17 (Drakdräpare, Förslagen ädling)<br />
-<strong>Tur:</strong> 17<br />
-<strong>Resurser:</strong> 13 (Kontakter)<br />
-<strong>Längd:</strong> 188 cm <strong>Vikt:</strong> 81 kg<br />
-<strong>Kroppsbyggnad:</strong> Senig (Normal) <strong>Huvudhand:</strong> Höger</p><p><strong>VINIT:</strong> 11 <strong>Insikt:</strong> 9 <strong>Förflyttning:</strong> 10/20/30 <strong>STY+TÅL/2:</strong> 13<br />
-<strong>Grundskada:</strong> H:Ob1T6+2, K:Ob1T6+1, S:Ob1T6+2<br />
-<strong>Chockvärde:</strong> 16 (+3) <strong>Skadetålighet:</strong> 6, <strong>UK:</strong> 7</p><p><strong>Färdigheter:</strong> Dansa 13, Diplomati 9, Etikett 13, Fingerfärdighet 14, Förföra 17 (Ragga), Förklädnad 11, Heraldik 12 (Cirefalisk), Hoppa 11, Kasta 13, Klättra 14 (Fasader), Kulturkännedom 8 (Léaram, Mûhad), Ledarskap 12, Låsdyrkning 7, Marsch 10, Musik (Luta) 13, Simma 10, Sjunga 12, Skumraskaffärer 15 (Kontakter), Skådespel 11, Smyga 13, Speja 12 (Brudar), Spel &amp; Dobbel 14 (Fuska), Supa 16, Söka 12, Rida 11, Undervisning 10, Värdera 10, Övertala 16 (Bluffa)</p><p><strong>Språkfärdigheter:</strong> Ashariska 14 (Jargiska), Faliska 15, Mûhadinska 7, Falisk skrift 15, Jargisk skrift 10</p><p><strong>Stridsfärdigheter:</strong> Dolk 15, Hus Tarazcans Fäktteknik 17, Dwyrryd Coleys Fäktteknik 18, Slagsmål 14, Stridsvana 15, Svärd 14, Undvika 16</p><p><strong>Speciella egenskaper:</strong> Vacker, Nattseende, Kvicktänkt</p><p><strong>Särskild utrustning:</strong> Två cinneach-svärd (H:Ob5T6+3 S:3T6 SI 16/17), oförbätterligt okynne.</p><h2 id="stridskonster">Stridskonster</h2><p><strong>Stridskonst:</strong> Hus Tarazcans fäktteknik<br />
-<strong>Moment:</strong> Stridssvärd<br />
-<strong>Tekniker:</strong> Avancerat anfall: hugg, Avancerat anfall: stick, Momentspecialisering: Celancald, Rappt utfall, Ripost, Snabbdragning, Utspel, Uppföljning.</p><p><strong>Stridskonst:</strong> Dwyrydd Coleys fäktteknik<br />
-<strong>Moment:</strong> Sablar<br />
-<strong>Tekniker:</strong> Avancerat anfall: hugg, Balans, Djärvhet, Hoppteknik, Momentspecialisering: Cinneach, Rappt utfall, Snabbdragning, Stridsvråla, Tränat anfall: Stick, Två vapen: lång-lång, Uppföljning, Utmanövrering.</p></td></tr></tbody></table>
+## Statblock (Våren 2976 e.D.)
+
+ - **STY:** 12
+ - **TÅL:** 14
+ - **RÖR:** 17
+ - **PER:** 16
+ - **PSY:** 15
+ - **VIL:** 15
+ - **BIL:** 14
+ - **SYN:** 11
+ - **HÖR:** 7
+ - **Lojalitet:** 14 (Nicoz, Ishana)
+ - **Heder:** 8
+ - **Amor:** 16 (Flirtig, Ishana)
+ - **Aggression:** 11 (Lugn)
+ - **Tro:** 6
+- **Generositet:** 15
+ - **Rykte:** 17 (Drakdräpare, Förslagen ädling)
+ - **Tur:** 17
+ - **Resurser:** 13 (Kontakter)
+ - **Längd:** 188 cm **Vikt:** 81 kg
+ - **Kroppsbyggnad:** Senig (Normal) **Huvudhand:** Höger
+
+ - **VINIT:** 11 **Insikt:** 9 **Förflyttning:** 10/20/30 **STY+TÅL/2:** 13
+ - **Grundskada:** H:Ob1T6+2, K:Ob1T6+1, S:Ob1T6+2
+ - **Chockvärde:** 16 (+3) **Skadetålighet:** 6, **UK:** 7
+
+ - **Färdigheter:** Dansa 13, Diplomati 9, Etikett 13, Fingerfärdighet 14, Förföra 17 (Ragga), Förklädnad 11, Heraldik 12 (Cirefalisk), Hoppa 11, Kasta 13, Klättra 14 (Fasader), Kulturkännedom 8 (Léaram, Mûhad), Ledarskap 12, Låsdyrkning 7, Marsch 10, Musik (Luta) 13, Simma 10, Sjunga 12, Skumraskaffärer 15 (Kontakter), Skådespel 11, Smyga 13, Speja 12 (Brudar), Spel & Dobbel 14 (Fuska), Supa 16, Söka 12, Rida 11, Undervisning 10, Värdera 10, Övertala 16 (Bluffa)
+
+ - **Språkfärdigheter:** Ashariska 14 (Jargiska), Faliska 15, Mûhadinska 7, Falisk skrift 15, Jargisk skrift 10
+
+ - **Stridsfärdigheter:** Dolk 15, Hus Tarazcans Fäktteknik 17, Dwyrryd Coleys Fäktteknik 18, Slagsmål 14, Stridsvana 15, Svärd 14, Undvika 16
+
+ - **Speciella egenskaper:** Vacker, Nattseende, Kvicktänkt
+
+ - **Särskild utrustning:** Två cinneach-svärd (H:Ob5T6+3 S:3T6 SI 16/17), oförbätterligt okynne.
+
+### Stridskonster
+
+ - **Stridskonst:** Hus Tarazcans fäktteknik
+ - **Moment:** Stridssvärd
+ - **Tekniker:** Avancerat anfall: hugg, Avancerat anfall: stick, Momentspecialisering: Celancald, Rappt utfall, Ripost, Snabbdragning, Utspel, Uppföljning.
+
+ - **Stridskonst:** Dwyrydd Coleys fäktteknik
+ - **Moment:** Sablar
+ - **Tekniker:** Avancerat anfall: hugg, Balans, Djärvhet, Hoppteknik, Momentspecialisering: Cinneach, Rappt utfall, Snabbdragning, Stridsvråla, Tränat anfall: Stick, Två vapen: lång-lång, Uppföljning, Utmanövrering.
 
   [Sir Valis personliga vapen]: Sir_Valis.jpg "Sir Valis personliga vapen"
   [Nicoz Mehzinors]: Nicoz_Mehzinor
